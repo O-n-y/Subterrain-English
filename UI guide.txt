@@ -1,0 +1,93 @@
+<1> Default keyboard and mouse setting. The default settings can be customized in the options menu.
+
+<2> Default game pad controller setting.
+
+<3> Tactical panel shows the overall equipment status. These slots are seperate from the backpack inventory. West can equip some usable items in his quick slots. The number of quick slots is dependent on what suit he is wearing. West can equip up to 3 different weapons in his main and sub weapon slots, swapping quickly during the heat of combat. Weapon slots have a red gauge bar representing heat buildup. West will drop his weapon if it gets too hot. His suit has limited durability. The three slots above the suit are for power pack, oxygen and temperature canister.
+
+<4> West's body condition is very important as it determines how well he will survive in the game. Try to keep up with his needs and watch his contamination level. Physical activities such as sprint, melee attack, and temperature can affect his thirst and hunger needs. Floating red cells represents contamination level and overall body condition is represented by the background color. High contamination and bad body condition can affect the natural healing process and eventually lead West to a slow death.
+
+<5> Environment panel contains important information such as the current temperature and oxygen level of West's surroundings. These can affect his survival needs so watch out for abnormal levels.
+
+<6> Light sticks last forever but other light source items such as flashlights need a recharged power pack. West will turn the light off during sleeping and traveling by Tube.
+
+<7> West can perform a short ranged scan for nearby interactable objects. It will highlight any containers, doors or items on the ground.
+
+<8> West can drag some objects. Moving objects can sometimes reveal hidden doors, items or air duct hatches. Moving objects will drain some stamina.
+
+<9> When West is not facing any interactable objects, press "interact button" to interact with items on the floor. Pick up and drop items on the floor either by dragging and dropping or right clicking on the item. Press "get all button" to pick up all items. Items on the ground can't be used unless they are picked up.
+
+<10> Sprinting drains West's stamina and also attracts nearby enemies. West can't sprint if he runs out of stamina or if he has fractured his bone. There are other conditions which limit sprinting such as overburdened and cold conditions.
+
+<11> West needs to have a bag equipped to be able to access the inventory. The inventory is organized into 6 different categories. Some items can be used by double clicking. The items can be moved around by drag and drop or right click mouse button. Stacks can be split by pressing left shift button and left mouse button. Drag and drop the same items on top of each other to stack them. There are different stack limits for each kind of item. Game pad instructions are usually displayed in the inventory. 
+
+<12> West can sit on a chair, sofa or bench. Stamina recovery rate is increased greatly while sitting. Use movement key to stand up again.
+
+<13> Locked doors can be opened using the appropriate keycard only. Search the area or look for clues in the logs to find the right keycards.
+
+<14> Dodging will drain some stamina but West can use it to avoid attacks. West can't dodge if he has a fractured bone or if his agility has been limited by any factor. For game pad controller double tap in the desired direction to dodge that way.
+
+<15> West can gather up to 2 seconds of power before a strike which will cause a maximum of 2x damage.
+
+<16> Power packs are the energy source in the game. They are required for a ranged weapon, light, and some facilities. West may recharge it at charging stations located throughout the game. Power packs are upgradable through research.
+
+<17> Zoom out the camera to look around or zoom in for a close look.
+
+<18> Activating his shield requies a power pack and enough energy. Blocking an attack using the shield will absorb up to 75% of damage depending on the power pack's level. Activating as well as getting hit will drain energy from West's power pack. In addition, West while be slowed down less when struck, protected from fractured bones, and bleeding.
+
+<19> West can only sleep on a bed. Sleeping will reduce West's fatigue and time will pass more quickly. The rested status effect (which gives a bonus to stamina usage) will be applied upon waking up. West can wake up by moving. Fatigue increases gradually over time, but physical activities such as running and melee attacks can also increase it. Fatigue can affect West's maximum stamina level.
+
+<20> Customize and upgrade ranged weapons by assembling them with different barrel and heatsink parts. Each core part of the ranged weapon has limited link capacity and durability. All three parts are upgradable through research. Special attributes such as laser sights will increase the accuracy of the weapon.
+
+<21> Interact with a tram passenger door to travel to other locations. The location West is traveling to must be powered on first by using the power control console in Central control. Riding the tram will take in-game time. Oxygen and temperature levels are normal during tram travel.
+
+<22> The power control console can be used to connect and disconnect the power from Central control to the other locations on Mars. The generator has limited output capacity and if West uses more power than it can produce, the generator may overheat, causing a massive blackout. Be careful not to get stuck in a remote location.
+
+<23> West can recharge his currently equiped oxygen canister by using the oxygen rechargers found throughout the Mars colony. Oxygen canisters are upgradable through research.
+
+<24> West can recharge his currently equiped thermal canister by using the thermal rechargers found throughout the Mars colony. Thermal canisters are upgradable through research.
+
+<25> Using a beacon and interacting it will open up the beacon console. Beacons can be configured to have different colors. West can also add some short notes. Beacons are shown on the mini map. If West picks up a beacon, its stored notes will be removed.
+
+<26> West can replace the filter in the oxygen generator to restore the oxygen level. Restoring the oxygen level has an impact on the infection rise and evolution speed and West is able to breath without the aid of personal oxygen supply. Filter is upgradable.
+
+<27> West can replace the regulator in the temperature regulator to restore the temperature to a normal level. Restoring the temperature level has an impact on the infection rate and evolution speed. Thermal regulators are upgradable.
+
+<28> The generator's capacity is determined by the generator modules. The generator modules degrade slowly over the time and mutants will try to destroy the generator modules during invasions. If all of them are destroyed, a meltdown is triggered causing the generator to be destroyed. Generator modules are upgradable through research and can be repaired to some degree. West must defend the generator at all costs.
+
+<29> The generator is equipped with several defensive turret slots. Only SMG class weapons are can be inserted. Turrets are powered by the generator but still build up heat causing it to stop firing when overheated. Turrets will resume their operations once cooled down again. Turrets are not activated automatically, West must turn them on manually and only when Central control is under attack.
+
+<30> West can recycle materials found on Mars. Processed materials are stored in the shared Production Materials Storage from which the 3D printer and Bio combiner will draw required materials. There are two recycling systems: Tech and Bio. Engineering must be powered to use them.
+
+<31> West can refine ores and crops produced from mine and biosphere into materials. Processed materials are stored in the shared Production Materials Storage from which the 3D printer and Bio combiner draw required materials from. There are two refining systems: Tech and Bio. Engineering must be powered to use them.
+
+<32> West can create various items he needs using 3D printer or Bio combiner. Blueprints for production can be obtained through research. Software level must be equal or greater than the subject's requirement. Required materials are gathered from the shared Production Material Storage. Produced items are stored at the shared Production Output Storage in Engineering.
+
+<33> West can research some items in his inventory to obtain a blueprint for the items themselves and upgraded version of it. Software level must be equal or greater than the subject's requirement. Research may create an improved blueprint which is automatically sent to Engineering for production. Research will consume the subject.
+
+<34> West can excavate exotic Mars ores using the mining facility. Excavated ores are automatically transferred to the storage in the Nilson Engineering facility. The Mine facility can be controlled from engineering if it is upgraded. An upgraded mine facility can excavate rarer ores.
+
+<35> West can grow exotic Mars vegtables and fruits using the biosphere farm facility. Harvested vegtables or fruits are automatically transferred to the storage in Nilson Engineering. The farm facility can be controlled from engineering if it is upgraded. An upgraded farm facility can grow rarer veggies or fruits.
+
+<36> West can perform limited repairs on some weapons, suits, and generator modules using the Nano reconstruction facility. However, it can only restore up to 50% of the original durability of the item. The Nano reconstruction facility can repair two items at the same time.
+
+<37> Research analyzers, mine excavator and farm accelerator need to be upgraded if West wants to produce more advanced items. The upgrade software is produced from the corresponding data chips. The data chips are scattered around the colony, and it is up to West to find them.
+
+<38> Contamination level is affected by eating and drinking contaminated food or beverages. It can also be increased by receiving damage from attacks. West can recover from contamination by using items such as decontamination pills. West can perform research to create the pills.
+
+<39> Stamina is West's energy source for melee attack, sprinting and dodging. Stamina naturally recovers over time, but West's body conditions and hunger affects it. Resting on a chair can increase the stamina recover rate.
+
+<40> HP (Health points) is the fundamental representation of West's life. HP is affected by both his body conditions and direct attack from the mobs.
+
+<41> Thirst increases gradually over time, but physical activities such as running and melee attacks can also increase it. Also, stamina usage amount depends on West's thirst level. High thirst can negatively affect West's sprint speed.
+
+<42> Hunger increases gradually over time, but physical activities such as running and melee attacks can also increase it. High hunger can cause slower melee attacks.
+
+<43> The need to take a leak or crap is caused by drinking and eating. They generally have a small impact on West's overall body condition.
+
+<44> Oxygen level is critical to West's survival. When West needs to travel to places with little or no oxygen, he will need to equip a oxygen canister and recharge it using oxygen recharger.
+
+<45> Temperature level can have a gradual impact on West's condition. 10-20 degrees is normal, but if West is equipped with a filled temperature canister it will help him to survive harsh temperature conditions for a longer period of time. It also affects thirst and hunger.
+
+<46> The fractured bone condition is caused by a heavy blow from a mutant or an impact from an explosion. It has a great impact on maximum stamina, the ability to sprint, dodge, and on the overall weight West can carry.
+
+<47> Bleeding can be caused by damage from mutant melee attacks. It has an impact on West's vision and he will constantly lose a small amount of health over time. West's thirst will also increase.

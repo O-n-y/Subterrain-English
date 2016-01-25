@@ -1,0 +1,42 @@
+[ccccff][i][ffffc0]Boss Ortega:[-]  
+  Baxter, you old witch.  I think I know why you are
+  calling.
+
+[ffffc0]Baxter:[-]
+  ...
+
+[ffffc0]Boss Ortega:[-]
+  I can guess from your silence that you have noticed
+  one of your furry friends is... missing.
+  Well, the good news is that I found her.  
+
+[ffffc0]Baxter:[-]
+  How...  Dare...  You...  
+
+[ffffc0]Boss Ortega:[-]
+  Now don't you stop being lady-like...
+  
+  I'm just a simple concerned citizen who just
+  happened to find a lost animal.
+
+  And it's a good thing too, seeing as she has a 
+  special data chip implanted under her skin.
+		
+  I think a finder's fee is in order. Come to my office
+  at [ffff00]Pisces district[-]. And if you can't pay, well... 
+  That's okay. I'll send Mr. Wiggles back to you.
+
+  One paw at a time...
+
+[ffffc0]Baxter:[-]
+  !1!@1111121 You disgusting lemon-wit!
+
+  I'm coming for you.
+
+  Nobody can save you from what is about to 
+  happen!!1  I am coming and hell's coming with me!
+
+  I will blow your face off and feed you to my kitties!!1![/i][-]
+
+
+End of transmission

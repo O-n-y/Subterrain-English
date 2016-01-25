@@ -1,0 +1,31 @@
+[ccccff][i][ffffc0]Merrick:[-]
+  Is the prototype blueprint secure?
+
+[ffffc0]Johnathan:[-]
+  yeah, we got a hold of it, it's being stored in my lab 
+  at the [ffff00]Carson hotel[-], it's under lock and key,
+  only you and me have the [ffff00]keycards[-] to access it.
+
+[ffffc0]Merrick:[-]
+  good, we can't have any screw ups with this. 
+  this is a top-secret order from Commander Sheridan.
+
+  This design is one of a kind; if anything happens to it,
+  we're screwed. you know what happens to people that
+  can't follow orders. 
+
+  We're leaving asap. emergency evacuation of the mars colony 
+  has been announced, some yayhoo is talking about infection. prepare 
+  the package to be picked up, be ready to move on the first 
+  evac out of here.
+
+[ffffc0]Johnathan:[-]
+  alright, understood, I'm headed out to pick it up.
+
+[ffffc0]Merrick:[-]
+  And remember either you come to the shuttle with the package,
+  or not at all.
+[/i][-]
+
+
+End of transmission
