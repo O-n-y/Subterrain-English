@@ -1,0 +1,22 @@
+Upon entering the room, I noticed a massive bulletin on the wall.
+
+[ffffc0]Bulletin:[-]
+[ccccff][i]
+As of today 2300 hours, I am assuming full control over the biosphere.
+
+All biological specimens previously listed as being in violation of health code directives 3, 7, and 14 must be placed in the incinerator by 05:00 tomorrow.
+
+I'm taking command due to what I consider to be gross negligence among the biosphere staff and leadership.
+
+Follow my directives to the letter and we will not have any further problems.
+
+Dr. Tayama is being taken to a secure location for enhanced questioning.
+
+All necessary equipment including [ffff00]data chips[-] will be moved to my storage facility in the [ffff00]Plaza.[-]
+
+If you have any questions, you will know where to find me.
+
+	-Zeronica Jones.
+[/i][-]
+
+Dr. Tayama has been taken out?
