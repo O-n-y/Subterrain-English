@@ -474,6 +474,7 @@ repairbay_complete = Completed
 repairbay_speed = Repair speed
 repairbay_maxdurability = Maximum durability restoration
 repairbay_maxslot = Maximum active slots
+repairbay_inactive = Inactive
 
 slot_get_item = Take all items
 slot_upgrade_3dprinter = 3D Printer Software
