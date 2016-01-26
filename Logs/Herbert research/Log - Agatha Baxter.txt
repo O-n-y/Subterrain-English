@@ -10,7 +10,8 @@
   111!!!11!!!  no!!!!  My methods are none of your business!
 
 [ffffc0]Murray:[-]
-  I'm afraid they are, that's how the boss-employee relationship works.
+  I'm afraid they are, that's how the boss-employee
+  relationship works.
 
 [ffffc0]Baxter:[-]
   Well, it's too bad because I don't even keep them in 

@@ -1,4 +1,4 @@
-Advanced spectrum analyzers center.
+Advanced spectrum analyzer center.
 
 This is the place where I spent most of my time while working on Mars.
 
