@@ -2,12 +2,9 @@
 
 <2> Default game pad controller setting.
 
-<3> Tactical panel shows the overall equipment status. Some usable items can be equipped in the quick slots. The number of quick slots is dependent on what suit is being worn. 
-West can equip up to 3 different weapons in his main and sub weapon slots, swapping quickly during the heat of combat. Weapon slots have a red gauge bar representing heat buildup. If a weapon gets too hot, West will drop it. Dropped weapons can be picked up from the floor. 
-Suits have limited durability. They may be destroyed if the durability reaches zero. The three slots above the suit are for power packs, oxygen and temperature canisters.
+<3> Tactical panel shows the overall equipment status. Some usable items can be equipped in the quick slots. The number of quick slots is dependent on what suit is being worn. West can equip up to 3 different weapons in his main and sub weapon slots, swapping quickly during the heat of combat. Weapon slots have a red gauge bar representing heat buildup. If a weapon gets too hot, West will drop it. Dropped weapons can be picked up from the floor. Suits have limited durability. They may be destroyed if the durability reaches zero. The three slots above the suit are for power packs, oxygen and temperature canisters.
 
-<4> West's body condition is very important as it determines how well he will survive in the game. Try to keep up with his needs and watch his contamination level. Physical activities such as sprinting, melee attacks, and temperature can affect his thirst and hunger needs. Floating red cells represent
-contamination level and overall body condition is represented by the background color. High contamination and low body condition can affect the natural healing process and eventually lead West to a slow death.
+<4> West's body condition is very important as it determines how well he will survive in the game. Try to keep up with his needs and watch his contamination level. Physical activities such as sprinting, melee attacks, and temperature can affect his thirst and hunger needs. Floating red cells represent contamination level and overall body condition is represented by the background color. High contamination and low body condition can affect the natural healing process and eventually lead West to a slow death.
 
 <5> The environment panel contains important information such as the current temperature and oxygen level of West's surroundings. These can affect his survival needs so watch out for abnormal levels.
 
