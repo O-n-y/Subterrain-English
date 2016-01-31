@@ -651,6 +651,7 @@ map_Global_Infection = GLOBAL INFECTION
 map_Back = BACK TO GLOBAL MAP
 map_toggle_zoom = Toggle zoom : {ZOOM} Key
 map_toggle_zoom_controller = Toggle zoom
+map_pan = Pan map
 
 map_location_small_Hotel = Hotel
 map_location_small_Casino = Casino
