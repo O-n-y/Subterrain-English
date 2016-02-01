@@ -1,4 +1,4 @@
-There was only one operational tram connection at the prison. And it went straight to Central control.
+There was only one operational tram connection at the prison. And it went straight to Central Control.
 
 I don't know what I was hoping to find when I went to the Central control station, but when I arrived the station was quiet.
 
@@ -6,12 +6,12 @@ The good news was that the oxygen generator seems to be running. Otherwise I wou
 
 There is no telling if other places have oxygen and temperature regulation in a chaotic situation like this.
 
-Central control is basically the power plant for the entire colony. 
+Central Control is basically the power plant for the entire colony. 
 
 
 It is here that energy is produced and sent out to other locations.  It's the single most important facility in the Mars colony.
 
-The Colony is dependent on the power supplied from this location to produce oxygen and to keep the temperature stable. Hell, even the trams are on the same power grid.
+The colony is dependent on the power supplied from this location to produce oxygen and to keep the temperature stable. Hell, even the trams are on the same power grid.
 
 I should explore the area and search for supplies. But most importantly, I should look out for the [ffff00]power control console[-]. 
 

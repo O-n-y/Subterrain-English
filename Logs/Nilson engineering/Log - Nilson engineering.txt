@@ -2,7 +2,7 @@ Nilson engineering was one of the very first facilities built here on Mars.  It'
 
 Almost everything that exists in the colony is created in here.
 
-Creating the colony using the advanced [ffff00]3D printing[-] technology was the only way to reduce the cost and solve the logistics problem of getting materials from Earth to mars.
+Creating the colony using the advanced [ffff00]3D printing[-] technology was the only way to reduce the cost and solve the logistics problem of getting materials from Earth to Mars.
 
 Later, more advanced subjects were being created here that are only possible on Mars specific conditions.
 

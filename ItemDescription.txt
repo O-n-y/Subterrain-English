@@ -2,7 +2,7 @@
 1;Backpack M;M Mars security backpack. Carries up to 56 types and 27kg of items.
 2;Backpack L;L Mars security backpack. Carries up to 68 types and 35kg of items.
 3;Mars Apolonite ore;Apolonite ore found deep underground on Mars. Yields Casandrium.
-4;Long Knife;Improved MPO security knife with a longer reach.
+4;Long Knife;Improved MPO Security knife with a longer reach.
 5;Mars Casandrium;Exotic material processed from Mars Apolonite ore. Normally shipped to Earth for a high price.
 6;Mars Palladium;Exotic material processed from Mars Nickel ore. Normally shipped to Earth for a high price.
 7;Electronic resin;Electronic semiconductor resin that can be used in 3D printing to produce any parts that require nano-scale electric flow control.
@@ -69,7 +69,7 @@
 68;PreMartianAttack_Repel;(System weapon for PreMartian)
 69;IFM-9 Plasma launcher;This early prototype weapon utilizes a shielded firing chamber to propel explosive rounds of ionized plasma. It's very dangerous to fire in close quarters, and has immense destructive force. It seems like it was very important to the MPO and Earth Space Initiative. There still seems to be room for improvement.
 70;IFM-10B Plasma launcher;This improved version boasts larger area of effect, power and range. It's a marvel of modern technology and yet, there appears to be room for improvement. Just what was the MPO and Earth Space Initiative planning to use this for?
-71;RVGR-XU Plasma launcher;This is a prototype for a man-portable weapon of mass destruction. If anyone back on earth ever got a hold of this, it could cause some serious problems. Here on mars they could get away with creating something like this, utilizing cutting edge technology.
+71;RVGR-XU Plasma launcher;This is a prototype for a man-portable weapon of mass destruction. If anyone back on Earth ever got a hold of this, it could cause some serious problems. Here on Mars they could get away with creating something like this, utilizing cutting edge technology.
 72;Hacked Keycard - Class A;Single use keycard for hacking class A locks.
 73;Hacked Keycard - Class B;Single use keycard for hacking class B locks.
 74;Hacked Keycard - Class C;Single use keycard for hacking class C locks.
@@ -78,13 +78,13 @@
 77;Plasma launcher;Log - Plasma launcher
 78;Thermal canister (Low capacity);Low capacity thermal canister. Use thermal charge station to recharge. Thermal fluid in the canister is used to keep the body warm in extreme cold conditions.
 79;Log01;Empty log
-80;Make my escape;Log - Make my escape
-81;This can't be happening;Log - This can't be happening
-82;Leaving the prison;Log - Leaving the prison
-83;Station level;Log - Station level
-84;Arrived at Central control;Log - Arrived at Central control
-85;Power control;Log - Power control
-86;MPOPD Emergency response plan;Log - MPOPD Emergency response
+80;Make my escape;Log - Make my escape.
+81;This can't be happening;Log - This can't be happening.
+82;Leaving the prison;Log - Leaving the prison.
+83;Station level;Log - Station level.
+84;Arrived at Central control;Log - Arrived at Central control.
+85;Power control;Log - Power control.
+86;MPOPD Emergency response plan;Log - MPOPD Emergency response.
 87;Windroid;Steroid to boost movement speed. Short duration.
 88;Windroid Pro;Steroid to boost movement speed. Improved duration.
 89;Windroid Ultra;Steroid to boost movement speed. Lasts longer than Pro.
@@ -93,7 +93,7 @@
 92;Marsmari V;Very strong Marsmari drug.
 93;Decontamination pill B;Strong decontamination pill.
 94;Decontamination pill C;Moderate decontamination pill. Faster effects.
-95;Decontamination pill;Weak decontamination pill
+95;Decontamination pill;Weak decontamination pill.
 96;Marsmari X;Ultimate Marsmari, User can sense others from afar.
 97;Decontamination pill A;Very strong decontamination pill.
 98;Basic medical kit;It heals 20% of lost health over time.
@@ -121,7 +121,7 @@
 120;Coil;Metal coil scrap.
 121;Cue;Billiard cue.
 122;Curling iron;Scrap metal.
-123;Cutting board;If Only I had time to prepare nice food.
+123;Cutting board;If only I had time to prepare nice food.
 124;Detergent;Don't drink this.
 125;Device charger;No power. Better to just scrap this.
 126;Digital Clock;It can wake you at whatever time you choose.
@@ -147,7 +147,7 @@
 146;Card reader;This is just scrap material without a connection to a server.
 147;Ladle;Metal junk.
 148;Laser tapeline;For measuring things.
-149;LED;Electronic Scrap.
+149;LED;Electronic scrap.
 150;Light bulb;Small spare light bulb.
 151;Manometer;Scrap metal for recycling goodness.
 152;Microscope;I used to look through one of these all day.
@@ -155,7 +155,7 @@
 154;Nano SSD;Old storage technology. Still works. Nothing interesting inside but scrap.
 155;Necklace;Metal scrap.
 156;Notebook;For writing things down.
-157;Nozzle;Metal scrap
+157;Nozzle;Metal scrap.
 158;Pajamas;Who wears these any more? On Mars?
 159;Perfume;I better not use this, it might draw some unwanted attention.
 160;Piston;Heavy metal junk.
@@ -165,7 +165,7 @@
 164;Ring;Scrap metal.
 165;Rum;Exotic drink.
 166;Scalpel;Very sharp but too small to use as a weapon.
-167;Scarf;Useless against the mars cold.
+167;Scarf;Useless against the Mars cold.
 168;Scissors;Safety guard makes this useless as a weapon.
 169;Screwdriver;No use to me, I'm already screwed.
 170;Shampoo;Wash my hair? Never.
@@ -188,7 +188,7 @@
 187;Torn pillow;Maybe I can recycle this.
 188;Torn shirt;Not going to wear this.
 189;Torn towel;worn-out towel.
-190;Towel;Nice and Soft. Good scrap.
+190;Towel;Nice and soft. Good scrap.
 191;Tumbler;Scrap resource.
 192;Underwear;I can't possibly wear someone else's underwear. Even if it is new.
 193;Vacuum;Even now these vacuum robots don't clean very well.
@@ -197,32 +197,32 @@
 196;Whiskey;Seems very old and fancy.
 197;Wine glass;They don't make these with real glass anymore.
 198;Wire;Thin metal wire.
-199;Barrel 'Serious Harry' C42;Barrel for ranged weapon
-200;Barrel 'Dancing doll' F420;Barrel for ranged weapon
-201;Barrel 'Phantom' R5;Barrel for ranged weapon
+199;Barrel 'Serious Harry' C42;Barrel for ranged weapon.
+200;Barrel 'Dancing doll' F420;Barrel for ranged weapon.
+201;Barrel 'Phantom' R5;Barrel for ranged weapon.
 202;Keycard - Power control room;Unlocks door to the power control room.
-203;Barrel 'Raging Bull' GE210;Barrel for ranged weapon
-204;Heatsink 'Frost' 10D;Heatsink for ranged weapon
-205;Heatsink 'Thor' 350;Heatsink for ranged weapon
-206;Heatsink 'Thor' 360;Heatsink for ranged weapon
-207;Heatsink 'Thor' 420;Heatsink for ranged weapon
-208;Heatsink 'Loki' 70D;Heatsink for ranged weapon
-209;Heatsink 'Loki' 80T;Heatsink for ranged weapon
+203;Barrel 'Raging Bull' GE210;Barrel for ranged weapon.
+204;Heatsink 'Frost' 10D;Heatsink for ranged weapon.
+205;Heatsink 'Thor' 350;Heatsink for ranged weapon.
+206;Heatsink 'Thor' 360;Heatsink for ranged weapon.
+207;Heatsink 'Thor' 420;Heatsink for ranged weapon.
+208;Heatsink 'Loki' 70D;Heatsink for ranged weapon.
+209;Heatsink 'Loki' 80T;Heatsink for ranged weapon.
 210;Thermal canister (Medium capacity);Improved thermal canister. Lighter weight and increased capacity. Use thermal charge station to recharge. Thermal fluid in the canister is used to keep the body warm in extreme cold conditions.
-211;Heatsink 'Loki' 90F;Heatsink for ranged weapon
-212;Heatsink 'Naglfar' M100;Heatsink  for ranged weapon
-213;Heatsink 'Naglfar' G120;Heatsink  for ranged weapon
+211;Heatsink 'Loki' 90F;Heatsink for ranged weapon.
+212;Heatsink 'Naglfar' M100;Heatsink  for ranged weapon.
+213;Heatsink 'Naglfar' G120;Heatsink  for ranged weapon.
 214;Power Pack Large;Portable energy pack. Large size. This power pack can generate a shield with 70% damage reduction power.
 215;Power Pack Medium;Portable energy pack. Medium size. This power pack can generate a shield with 65% damage reduction power.
 216;Power Pack Small;Portable energy pack. Small size. This power pack can generate a shield with 60% damage reduction power.
-217;Attractor dummy;Attracts infected for 10 seconds
+217;Attractor dummy;Attracts infected for 10 seconds.
 218;Electric stun grenade;Stuns nearby organic lifeforms within its range. Detonates after 1 second. Slides on the ground.
 219;Laser tripwire trap;Security laser trip wire with heat damaging effect.
 220;Photon grenade;Damages nearby organic lifeforms within its range. Detonates after 1 second. Slides on the ground.
 221;Beacon;Throw beacon and then interact with it to enter short notes and change its color.
-222;Oxygen canister (Low density);Use oxygen charger to refill. Oxygen allows survival in low oxygen enviroments.
+222;Oxygen canister (Low density);Use oxygen charger to refill. Allows survival in low oxygen enviroments.
 223;Credit;Credit cash data. Instantly transfers to user's account.
-224;Baton;MPO security baton.
+224;Baton;MPO Security baton.
 225;Claw;Mutant Claw.
 226;Pistol GIO;Core part for a pistol.
 227;Pistol GIO B2;Core part for a pistol.
@@ -231,17 +231,17 @@
 230;SMG MDIX 4D;Core part for an SMG.
 231;Shotgun Flux;Core part for a shotgun.
 232;Shotgun Flux GT;Core part for a shotgun.
-233;Fist;Puny human fist
+233;Fist;Puny human fist.
 234;Hammer;Good for more than hitting nails.
 235;Crowbar;Iconic melee weapon.
-236;Knife;MPO security knife.
+236;Knife;MPO Security knife.
 237;K 815;Randomly pre-combined ranged weapon.
 238;Wrench;Fix the mutant problems.
 239;MPO prison suit;Mars colony detention suit.
 240;Keycard - Nilson Engineering;Unlocks the door to the Nilson Engineering.
 241;Keycard - MPO Biosphere;Unlocks the door to the MPO Biosphere in the Central Control.
 242;Keycard - MPO Mine;Unlocks the door to the MPO Mining in the Central Control.
-243;Keycard - Herbert Research;Unlocks the door to the Herbert Research Center
+243;Keycard - Herbert Research;Unlocks the door to the Herbert Research Center.
 244;Minerva blood extract;Extracted from Minerva blood cells.
 245;Minerva tissue extract;Extracted from Minerva organ tissues.
 246;Power suit;Power suit based on advanced nano technology. This prototype version suffers from its weight.
@@ -281,17 +281,17 @@
 280;Shotgun Flux GT2;Core part for a shotgun.
 281;Shotgun Flux GT3;Core part for a shotgun.
 282;Shotgun Flux GX;Core part for a shotgun.
-283;Barrel 'Dancing doll' F330;Barrel for ranged weapon
-284;Barrel 'Dancing doll' F360;Barrel for ranged weapon
-285;Barrel 'Phantom' R2;Barrel for ranged weapon
-286;Barrel 'Phantom' R3;Barrel for ranged weapon
-287;Barrel 'Raging Bull' GE180;Barrel for ranged weapon
-288;Barrel 'Raging Bull' GE190;Barrel for ranged weapon
+283;Barrel 'Dancing doll' F330;Barrel for ranged weapon.
+284;Barrel 'Dancing doll' F360;Barrel for ranged weapon.
+285;Barrel 'Phantom' R2;Barrel for ranged weapon.
+286;Barrel 'Phantom' R3;Barrel for ranged weapon.
+287;Barrel 'Raging Bull' GE180;Barrel for ranged weapon.
+288;Barrel 'Raging Bull' GE190;Barrel for ranged weapon.
 289;Thermal canister (High capacity);High capacity thermal canister. Improved weight and capacity. Use thermal charge station to recharge. Thermal fluid in the canister is used to keep the body warm in extreme cold conditions.
 290;Thermal canister (Ultra capacity);Ultra capacity thermal canister. Lightest and has maximum capacity. Use thermal charge station to recharge. Thermal fluid in the canister is used to keep the body warm in extreme cold conditions.
 291;Mars Monazite ore;Monazite ore found deep underground on Mars. Yields Cerium.
 292;Mars Nickel ore;Nickel ore found deep underground on Mars. Yields Palladium.
-293;Oxygen canister (Medium density);Improved weight and capacity. Use oxygen charger to refill. Oxygen allows survival in low oxygen environments.
+293;Oxygen canister (Medium density);Improved weight and capacity. Use oxygen charger to refill. Allows survival in low oxygen environments.
 294;Oxygen canister (High density);Light weight and improved capacity. Use oxygen charger to refill. Oxygen allows survival in low oxygen environments.
 295;Minerva osseous extract;Extracted from Minerva bone tissue.
 296;Resveratrol;Processed bio material from plants grown on Mars.
@@ -313,19 +313,19 @@
 312;Mars Yttrium;Exotic material processed from Mars Xenotime ore. Normally shipped to Earth for a high price.
 313;Mars Lithium;Exotic material processed from Mars Petalite ore. Normally shipped to Earth for a high price.
 314;Shotgun Flux GX2;Core part for a shotgun.
-315;Heatsink 'Naglfar' F350;Heatsink  for ranged weapon
-316;Heavy baton;Improved MPO security baton.
-317;Spiked heavy baton;Spiked MPO security baton.
-318;Electric baton;Advanced MPO security baton.
-319;Heavy electric baton;Heavy electric MPO security baton.
+315;Heatsink 'Naglfar' F350;Heatsink  for ranged weapon.
+316;Heavy baton;Improved MPO Security baton.
+317;Spiked heavy baton;Spiked MPO Security baton.
+318;Electric baton;Advanced MPO Security baton.
+319;Heavy electric baton;Heavy electric MPO Security baton.
 320;Laser baton;Advanced laser baton that deals more damage.
-321;Heavy laser baton;Advanced laser baton with improved knock back and extra damage.
-322;Double edged knife;MPO security knife that deals more damage.
-323;Electric knife;Advanced security knife with a small stun effect.
+321;Heavy laser baton;Advanced laser baton with improved knockback and extra damage.
+322;Double edged knife;MPO Security knife that deals more damage.
+323;Electric knife;Advanced Security knife with a small stun effect.
 324;Laser saber;Advanced prototype melee weapon.
-325;Long electric knife;Advanced security knife with extra reach and stun effect.
+325;Long electric knife;Advanced Security knife with extra reach and stun effect.
 326;Long laser saber;Advanced prototype melee weapon with extra reach and damage.
-327;Long double edged knife;MPO security knife with longer reach and extra damage.
+327;Long double edged knife;MPO Security knife with longer reach and extra damage.
 328;Backpack XL;XL Mars security backpack. Carries up to 80 types and 45kg of items.
 329;Electric stun grenade MK II;Stun grenade. Detonates by motion sensor or after 2 seconds. Slides on the ground.
 330;Electric stun grenade MK III;Stun grenade. Detonates by motion sensor or after 5 seconds. Also attracts nearby mutants. Slides on the ground.
@@ -402,15 +402,15 @@
 401;System;Do not translate
 402;Keycard - Prison gate;Single use hacked keycard for the main prison gate.
 403;Keycard - Space center;Keycard for the main space center entrance.
-404;Nobody at home;Log - Nobody at home
-405;The Generator;Log - The Generator
+404;Nobody at home;Log - Nobody at home.
+405;The Generator;Log - The Generator.
 406;Radiation;Log - Radiation
-407;Power console update;Log - Power console software update
-408;Oxygen;Log - Oxygen
-409;Herbert research;Log - Herbert research
-410;Advanced analyzer;Log - Advanced analyzer
-411;Minerva nano machine;Log - Minerva nano machine
-412;Nilson engineering;Log - Nilson engineering
+407;Power console update;Log - Power console software update.
+408;Oxygen;Log - Oxygen.
+409;Herbert research;Log - Herbert research.
+410;Advanced analyzer;Log - Advanced analyzer.
+411;Minerva nanomachine;Log - Minerva nanomachine.
+412;Nilson engineering;Log - Nilson engineering.
 413;Space shuttle fuel;Space shuttle fuel unit. You can't travel far without enough of these.
 414;Shuttle navigation module;Navigation module for space shuttle. Destination programmed to the Mars orbital station. You can't launch a shuttle without a navigation module.
 415;Broken navigation module;Broken navigation module for space shuttle. If I can analyze this, maybe I can reproduce it. It requires level 4 analyzer software.
@@ -426,37 +426,37 @@
 425;System;Do not translate
 426;System;Do not translate
 427;Biggelow;Log - Biggelow
-428;Gorgeous Gabe;Log - Gorgeous Gabe
-429;Card Shark;Log - Card Shark
-430;Jaron;Log - Jaron
-431;Mrs. Pennington;Log - Mrs. Pennington
-432;Mine upgrades;Log - Mine upgrades
+428;Gorgeous Gabe;Log - Gorgeous Gabe.
+429;Card Shark;Log - Card Shark.
+430;Jaron;Log - Jaron.
+431;Mrs. Pennington;Log - Mrs. Pennington.
+432;Mine upgrades;Log - Mine upgrades.
 433;System;Do not translate
-434;Sang Jun Bae;Log - Sang Jun Bae
-435;Work place improvement;Log - Work place improvement
-436;Carson hotel;Log - Carson hotel
-437;Jind Marhi;Log - Jind Marhi
-438;Karl Logan;Log - Karl Logan
-439;Dead boss;Log - Dead boss
-440;The party;Log - The party
-441;Captain Roger;Log - Captain Roger
-442;Martin;Log - Martin
-443;Choco Pie;Log - Choco Pie
-444;Murray space center;Log - Murray space center
-445;Shuttle fuel cells;Log - Shuttle fuel cells
-446;Bulletin;Log - Bulletin
-447;Spirit plaza;Log - Spirit plaza
-448;Packages;Log - Packages
-449;Agent Heather Morgan;Log - Agent Heather Morgan
-450;Dr.Tayama;Log - Dr.Tayama
-451;Keycard - Zeronica Jones;Zeronica Jones's keycard
-452;Agatha Baxter;Log - Agatha Baxter
-453;Better bar;Log - Better bar
-454;Ortega;Log - Ortega
-455;Stolen cat;Log - Stolen cat
+434;Sang Jun Bae;Log - Sang Jun Bae.
+435;Work place improvement;Log - Work place improvement.
+436;Carson hotel;Log - Carson hotel.
+437;Jind Marhi;Log - Jind Marhi.
+438;Karl Logan;Log - Karl Logan.
+439;Dead boss;Log - Dead boss.
+440;The party;Log - The party.
+441;Captain Roger;Log - Captain Roger.
+442;Martin;Log - Martin.
+443;Choco Pie;Log - Choco Pie.
+444;Murray space center;Log - Murray space center.
+445;Shuttle fuel cells;Log - Shuttle fuel cells.
+446;Bulletin;Log - Bulletin.
+447;Spirit plaza;Log - Spirit plaza.
+448;Packages;Log - Packages.
+449;Agent Heather Morgan;Log - Agent Heather Morgan.
+450;Dr.Tayama;Log - Dr.Tayama.
+451;Keycard - Zeronica Jones;Zeronica Jones's keycard.
+452;Agatha Baxter;Log - Agatha Baxter.
+453;Better bar;Log - Better bar.
+454;Ortega;Log - Ortega.
+455;Stolen cat;Log - Stolen cat.
 456;Better Bar;I should never ever eat this. But I can open this up.
 457;Better Bar;I should never ever eat this. But I can open this up.
-458;Surgery;Log - Surgery
+458;Surgery;Log - Surgery.
 459;Apolonite gem;Polished Apolonite gemstone. Refining this may produce some Casandrium.
 460;Bastnaesite gem;Polished Bastnaesite gemstone. Refining this may produce some Neodymium.
 461;Gadolinite gem;Polished Gadolinite gemstone. Refining this may produce some Scandium.

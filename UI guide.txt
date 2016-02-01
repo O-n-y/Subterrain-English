@@ -10,7 +10,7 @@
 
 <6> Light sticks last forever but other light source items such as flashlights need a recharged power pack. West will turn the light off during sleeping and traveling by tram to save power.
 
-<7> West can scan for interactable objects. It will highlight any nearby containers, doors, and items 
+<7> West can scan for interactable objects. It will highlight any nearby containers, doors, and items. 
 
 <8> West can drag some objects. Moving objects can sometimes reveal hidden doors, items, or air vents. Moving objects will drain some stamina.
 
@@ -32,15 +32,15 @@
 
 <17> Zoom out the camera to look around or zoom in for a close look.
 
-<18> Activating his shield requires a power pack and enough energy. Blocking an attack using the shield will absorb up to 75% of damage depending on the power pack's level. Activating as well as getting hit will drain energy from West's power pack. In addition, West while be slowed down less when struck, protected from fractured bones, and bleeding.
+<18> Activating his shield requires a power pack and enough energy. Blocking an attack using the shield will absorb up to 75% of damage depending on the power pack's level. Activating as well as getting hit will drain energy from West's power pack. In addition, West will be slowed down less when struck, protected from fractured bones, and bleeding while the shield is on.
 
 <19> West can only sleep on a bed. Sleeping will reduce West's fatigue and time will pass more quickly. The rested status effect (which gives a bonus to stamina usage) will be applied upon waking. West can wake up by moving. Fatigue increases gradually over time, but physical activities such as running and melee attacks can also increase it. Fatigue can affect West's maximum stamina level.
 
 <20> Customize and upgrade ranged weapons by assembling them with different barrel and heatsink parts. Each core part of the ranged weapon has limited link capacity and durability. All three parts are upgradable through research. Special attributes such as laser sights will increase the accuracy of the weapon.
 
-<21> Interact with a tram passenger door to travel to other locations. The location West is traveling to must be powered by first using the power control console in Central control. Riding the tram will take in-game time. Oxygen and temperature levels are normal during tram travel.
+<21> Interact with a tram passenger door to travel to other locations. The location West is traveling to must be powered by first using the power control console in Central Control. Riding the tram will take in-game time. Oxygen and temperature levels are normal during tram travel.
 
-<22> The power control console can be used to connect and disconnect the power from Central control to the other locations on Mars. The generator has limited output capacity and if West uses more power than it can produce, the generator may overheat, causing a massive blackout. Be careful not to get stuck in a remote location.
+<22> The power control console can be used to connect and disconnect the power from Central Control to the other locations on Mars. The generator has limited output capacity and if West uses more power than it can produce, the generator may overheat, causing a massive blackout. Be careful not to get stuck in a remote location.
 
 <23> West can recharge his currently equipped oxygen canister by using the oxygen rechargers found throughout the Mars colony. Oxygen canisters are upgradable through research.
 
@@ -48,13 +48,13 @@
 
 <25> Using a beacon and interacting it will open up the beacon console. Beacons can be configured to have different colors. West can also add some short notes. Beacons are shown on the mini map. If West picks up a beacon, any stored notes will be removed.
 
-<26> West can replace the filter in an oxygen generator to restore the oxygen to a normal level. Restoring the oxygen level has an impact on the infection rate and evolution speed and West is able to breath without the aid of a personal oxygen supply. Filters are upgradable via research.
+<26> West can replace the filter in an oxygen generator to restore the oxygen to a normal level in the area. Restoring the oxygen level has an impact on the infection rate and evolution speed and West is able to breath without the aid of a personal oxygen supply. Filters are upgradable via research.
 
-<27> West can replace the regulator in the temperature regulator to restore the temperature to a normal level. Restoring the temperature level has an impact on the infection rate and evolution speed. Thermal regulators are upgradable via research.
+<27> West can replace the regulator in the temperature regulator to restore the temperature to a normal level in the area. Restoring the temperature level has an impact on the infection rate and evolution speed. Thermal regulators are upgradable via research.
 
 <28> The generator's capacity is determined by the generator modules. The generator modules degrade slowly over the time and mutants will try to destroy the generator modules during invasions. If all of the modules are destroyed, a meltdown is triggered causing the generator to be destroyed. Generator modules are upgradable through research and can be repaired to some degree. West must defend the generator at all costs.
 
-<29> The generator is equipped with several defensive turret slots. Only SMG class weapons can be inserted. Turrets are powered by the generator but still build up heat causing it to stop firing when overheated. Turrets will resume their operations once cooled down again. Turrets are not activated automatically, West must turn them on manually and only when Central control is under attack.
+<29> The generator is equipped with several defensive turret slots. Only SMG class weapons can be inserted. Turrets are powered by the generator but still build up heat causing it to stop firing when overheated. Turrets will resume their operations once cooled down again. Turrets are not activated automatically, West must turn them on manually and only when Central Control is under attack.
 
 <30> West can recycle materials found on Mars. Processed materials are stored in the shared Production Materials Storage from which the 3D printer and Bio combiner will draw required materials. There are two recycling systems: Tech and Bio. Engineering must be powered to use them.
 
@@ -66,9 +66,9 @@
 
 <34> West can excavate exotic Mars ores using the mining facility. Excavated ores are automatically transferred to the Production Material Storage in the Nilson Engineering facility. Upgrading the mine software will allow excavation of rarer ores as well as enabling remote control from Nilson Engineering.
 
-<35> West can grow exotic Mars vegtables and fruits using the biosphere farm facility. Harvested vegtables or fruits are automatically transferred to the storage in Nilson Engineering. Upgrading the biosphere software will allow growth of rarer crops as well as enabling remote control from Nilson Engineering.
+<35> West can grow exotic Mars vegetables and fruits using the biosphere farm facility. Harvested vegetables or fruits are automatically transferred to the storage in Nilson Engineering. Upgrading the biosphere software will allow growth of rarer crops as well as enabling remote control from Nilson Engineering.
 
-<36> West can perform limited repairs on some weapons, suits, and generator modules using the Nano reconstruction facility. This is limited to 50% of the original durability of the item unless the software is upgraded. The Nano reconstruction facility can repair two items at the same time.
+<36> West can perform limited repairs on some weapons, suits, and generator modules using the Nano reconstruction facility. This is limited to 50% of the original durability of the item unless the software is upgraded. Initially, the Nano reconstruction facility can repair two items at the same time.
 
 <37> Research analyzers, mine excavator and farm accelerator need to be upgraded if West wants to produce more advanced items. The upgrade software is produced from the corresponding data chips. These data chips are scattered around the colony, and it is up to West to find them. Clues as to their location may be found by reading logs.
 
@@ -90,4 +90,4 @@
 
 <46> The fractured bone condition is caused by a heavy blow from a mutant or an impact from an explosion. It has a great impact on maximum stamina, the ability to sprint, dodge, and on the overall weight West can carry.
 
-<47> Bleeding can be caused by damage from mutant melee attacks. It has an impact on West's vision and he will constantly lose a small amount of health over time. West's thirst will also increase.
+<47> Bleeding can be caused by damage from mutant melee attacks. It has an impact on West's vision, he can't sleep while bleeding, and he will constantly lose a small amount of health over time. West's thirst will also increase.
