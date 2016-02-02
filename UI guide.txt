@@ -52,7 +52,7 @@
 
 <27> West can replace the regulator in the temperature regulator to restore the temperature to a normal level in the area. Restoring the temperature level has an impact on the infection rate and evolution speed. Thermal regulators are upgradable via research.
 
-<28> The generator's capacity is determined by the generator modules. The generator modules degrade slowly over the time and mutants will try to destroy the generator modules during invasions. If all of the modules are destroyed, a meltdown is triggered causing the generator to be destroyed. Generator modules are upgradable through research and can be repaired to some degree. West must defend the generator at all costs.
+<28> The generator's capacity is determined by the generator's reactor modules. The generator modules degrade slowly over the time and mutants will try to destroy the generator modules during invasions. If all of the modules are destroyed, a meltdown is triggered causing the generator to be destroyed. Generator's reactor modules are upgradable through research and can be repaired to some degree. West must defend the generator at all costs.
 
 <29> The generator is equipped with several defensive turret slots. Only SMG class weapons can be inserted. Turrets are powered by the generator but still build up heat causing it to stop firing when overheated. Turrets will resume their operations once cooled down again. Turrets are not activated automatically, West must turn them on manually and only when Central Control is under attack.
 

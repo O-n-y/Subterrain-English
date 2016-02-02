@@ -338,10 +338,10 @@
 337;Ultron flashlight;Flashlight based on Ultron technology. It uses very little energy.
 338;Power Pack Extra Large;Portable energy pack. Extra Large size. This power pack can generate a shield with 75% damage reduction power.
 339;Oxygen canister (Ultra density);Lightest weight and highest density. Use oxygen charger to refill. Oxygen allows survival in low oxygen environments.
-340;Generator module MK I;Generator module for the MPO power Generator. 800 Durability and Capacity.
-341;Generator module MK II;Generator module for the MPO power Generator. 1200 Durability and Capacity.
-342;Generator module MK III;Generator module for the MPO power Generator. 1500 Durability and Capacity.
-343;Generator module MK IV;Generator module for the MPO power Generator. 2000 Durability and Capacity.
+340;Generator's reactor MK I;Reactor module for MPO power generator based on advanced nano technology. Have 800 units of capacity and durability.
+341;Generator's reactor MK II;Reactor module for MPO power generator based on advanced nano technology. Have 1200 units of capacity and durability.
+342;Generator's reactor MK III;Reactor module for MPO power generator based on advanced nano technology. Have 1500 units of capacity and durability.
+343;Generator's reactor MK IV;Reactor module for MPO power generator based on advanced nano technology. Have 2000 units of capacity and durability.
 344;Level 1 software for engineering;Software for engineering facility.
 345;Level 2 software for engineering;Upgraded software for engineering facility. Level 2.
 346;Level 3 software for engineering;Upgraded software for engineering facility. Level 3.
