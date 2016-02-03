@@ -5,6 +5,7 @@ mainmenu_setting = OPTIONS
 mainmenu_credit = CREDITS
 mainmenu_exit = EXIT
 
+mainmenu_continue_instruction = Continue previously saved game
 mainmenu_newgame_instruction = Starts a new game.\nExisting game will be over-written
 mainmenu_leaderboard_instruction = Check out the various leaderboards
 mainmenu_option_instruction = Configure game options
@@ -253,6 +254,14 @@ system_loading_tip_08 = Watch out for environment temperature
 system_loading_tip_09 = Create medical supplies through research
 system_loading_tip_10 = Drop items on the ground by putting them on the ground inventory ({INTERACT} key)
 system_loading_tip_11 = Press {GETALL} key to grab all items in the container.
+
+saveslot_title = Choose save game slot
+saveslot_refresh = Refreshing save game data
+saveslot_empty = Empty slot
+saveslot_confirm = Over-write this save game?
+saveslot_autosave = Auto save
+saveslot_slot0 = Slot 0
+saveslot_slot1 = Slot 1
 
 newgame_title = New Game Setting
 newgame_easy = Easy Mode\n\n- 30% less thirst, hunger needs.\n- 50% more damage to mobs.\n- 40% less damage received.\n- 40% less contamination effect.\n- Slower infection and evolution speed.\n- Able to save from pause menu.
