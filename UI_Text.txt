@@ -471,6 +471,7 @@ split_title = Split stack
 split_split = Split
 split_close = Close
 
+storage_tube_title = Tram Storage
 storage_craft_title = Production Output Storage
 storage_combine_title = Bio Storage
 storage_farm_title = Incubator Storage
