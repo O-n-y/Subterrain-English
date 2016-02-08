@@ -205,6 +205,7 @@ system_skip = Skip
 system_continue = Continue
 system_select = Select
 system_confirm = Confirm
+system_Lv = Lv
 
 system_time_day = Day(s)
 system_time_hour = Hour(s)
