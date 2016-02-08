@@ -255,6 +255,7 @@ system_loading_tip_08 = Watch out for environment temperature
 system_loading_tip_09 = Create medical supplies through research
 system_loading_tip_10 = Drop items on the ground by putting them on the ground inventory ({INTERACT} key)
 system_loading_tip_11 = Press {GETALL} key to grab all items in the container.
+system_loading_tip_12 = Press {DODGE} key to quickly dodge incoming attacks.
 
 saveslot_title = Choose save game slot
 saveslot_refresh = Refreshing save game data
