@@ -478,3 +478,6 @@
 477;Keycard - Engineering Sub-door;Keycard for door leading from Research center to Engineering.
 478;Keycard - Research Sub-door;Keycard for door leading from Engineering to Research center.
 479;Shotgun Flux GX3;Core part for a shotgun.
+480;SpittingWalkerAttack1;(System weapon for BitingWalkers)
+481;VomWalkerAttack1;(System weapon for BitingWalkers)
+482;VomWalker2Attack1;(System weapon for BitingWalkers)

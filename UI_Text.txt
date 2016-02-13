@@ -742,6 +742,7 @@ speech_facility_biofarm = Remote crop growth controller.
 speech_facility_biofarm_noremote = Remote control seems to require level 2 or better software installed.\nI'll need to use the one at the biosphere for now.
 speech_facility_mine = Remote mine excavation controller.
 speech_facility_mine_noremote = Remote control seems to require level 2 or better software installed.\nI'll need to use the one at the mine for now.
+speech_facility_engineering_noremote = Remote control seems to require level 2 or better software installed.\nI'll need to use the one at the engineering for now.
 
 speech_oxygen_generator_turn_off = Turned off the oxygen generator!
 speech_oxygen_generator_turn_on = Turned on the oxygen generator!
