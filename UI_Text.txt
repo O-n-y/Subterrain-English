@@ -34,6 +34,7 @@ setting_fog_intensity = Fog Intensity
 setting_light_intensity = Light Intensity
 setting_outvision_intensity = Out of vision Intensity
 setting_shadow_intensity = Shadow Intensity
+setting_minimap_intensity = Minimap transparency
 setting_camera_mouse = Camera mouse distance
 setting_animated_fog = Animated Fog
 setting_bloom = Bloom
