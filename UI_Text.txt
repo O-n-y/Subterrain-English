@@ -647,6 +647,9 @@ map_location_Nilson engineering = Nilson Engineering
 map_location_MPO biosphere = MPO Biosphere
 map_location_MPO mine = MPO Mine
 map_location_Herbert research = Herbert Research
+map_location_Murray mansion = Murray mansion
+map_location_Murray mansion surface = ???
+map_location_Murray_Mansion
 
 map_POWER USAGE = POWER USAGE
 map_ENVIRONMENT = ENVIRONMENT
@@ -691,6 +694,7 @@ map_location_small_Aries = Aries
 map_location_small_Gemini = Gemini
 map_location_small_Leo = Leo
 map_location_small_Pisces = Pisces
+map_location_small_Mansion = Mansion
 
 map_generator = Generator
 map_generator_capacity = CAPACITY
