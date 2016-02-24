@@ -1,11 +1,11 @@
-Advanced spectrum analyzer center.
+The advanced spectrum analyzer center.
 
-This is the place where I spent most of my time while working on Mars.
+I spent a lot of time here when I was working on my research. There are two research systems here: one specialized for biological research, and one for technological research. Each research system makes use of a tiny network of nanomachines to [ffff00]break down[-] inserted samples into [ffff00]"blueprints"[-] that can be used to fabricate exact copies. It's an absolutely ingenious idea; I even borrowed some of the ideas behind its design for my own research.
 
-These super AI Nano-machines can analyze the molecular structure of the subjects and then feed that data to the engineering bay.
+Since whatever I put in the machines here is [ffff00]lost[-] when processed, I shouldn't put anything in that I currently need to survive, like an oxygen canister, unless I'm willing to wait until I can make a new one.
+ 
+These systems are also networked to a "thinktank" AI that specializes in [ffff00]improving designs[-]. I should see if I can make improved equipment by scanning some of the things I've found. Blueprints can also be fed into the machine manually, should I find any. It confuses the machine a little bit, but eventually the AI figures out it's supposed to be reading instructions rather than making an exact copy of those instructions.
 
-The engineers then use the data to copy the subject.  The AI is able to perform advanced analysis and make it's own improvements upon the subject.  In some cases, the copied subjects came out far superior to the original.
+All of this data is uploaded to a database that the [ffff00]3D printer[-] and [ffff00]bio combiner[-] in Nilson Engineering can access. I can use the facilities to make copies of objects I've researched or the improvements the thinktank AI has made.
 
-Human subjects are not tested yet, but I knew some of my old colleague were very interested in that.
-
-I can probably still operate them. [ffff00]Using one of these will consume the subject[-] of research so I must be careful not to destroy any critical objects that I need to survive.
+Well, let's see if I still know how to use this thing...

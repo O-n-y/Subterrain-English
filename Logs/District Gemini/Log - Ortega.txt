@@ -1,42 +1,45 @@
+//Transmission recorded: April 14th, 2053 at 21:36//
+
 [ccccff][i][ffffc0]Boss Ortega:[-]  
-  Baxter, you old witch.  I think I know why you are
-  calling.
+  Baxter, you dried up ol' nag. I think I know why 
+  you's calling. Spit it out, already.
 
 [ffffc0]Baxter:[-]
   ...
 
 [ffffc0]Boss Ortega:[-]
-  I can guess from your silence that you have noticed
-  one of your furry friends is... missing.
-  Well, the good news is that I found her.  
+  I guess cat got ya tongue, eh? Heheh.
+  I'm sure you know one of ya's furry
+  pals is missin'. Good news: I found her.  
 
 [ffffc0]Baxter:[-]
-  How...  Dare...  You...  
+  How. Dare. You. YOU-- 
 
 [ffffc0]Boss Ortega:[-]
-  Now don't you stop being lady-like...
+  Now, now... that's not ladylike. What
+  kind o' mother is you's? I've done you
+  a favor.
   
-  I'm just a simple concerned citizen who just
-  happened to find a lost animal.
+  I'm just a simple, concerned citizen who just
+  happened to find a poor, lost animal.
 
-  And it's a good thing too, seeing as she has a 
-  special data chip implanted under her skin.
-		
-  I think a finder's fee is in order. Come to my office
-  at [ffff00]Pisces district[-]. And if you can't pay, well... 
-  That's okay. I'll send Mr. Wiggles back to you.
+  Good thing too, seeing as she has a 
+  special gift under her skin. Any good
+  samaritan would help this creature. 
+        
+  I'm thinkin' a "finder's fee" is in order.
+  Come to my office in the [ffff00]Pisces District[-]. 
+  And if you can't pay, well... that's okay. 
+  I'll still send Mr. Wiggles back to you.
 
-  One paw at a time...
+  One paw at a time... heheh...
 
 [ffffc0]Baxter:[-]
-  !1!@1111121 You disgusting half-wit!
+  You. YOU!! YOU GO-- Ortega.
 
-  I'm coming for you.
+  I'm coming for you, Ortega.
 
-  Nobody can save you from what is about to 
-  happen!!1  I am coming and hell's coming with me!
+  Bring all the goons you need. I don't care.
+  I'm done. That was it. ORTEGAAAA--[/i][-]
 
-  I will blow your face off and feed you to my kitties!!1![/i][-]
-
-
-End of transmission
+//End of transmission//

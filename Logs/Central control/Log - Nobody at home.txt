@@ -1,21 +1,15 @@
-It looks like there is nobody at Central control.
+It looks like there's nobody here, living or otherwise. 
 
-Everyone seems to have either evacuated or died. 
+Everyone seems to have evacuated, and whatever did this isn't around either. I guess this place is safe, for now. I may as well set up my basecamp here. This would be a good place to stage my escape.
 
-But there also doesn't seem to be any infected around either.
+Fortunately for me, most of the important facilities for MPO are within walking distance of Central Control. I don't even need to power up those sections to reach them. 
 
-That is good news just in case it takes longer than I expect to find my way off of this planet.
+I could probably reboot the 3D printer and other facilities at [ffff00]Nilson Engineering[-], maybe even print out some supplies I need. 
 
-At least while I am in the Central control, I should be out of immediate danger.
+[ffff00]Herbert Research[-], where I used to work, has research equipment I could use to feed instructions to the systems in Nilson. 
 
-This would be a good place to make my stand.
+I'll probably have to use the excavator at the [ffff00]Mine[-] to gather materials for the 3D printer.
 
-After all, this area is the only place that has a direct connection to the other important facilities such as research and engineering.
+I should also check out the [ffff00]Biosphere[-]. I could probably use the agricultural systems there to supply the bio combiner at Nilson Engineering, maybe even sustain myself.
 
-Speaking of which, I should gather some supplies and try to explore those areas. If I remember it correctly, I think they were
-
-[ffff00]
-Herbert research, Nilson engineering, MPO mine, and MPO biosphere
-[-]
-
-Even if I don't find any supplies or information I should still be able to use the facilities in them... if they are still working.
+I should check out each location and see if I can figure out what's going on. At the very least, if I can get these facilities restarted, I can prepare myself for the worst. There are a few staircases leading to these areas somewhere around here... I'm sure I'll recognize them again once I see them.

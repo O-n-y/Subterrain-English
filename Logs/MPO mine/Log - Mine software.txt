@@ -1,8 +1,5 @@
-I have found the mine excavator and its software upgrade console.
+I have found the mine excavator and its software bay.
 
-It looks like I need a higher level of software in order to excavate other types of ore.
+That's odd... only basic software is installed? Regardless, I'll need to install better software in order to excavate other types of ore.
 
-
-There are only two options.  Either I find the software or find a data chip so that I can analyze and produce one.
-
-This place is operated by the Biggelow Mining Company... The same Biggelow that owns the Casino. I think he's got an office there too.
+This place is operated by the Bigelow Mining Company... The same one that owns the [ffff00]Solar Casino[-]. Maybe I can find more information on a [ffff00]software upgrade[-] there?

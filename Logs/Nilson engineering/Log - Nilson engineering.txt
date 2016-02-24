@@ -1,15 +1,11 @@
-Nilson engineering was one of the very first facilities built here on Mars.  It's even older than Central Control.
+Nilson Engineering was one of the very first facilities built here on Mars. It's older than any other facility or district on Mars, including Central Control.
 
-Almost everything that exists in the colony is created in here.
+Almost everything on Mars is manufactured here now, including pharmaceuticals and clothing. 
 
-Creating the colony using the advanced [ffff00]3D printing[-] technology was the only way to reduce the cost and solve the logistics problem of getting materials from Earth to Mars.
+[ffff00]3D printing[-] technology was the only feasible way to found a colony on Mars. The logistics issues alone would have halted MPO's development, as replacement parts would have to be shipped out from Earth.
 
-Later, more advanced subjects were being created here that are only possible on Mars specific conditions.
+Material shortages were also a problem on Mars back then, so the engineering bay has facilities to [ffff00]recycle[-] and [ffff00]refine[-] just about anything. This will definitely come in handy now that the colony's fallen apart.
 
-It was important that as much material as possible was recycled, the engineering bay has facilities to [ffff00]recycle[-] and [ffff00]refine[-] most of the things you can find or grow on Mars.
+These days, Nilson Engineering relies on the blueprint database at [ffff00]Herbert Research[-] in order to print out objects. Thankfully, Nilson's systems will cache blueprint data, so I won't lose access to blueprints if Herbert loses power.
 
-This super-efficient cycle of production was later embraced back on Earth but rare materials that are only found on Mars caused a massive and continuing dispute between Mars MPO and Earth.
-
-Today, engineering relies on the blueprint data sent from Herbert research so it can't function on its own.
-
-The engineers worked closely with the mining facility so maybe I can find the [ffff00]key card to the mine[-] if I look around.
+I know the guys at Nilson had a close relationship with the Bigelow Mining Company, so maybe I can find a [ffff00]key card[-] to the mine if I dig around.

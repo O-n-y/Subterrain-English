@@ -1,13 +1,9 @@
-I have found the power control console. There seems to be nobody here.
+This has got to be the power control console. As usual, there's no one here either.
 
-I should be able to control the power output of the colony from here.
+I should be able to control the flow of power for the colony from here as well as monitor the generator's current status. The generator's not operating at full capacity, so I should be careful when connecting additional sectors to the power grid. I could overload the reactor if I draw too much power. If I do, it'll overheat and probably initiate an emergency shutdown sequence. 
 
-I am not sure how much power the generator can handle, so I should be careful not to connect too many locations. 
+That would be bad - I could end up stranded if I'm not careful! And what's worse, working [ffff00]oxygen filters[-] and [ffff00]temperature regulators[-] can't function without power! A blackout means certain death, as far as I'm concerned.
 
-Otherwise it might overheat and shut down. It would be really bad news if there were to be a massive black-out while I was exploring out there.
+I can't just sit here, though. I'll have to power up other locations to gather supplies and gather information if I want to get out of here.
 
-I'll need to connect the power to locations that I want to travel to, because the tram runs on the same power grid.
-
-Also, any disconnected locations will lose their ability to generate oxygen and regulate the temperature so I should be aware of that.
-
-There seems to be some operation consoles around here. If I [ffff00]search[-] them I might be able to find some information.
+There's a lot of consoles around here. If I [ffff00]search[-] them, I might be able to find some information.

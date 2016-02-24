@@ -1,40 +1,50 @@
-[ccccff][i][ffffc0]Murray:[-] 
-  I need that Data Chip.  
-  I know you are a competent research scientist.
-  Nobody would ever say otherwise.
+//Transmission recorded: April 14th, 2053 at 19:17//
 
-  But some of your more... detrimental habits have
-  been getting out of hand lately.
+[ccccff][i][ffffc0]Murray:[-] 
+  I need that research data chip back.  
+  I know you're a competent researcher.
+  Nobody's questioning that.
+
+  But... some of your more... questionable 
+  methods have been getting out of hand 
+  lately. I need it back. 
+
+  I'm asking just this
+  once.
 
 [ffffc0]Baxter:[-]
-  111!!!11!!!  no!!!!  My methods are none of your business!
+  No!! And my methods are NONE of your business!!
 
 [ffffc0]Murray:[-]
-  I'm afraid they are, that's how the boss-employee
-  relationship works.
+  I'm afraid they are. That's how this
+  relationship works. You're a liability,
+  Agatha.
 
 [ffffc0]Baxter:[-]
-  Well, it's too bad because I don't even keep them in 
-  my office. The chip is inside of my little baby boo 
+  Too bad! It's not even here, baldy!
+  The chip is with my sweet baby,
   Mittens.
 
-  I left it with Mittens because she never trusts
-  anyone.  She's such a good kitty-witty.
+  I left it with my little Mittens because 
+  she never trusts anyone. 
+  She's such a good kitty-cat.
 
-  Last I saw, she had headed back to the [ffff00]Square[-]
-  where I found her. Probably deep in the crawlspace 
-  by now.
+  She's such a cutie, the way she pops in and out of
+  vents, like a little meerkat! My itty-bitty
+  kitty-mole!
 
-  It took hours of careful surgery to implant the chip, 
-  so good luck getting it even if you DO find her.
-  hahaha.
+  I told Mittens to never lose it, so I know she's 
+  going to do a good job! She'll hide it far away
+  from your gross face! You'll never find her!
 
 [ffffc0]Murray:[-]
-  Five minutes with a Swiss army knife should do the
-  trick.
+   I guess it would be unsettling for you to 
+   hear that I already know that fleabag is
+   somewhere in [ffff00]Viking Square[-].
+   And that I have a new violin that needs
+   to be stringed.
 
 [ffffc0]Baxter:[-]
-  you... wouldn't... dare...[/i][-]
+  YOU. WOULDN'T. DARE.[/i][-]
 
-
-End of transmision
+//End of transmission//

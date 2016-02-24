@@ -1,52 +1,52 @@
 mainmenu_continue = CONTINUE
 mainmenu_newgame = NEW GAME
-mainmenu_leaderboard = LEADER BOARDS
+mainmenu_leaderboard = LEADERBOARDS
 mainmenu_setting = OPTIONS
 mainmenu_credit = CREDITS
 mainmenu_exit = EXIT
 
-mainmenu_continue_instruction = Continue previously saved game
-mainmenu_newgame_instruction = Starts a new game.\nExisting game will be over-written
+mainmenu_continue_instruction = Continue a previously saved game
+mainmenu_newgame_instruction = Starts a new game in a slot\nExisting saves will be overwritten
 mainmenu_leaderboard_instruction = Check out the various leaderboards
 mainmenu_option_instruction = Configure game options
-mainmenu_credits_instruction = Creators of Subterrain
+mainmenu_credits_instruction = Watch the credits for Subterrain
 mainmenu_exit_instruction = Exit the game
 
-releasenote_title = Release note
+releasenote_title = Release notes:
 releasenote_closeinstruction = Press any key, button to close
 
-demo_speech_unable = Unable to use the tram in the demo game!
-demo_notice_title = Demo notice
+demo_speech_unable = I can't use the tram!\nI need to buy the game!
+demo_notice_title = Demo Notice
 demo_notice_content = Thank you for playing the Subterrain demo.\n\nPlease support us by purchasing the full game on Steam !\n\nThank you very much!
-demo_notice_button = Ok!
+demo_notice_button = OK!
 
 setting_title = Options
-setting_sound = Sound
+setting_sound = Volume Options
 setting_bgm = BGM
 setting_sfx = SFX
 setting_on = ON
 setting_off = OFF
-setting_restart_note = Full screen / Resolution / Vsync change requires a restart
+setting_restart_note = Fullscreen / Resolution / Vsync changes require a restart
 setting_language_note = Language can only be changed at the title menu
-setting_graphic = Graphic
+setting_graphic = Graphics Settings
 setting_resolution = Resolution
-setting_fog_intensity = Fog Intensity
+setting_fog_intensity = Animated Fog Intensity
 setting_light_intensity = Light Intensity
-setting_outvision_intensity = Out of vision Intensity
+setting_outvision_intensity = Fog of War Intensity
 setting_shadow_intensity = Shadow Intensity
-setting_minimap_intensity = Minimap transparency
-setting_camera_mouse = Camera mouse distance
+setting_minimap_intensity = Minimap Transparency
+setting_camera_mouse = Camera Drift Distance
 setting_animated_fog = Animated Fog
 setting_bloom = Bloom
 setting_environmental = Environmental effects
-setting_full_screen = Full Screen
+setting_full_screen = Fullscreen
 setting_vsync = VSync
-setting_light = Light
+setting_light = Light Quality
 setting_input_play = Input & Play
-setting_use_controller = Use Controller
-setting_autotarget = Auto target angle
-setting_user_guide = User Guide
-setting_auto_save = Auto Save
+setting_use_controller = Enable Controller
+setting_autotarget = Aim Assist Angle
+setting_user_guide = Tutorial Pop-ups
+setting_auto_save = Autosave
 setting_language = Language
 setting_save = SAVE
 setting_cancel = CANCEL
@@ -65,7 +65,9 @@ setting_Japanese = Japanese
 setting_Other = Other
 
 setting_keyboard_title = REMAP KEYBOARD INPUT
-setting_keyboard_notice = PRESS\n\nKEYBOARD KEY\nMOUSE BUTTON\nMOUSE SCROLL UP\nMOUSE SCROLL DOWN\n\nTO CHANGE MAPPING\n\nPRESS ESC TO CANCEL
+setting_keyboard_notice = PRESS\n\nKEYBOARD KEY\nMOUSE BUTTON\nMOUSE SCROLL UP\nMOUSE SCROLL DOWN\n\nTO CHANGE
+
+MAPPING\n\nPRESS ESC TO CANCEL
 setting_keyboard_back = RETURN TO SETTINGS
 setting_keyboard_up = MOVE UP
 setting_keyboard_left = MOVE LEFT
@@ -94,39 +96,39 @@ setting_keyboard_drag = DRAG
 setting_keyboard_weaponswapup = WEAPON SWAP UP
 setting_keyboard_weaponswapdown = WEAPON SWAP DOWN
 
-leaderboard_type = Leader board type
+leaderboard_type = Leaderboard type
 leaderboard_type_longest_survival_time = Longest survival time
 leaderboard_type_shortest_escape_time = Shortest escape time
 leaderboard_find_top50 = Top 50
 leaderboard_find_myrank = Near my rank
 
 userguide_Keyboard_and_Mouse = Keyboard and Mouse
-userguide_Controller = Game pad controller
-userguide_Tactical_panel = Tactical equipment
-userguide_Body_condition = Body condition
+userguide_Controller = Gamepad
+userguide_Tactical_panel = Tactical Equipment
+userguide_Body_condition = Body Condition
 userguide_Environment_panel = Environment
 userguide_Light = Light
 userguide_Scan = Scan
 userguide_Dragging = Dragging
-userguide_Ground_Items = Ground items
+userguide_Ground_Items = Ground Items
 userguide_Sprint = Sprint
 userguide_Inventory = Inventory
 userguide_Sitting = Sitting
-userguide_Lockeddoor = Locked doors
-userguide_Dodge_move = Dodge move
-userguide_Power_attack = Power attack
-userguide_Power_pack = Power pack
-userguide_Camera_Zoom = Camera zoom
+userguide_Lockeddoor = Locked Doors
+userguide_Dodge_move = Dodge Move
+userguide_Power_attack = Power Attack
+userguide_Power_pack = Power Pack
+userguide_Camera_Zoom = Camera Zoom
 userguide_Shield = Shield
 userguide_Sleeping = Sleeping
-userguide_Assemble = Assemble weapon
+userguide_Assemble = Assembling Weapon
 userguide_Tube = Tube
-userguide_Power_control_console = Power control console
-userguide_Oxygen_canister = Oxygen canister
-userguide_Temperature_canister = Temperature canister
+userguide_Power_control_console = Power Control Console
+userguide_Oxygen_canister = Oxygen Canister
+userguide_Temperature_canister = Temperature Canister
 userguide_Beacon = Beacon
-userguide_Oxygen_generator = Oxygen generator
-userguide_Temperature_regulator = Temperature regulator
+userguide_Oxygen_generator = Oxygen Generator
+userguide_Temperature_regulator = Temperature Regulator
 userguide_Generator_and_reactor_cores = Generator
 userguide_Generator_turret = Turrets
 userguide_Recycle = Recycle
@@ -136,13 +138,13 @@ userguide_Research = Research
 userguide_Mine = Mining
 userguide_Farm = Farming
 userguide_Repair = Repairing
-userguide_Facility_upgrade = Facility upgrade
+userguide_Facility_upgrade = Facility Upgrades
 userguide_Contamination = Contamination
 userguide_Stamina = Stamina
 userguide_HP = HP
 userguide_Thirst = Thirst
 userguide_Hunger = Hunger
-userguide_Piss = Piss
+userguide_Piss = Bathroom Needs
 userguide_Oxygen = Oxygen
 userguide_Temperature = Temperature
 userguide_Fracture = Fracture
@@ -264,14 +266,28 @@ saveslot_refresh = Refreshing save game data
 saveslot_empty = Empty slot
 saveslot_confirm = Over-write this save game?
 saveslot_autosave = Auto save
-saveslot_slot0 = Slot 0
-saveslot_slot1 = Slot 1
+saveslot_slot0 = Slot 1
+saveslot_slot1 = Slot 2
 
 newgame_title = New Game Setting
-newgame_easy = Easy Mode\n\n- 30% less thirst, hunger needs.\n- 50% more damage to mobs.\n- 40% less damage received.\n- 40% less contamination effect.\n- Slower infection and evolution speed.\n- Able to save from pause menu.
-newgame_normal = Normal Mode\n\n- 20% less thirst, hunger needs.\n- 20% less damage received.\n- 20% less contamination effect.\n- Able to save from pause menu.
-newgame_hardcore = Hardcore Mode\n\n- Normal thirst, hunger needs.\n- Normal damage received.\n- Normal contamination effect.\n- 30% more enemy health.\n- Faster infection and evolution speed.\n- Unable to save from pause menu.
-newgame_nightmare = Nightmare Mode\n\n- 20% more thirst, hunger needs.\n- 20% more damage received.\n- 20% more contamination effect.\n- 50% more enemy health.\n- Fastest infection and evolution speed.\n- Unable to save from pause menu.
+newgame_easy = Easy Mode\n\n- 30% less thirst, hunger needs.\n- 50% more damage to mobs.\n- 40% less damage
+
+received.\n- 40% less contamination effect.\n- Slower infection and evolution speed.\n- Able to save from pause
+
+menu.
+newgame_normal = Normal Mode\n\n- 20% less thirst, hunger needs.\n- 20% less damage received.\n- 20% less
+
+contamination effect.\n- Able to save from pause menu.
+newgame_hardcore = Hardcore Mode\n\n- Normal thirst, hunger needs.\n- Normal damage received.\n- Normal
+
+contamination effect.\n- 30% more enemy health.\n- Faster infection and evolution speed.\n- Unable to save from
+
+pause menu.
+newgame_nightmare = Nightmare Mode\n\n- 20% more thirst, hunger needs.\n- 20% more damage received.\n- 20% more
+
+contamination effect.\n- 50% more enemy health.\n- Fastest infection and evolution speed.\n- Unable to save from
+
+pause menu.
 newgame_difficulty = Difficulty
 newgame_skip_intro = Skip Intro
 newgame_skip_tutorial = Skip Tutorial
@@ -285,13 +301,25 @@ newgame_permdeath = Permanent death
 
 warning_invasion_before_title = WARNING
 warning_invasion_before_subtitle = MUTANT INVASION
-warning_invasion_before_detail = Central Control's generator is under attack!\nMutant creatures will invade the generator room from 3 directions.\nThe mutants will try to destroy all of the generator modules.\nSecurity alert means West can't travel using the tram or stairs.\nThe game can't be saved during an invasion.\nWest must defend the generator and eliminate all threats in order to disable the security lock down.
+warning_invasion_before_detail = Central Control's generator is under attack!\nMutant creatures will invade the
+
+generator room from 3 directions.\nThe mutants will try to destroy all of the generator modules.\nSecurity alert
+
+means West can't travel using the tram or stairs.\nThe game can't be saved during an invasion.\nWest must defend the
+
+generator and eliminate all threats in order to disable the security lock down.
 warning_invasion_after_title = SUCCESS
 warning_invasion_after_subtitle = ALL INVASION FORCES HAVE BEEN ELIMINATED
-warning_invasion_after_detail = All invading mutants have been eliminated.\nCentral control's security lock down has been disabled.
+warning_invasion_after_detail = All invading mutants have been eliminated.\nCentral control's security lock down has
+
+been disabled.
 warning_overheat_title = WARNING
 warning_overheat_subtitle = GENERATOR IS OVERHEATING
-warning_overheat_detail = The generator is using more power than it can produce.\nYou must return to the power control console and reduce its power output.\nIf you fail to return to Central control in time,\na massive blackout will trigger causing you to be stuck in remote places.
+warning_overheat_detail = The generator is using more power than it can produce.\nYou must return to the power
+
+control console and reduce its power output.\nIf you fail to return to Central Control in time,\na massive blackout
+
+will trigger causing you to be stuck in remote places.
 
 itemdetail_gun_craft_item = Gun Craft Item
 itemdetail_core = Core part
@@ -341,37 +369,37 @@ door_locked_nopass = Locked, can't be opened with a keycard
 
 elevator_title = Elevator
 
-speech_stats_thirst_1 = I need a drink.
-speech_stats_thirst_2 = I am quite thirsty.
-speech_stats_thirst_3 = I am very thirsty!\nNeed to drink now!
-speech_stats_hunger_1 = I need some food.
-speech_stats_hunger_2 = I am quite hungry.
-speech_stats_hunger_3 = I am starving!
+speech_stats_thirst_1 = I could use a drink.
+speech_stats_thirst_2 = I'm pretty thirsty.
+speech_stats_thirst_3 = My mouth's dry...\n...I need a drink...
+speech_stats_hunger_1 = I could use a snack.
+speech_stats_hunger_2 = I need to rustle up some grub.\nI'm getting pretty hungry.
+speech_stats_hunger_3 = I'm feeling pretty weak...\nI need some food.
 speech_stats_cold_1 = I have less than 25 thermal units in my canister.
-speech_stats_cold_2 = I have less than 16 thermal units in my canister.\nBetter recharge my thermal canister.
-speech_stats_cold_3 = I have less than 8 thermal units in my canister!\nBetter recharge my thermal canister.\nI am going to freeze in here!
-speech_stats_cold_4 = I have no thermal units left in my canister!\nI am going to freeze in here!
-speech_stats_sleep_1 = I'm a bit tired.
-speech_stats_sleep_2 = I am quite tired,\n need to sleep.
-speech_stats_sleep_3 = I am exhausted.\n I need to crash somewhere.
-speech_stats_fracture_1 = My leg is fractured.
-speech_stats_fracture_2 = I need to set this fracture.
-speech_stats_fracture_3 = If I don't set this break soon,\nI will die!
+speech_stats_cold_2 = My thermals are getting low...\nLess than 16 thermal units left.
+speech_stats_cold_3 = Down to 8 thermal units!\nI better recharge or swap it, quick!
+speech_stats_cold_4 = I have no thermal units left!\nI'm gonna freeze in here!
+speech_stats_sleep_1 = I'm a little tired.
+speech_stats_sleep_2 = I'm pretty tired.\nI could use a nap.
+speech_stats_sleep_3 = ...I'm exhausted...\n...gotta crash somewhere...
+speech_stats_fracture_1 = I think my leg's fractured!
+speech_stats_fracture_2 = This fracture hurts.\nI need a nanocast.
+speech_stats_fracture_3 = ...Gotta set this fracture...\n...gonna die otherwise...
 speech_stats_oxygen_1 = I have less than 25 oxygen units in my canister.
-speech_stats_oxygen_2 = I have less than 16 oxygen units in my canister.\nBetter recharge my oxygen canister.
-speech_stats_oxygen_3 = I have less than 8 oxygen units in my canister!\nBetter recharge my oxygen canister\nI'm going to suffocate!
-speech_stats_oxygen_4 = I have no oxygen left in my canister!\nI can't just die in here!
-speech_stats_bleeding_1 = I am bleeding.
-speech_stats_bleeding_2 = I am bleeding badly.
-speech_stats_bleeding_3 = I am bleeding to death!
-speech_stats_piss_1 = I need to piss.
-speech_stats_piss_2 = I really need to piss.
-speech_stats_piss_3 = I'm going to piss my pants!
-speech_stats_dump_1 = I need to take a dump.
-speech_stats_dump_2 = I really neeed to take a dump.
-speech_stats_dump_3 = I'm going to crap my pants!
-speech_stats_overburden = I am carrying too much weight.
-speech_stats_agilityLimit = My agility has been limited...
+speech_stats_oxygen_2 = My oxygen's getting pretty low...\nLess than 16 oxygen units left.
+speech_stats_oxygen_3 = Down to 8 oxygen units!\nI better recharge or swap it, quick!
+speech_stats_oxygen_4 = I have no oxygen left in my canister!\nI'm going to suffocate down here!
+speech_stats_bleeding_1 = I'm bleeding!
+speech_stats_bleeding_2 = This cut's pretty deep...\nI need to stop the bleeding.
+speech_stats_bleeding_3 = ...Gonna bleed to death...\n...need a bandage...
+speech_stats_piss_1 = I gotta whizz.
+speech_stats_piss_2 = Man, I gotta pee.\nWhere's a urinal?
+speech_stats_piss_3 = My bladder's about to burst!\nI gotta find a toilet!
+speech_stats_dump_1 = I gotta take a dump.
+speech_stats_dump_2 = I need to find a toilet.\n...Gotta drop a deuce.
+speech_stats_dump_3 = I'm going to crap my pants!\n...I need a toilet! Now!
+speech_stats_overburden = I'm carrying too much weight.
+speech_stats_agilityLimit = I can't move quickly anymore.
 
 stats_tip_thirst_1 = Minor Dehydration
 stats_tip_thirst_2 = Moderate Dehydration
@@ -383,9 +411,9 @@ stats_tip_cold_1 = Less than 25 thermal units in the canister
 stats_tip_cold_2 = Less than 16 thermal units in the canister
 stats_tip_cold_3 = Less than 8 thermal units in the canister
 stats_tip_cold_4 = No thermal units left in the canister!
-stats_tip_sleep_1 = Slight sleepiness
-stats_tip_sleep_2 = Moderate sleepiness
-stats_tip_sleep_3 = Extreme sleepiness
+stats_tip_sleep_1 = Mild Sleep Deprivation
+stats_tip_sleep_2 = Moderate Sleep Deprivation
+stats_tip_sleep_3 = Extreme Sleep Deprivation
 stats_tip_fracture_1 = Minor Fracture
 stats_tip_fracture_2 = Serious Fracture
 stats_tip_fracture_3 = Extreme Fracture
@@ -396,27 +424,27 @@ stats_tip_oxygen_4 = No oxygen units left in the canister!
 stats_tip_bleeding_1 = Slight Bleeding
 stats_tip_bleeding_2 = Serious Bleeding
 stats_tip_bleeding_3 = Excessive Bleeding
-stats_tip_bladder_1 = Slight Need to Piss
-stats_tip_bladder_2 = Serious Need to Piss
-stats_tip_bladder_3 = Extreme Need to Piss
-stats_tip_dump_1 = Slight Need to poop
-stats_tip_dump_2 = Serious Need to poop
-stats_tip_dump_3 = Extreme Need to poop
-stats_tip_overburden = Over-burdened
+stats_tip_bladder_1 = Slight Need to Urinate
+stats_tip_bladder_2 = Serious Need to Urinate
+stats_tip_bladder_3 = Extreme Need to Urinate
+stats_tip_dump_1 = Slight Need to Defecate
+stats_tip_dump_2 = Serious Need to Defecate
+stats_tip_dump_3 = Extreme Need to Defecate
+stats_tip_overburden = Overburdened
 stats_tip_agilityLimit = Crippled
 
-stats_tip_buff_heal = Heal
-stats_tip_buff_perception = Detect creatures
-stats_tip_buff_adrenalin = Extra movement speed
+stats_tip_buff_heal = Healing
+stats_tip_buff_perception = Sensing Enemies
+stats_tip_buff_adrenalin = Extra mobility and unlimited stamina
 stats_tip_buff_musclemax = Extra melee power
 stats_tip_buff_thirst = Drinking
 stats_tip_buff_hunger = Eating
-stats_tip_buff_hp_Max = Max HP Improvement
-stats_tip_buff_infectionImmunization = Prevent infection
-stats_tip_buff_bleed = Cure bleeding
-stats_tip_buff_fracture = Cure fracture
-stats_tip_buff_contamination = Reduce contamination
-stats_tip_buff_rest = Rested, Reduced stamina cost
+stats_tip_buff_hp_Max = Max HP improvement
+stats_tip_buff_infectionImmunization = Infection immunity
+stats_tip_buff_bleed = Treating Cut
+stats_tip_buff_fracture = Treating Fracture
+stats_tip_buff_contamination = Reducing contamination
+stats_tip_buff_rest = Reduced stamina cost
 
 stats_tip_hp = HP
 stats_tip_stamina = Stamina
@@ -435,7 +463,7 @@ inventory_medical = MEDICAL
 inventory_food = FOOD AND DRINK
 inventory_misc = MISCELLANEOUS
 inventory_material = MATERIALS
-inventory_data = DATA
+inventory_data = DATA / KEYCARD / FACILITY
 inventory_useitem = Use item
 inventory_equipitem = Equip item
 inventory_assembleitem = Assemble weapon
@@ -458,16 +486,16 @@ ground_get_item = Pickup all items
 journal_title = Journal
 journal_new = New
 
-install_title = Installation
+install_title = Weapon Module Installation
 install_link_capacity = Link Capacity
-install_install = Install
-install_uninstall = Uninstall
+install_install = Install Mods
+install_uninstall = Uninstall Mods
 
 recycle_bio_title = MPO Bio Recycle System
 recycle_tech_title = MPO Tech Recycle System
 recycle_input = Recyclable items
 recycle_output = Recycle results
-recycle_bio_recycle_all = Recycle all bio materials
+recycle_bio_recycle_all = Recycle all biomaterials
 recycle_tech_recycle_all = Recycle all misc objects
 recycle_select = Start recycle / Cancel recycle
 
@@ -485,8 +513,8 @@ storage_capacity = Capacity
 storage_weight = Weight
 storage_get_item = Take all items
 
-repairbay_title = Nano reconstruction bay
-repairbay_notice = Nano reconstruction bay can slowly restore item durability by using advanced nano-technology
+repairbay_title = Nano Reconstruction Bay
+repairbay_notice = The nano reconstruction bay can slowly restore item durability by using advanced nano-technology
 repairbay_complete = Completed
 repairbay_speed = Repair speed
 repairbay_maxdurability = Maximum durability restoration
@@ -502,13 +530,13 @@ slot_upgrade_research_tech = Tech Analyzer Software
 slot_upgrade_research_bio = Bio Analyzer Software
 slot_upgrade_repair = Nano Repair Software
 slot_shuttle_fuel_storage = Fuel Storage
-slot_shuttle_navigation = Navigation module
-slot_oxygen_generator = Oxygen filter
-slot_temperature_regulator = Temperature regulator
-slot_generator_reactor = Generator module
-slot_generator_turret = Security turret
+slot_shuttle_navigation = Navigation Module
+slot_oxygen_generator = Oxygen Filter
+slot_temperature_regulator = Temperature Regulator
+slot_generator_reactor = Generator Module
+slot_generator_turret = Security Turret
 
-jobqueue_required_software = Software required
+jobqueue_required_software = Software Required
 jobqueue_no_more_queue = No space in queue
 jobqueue_no_more_slot_storage = Requires 40 reserve material storage slots
 jobqueue_no_more_slot_production = Requires 20 reserve production storage slots
@@ -529,7 +557,7 @@ disassemble_controller = TECH RESEARCH SYSTEM
 disassemble_start = CLICK TO START RESEARCH
 disassemble_map_title = Research
 
-craft_title = MPO 3D Printing System
+craft_title = 3D Printing System
 craft_controller = MPO 3D PRINTING SYSTEM
 craft_start = CLICK TO PROCESS
 craft_map_title = Blueprint
@@ -550,7 +578,7 @@ craft_catalog3_tab3 = SPACE SHUTTLE
 craft_catalog3_tab4 = STORAGE MATERIAL
 craft_blueprint_title = Blueprint
 
-combine_title = MPO Bio Combine System
+combine_title = Bio Combine System
 combine_controller = MPO BIO COMBINE SYSTEM
 combine_start = CLICK TO PROCESS
 combine_map_title = Blueprint
@@ -571,12 +599,12 @@ combine_catalog3_tab3 = SPACE CENTER
 combine_catalog3_tab4 = BODY MODIFICATION CHIP
 combine_blueprint_title = Blueprint
 
-farm_title = MPO Bio Sphere
+farm_title = Biosphere
 farm_controller = MPO BIOSPHERE ACCELERATOR
 farm_start = CLICK TO BEGIN CROP GROWTH
 farm_map_title = MPO Genetic Map
 
-mine_title = MPO Mine Control System
+mine_title = Mine Excavator
 mine_controller = MPO MINE EXTRACTOR
 mine_start = CLICK TO EXTRACT ORE
 mine_map_title = MPO Mine Map
@@ -586,9 +614,9 @@ refine_controller = MINE ORE REFINING SYSTEM
 refine_start = CLICK TO REFINE ORE
 refine_map_title = Refine
 
-purify_title = MPO Bio Proccessing System
-purify_controller = BIO PROCCESSING SYSTEM
-purify_start = CLICK TO PROCESS BIO MATERIAL
+purify_title = MPO Bio Processing System
+purify_controller = BIO PROCESSING SYSTEM
+purify_start = CLICK TO PROCESS BIOMATERIAL
 purify_map_title = Process
 
 pause_title = Pause Menu
@@ -614,18 +642,18 @@ notice_tube_time_normal = NORMAL
 notice_tube_time_faster = FAST
 
 notice_tap_title = Drink
-notice_tap_confirm1 = Tap (Water remaining : 
+notice_tap_confirm1 = Tap (Water remaining :
 notice_tap_confirm2 = There is a risk of contamination.\n\nAre you sure?
 
 notice_saveconsole_title = Console
 notice_saveconsole_confirm = Save game\n\nAre you sure?
 
-gameover_title = Dr.West is dead
+gameover_title = Dr. West is dead!
 gameover_main = BACK TO MAIN MENU
 gameover_continue = CONTINUE SAVE GAME
-gameover_survivaltime = Survival time
-gameover_mobskilled = Mobs killed
-gameover_researchcompleted = Research completed
+gameover_survivaltime = Time survived
+gameover_mobskilled = Enemies killed
+gameover_researchcompleted = Research projects completed
 
 map_title = Mars map
 map_select_location = Select location
@@ -647,9 +675,6 @@ map_location_Nilson engineering = Nilson Engineering
 map_location_MPO biosphere = MPO Biosphere
 map_location_MPO mine = MPO Mine
 map_location_Herbert research = Herbert Research
-map_location_Murray mansion = Murray mansion
-map_location_Murray mansion surface = ???
-map_location_Murray_Mansion
 
 map_POWER USAGE = POWER USAGE
 map_ENVIRONMENT = ENVIRONMENT
@@ -660,10 +685,10 @@ map_INFECTION LEVEL_status_NORMAL = NORMAL
 map_INFECTION LEVEL_status_FAST = FAST
 map_INFECTION LEVEL_status_FASTEST = FASTEST
 map_INFECTION RATE = INFECTION RATE
-map_INFECTION RATE_Local infection = Local infection
-map_INFECTION RATE_Oxygen level = Oxygen level
+map_INFECTION RATE_Local infection = Local Infection
+map_INFECTION RATE_Oxygen level = Oxygen Level
 map_INFECTION RATE_Temperature level = Temperature
-map_INFECTION RATE_Regional spread = Regional spread
+map_INFECTION RATE_Regional spread = Regional Spread
 map_SECTION STATUS = SECTION STATUS
 map_Global_Infection = GLOBAL INFECTION
 map_Back = BACK TO GLOBAL MAP
@@ -680,7 +705,7 @@ map_location_small_Biosphere = Biosphere
 map_location_small_Research = Research
 map_location_small_Engineering = Engineering
 map_location_small_Prison = Prison
-map_location_small_Space center = Space center
+map_location_small_Space center = Space Center
 map_location_small_District = District
 map_location_small_MPO = MPO
 map_location_small_Carson = Carson
@@ -694,7 +719,6 @@ map_location_small_Aries = Aries
 map_location_small_Gemini = Gemini
 map_location_small_Leo = Leo
 map_location_small_Pisces = Pisces
-map_location_small_Mansion = Mansion
 
 map_generator = Generator
 map_generator_capacity = CAPACITY
@@ -716,154 +740,162 @@ map_operator_bioproduction = BIO PRODUCTION
 map_operator_bioresearch = BIO RESEARCH
 map_operator_techresearch = TECH RESEARCH
 
-container_bag_small = Small side bag
-container_bag_medium = Medium backpack
-container_bag_large = Large backpack
-container_bag_extra_large = Extra large backpack
+container_bag_small = Small Side Bag
+container_bag_medium = Medium Backpack
+container_bag_large = Large Backpack
+container_bag_extra_large = Extra Large Backpack
 container_suitcase = Suitcase
-container_storage_box = Storage crate
-container_storage_shelve = Storage shelf
+container_storage_box = Storage Crate
+container_storage_shelve = Storage Shelf
 container_drawer = Drawer
 container_data = Computer Console
 container_dumpster = Dumpster
 container_refrigerator = Refrigerator
-container_vending = Vending machine
+container_vending = Vending Machine
 container_showcase = Showcase
 
 speech_what = What!
 speech_ugh = Ugh!
-speech_arhh = Argh...
-speech_phew = Phew...
+speech_arhh = Ahh...
+speech_phew = Phew!
 speech_... = ...
 
-speech_facility_unpowered = Unpowered.
-speech_facility_software_needed = Software not installed.
-speech_facility_recycle = MPO recycling facilities.
-speech_facility_refine = MPO refining facilities.
-speech_facility_crafting = MPO 3D Printer.
-speech_facility_bio_analyzer = Bio subject analyzer.
-speech_facility_tech_analyzer = Tech subject analyzer.
-speech_facility_biofarm = Remote crop growth controller.
-speech_facility_biofarm_noremote = Remote control seems to require level 2 or better software installed.\nI'll need to use the one at the biosphere for now.
-speech_facility_mine = Remote mine excavation controller.
-speech_facility_mine_noremote = Remote control seems to require level 2 or better software installed.\nI'll need to use the one at the mine for now.
-speech_facility_engineering_noremote = Remote control seems to require level 2 or better software installed.\nI'll need to use the one at the engineering for now.
+speech_facility_unpowered = This facility's unpowered.
+speech_facility_software_needed = There's no software installed!
+speech_facility_recycle = MPO's recycling facilities.
+speech_facility_refine = MPO's refining facilities.
+speech_facility_crafting = MPO's 3D printer.
+speech_facility_bio_analyzer = The biological research systems.
+speech_facility_tech_analyzer = The technology research systems.
+speech_facility_biofarm = A remote terminal for the biosphere's facilities.
+speech_facility_biofarm_noremote = This remote terminal isn't working currently.\nIt needs level two software or
 
-speech_oxygen_generator_turn_off = Turned off the oxygen generator!
-speech_oxygen_generator_turn_on = Turned on the oxygen generator!
-speech_oxygen_generator_turn_on_nopower = I have turned on the oxygen generator,\nbut it is unpowered.
-speech_oxygen_generator_replace_filter = I should replace the filter if I can...
+better to function.\nI'll need to use the controls at the biosphere for now.
+speech_facility_mine = A remote terminal for the mine's facilities.
+speech_facility_mine_noremote = This remote terminal isn't working currently.\nIt needs level two software or better
 
-speech_temperature_regulator_turn_off = Turned off the temperature regulator!
-speech_temperature_regulator_turn_on = Turned on the temperature regulator!
-speech_temperature_regulator_turn_on_nopower = I have turned on the temperature regulator,\nbut it is unpowered.
-speech_temperature_regulator_replace_sensor = I should replace the regulator if I can...
+to function.\nI'll need to use the controls at the mine for now.
+speech_facility_engineering_noremote = This remote terminal isn't working currently.\nIt needs level two software or
 
-speech_shuttle_no_fuel = Not enough fuel to take off.
-speech_shuttle_no_fuel_no_nav = Navigation module has not yet been installed.\nAlso not enough fuel to take off...
-speech_shuttle_no_nav = Navigation module is not installed.
+better to function.\nI'll need to use the controls at Nilson for now.
+
+speech_oxygen_generator_turn_off = I turned off the oxygen generator!
+speech_oxygen_generator_turn_on = I turned on the oxygen generator!
+speech_oxygen_generator_turn_on_nopower = I've turned on the oxygen generator.\nIt seems to be unpowered, though.
+speech_oxygen_generator_replace_filter = I should replace the filter later.
+
+speech_temperature_regulator_turn_off = I turned off the temperature regulator!
+speech_temperature_regulator_turn_on = I turned on the temperature regulator!
+speech_temperature_regulator_turn_on_nopower = I've turned on the temperature regulator.\nIt seems to be unpowered,
+
+though.
+speech_temperature_regulator_replace_sensor = I should replace the regulator later.
+
+speech_shuttle_no_fuel = There isn't enough fuel to take off.
+speech_shuttle_no_fuel_no_nav = There is no working navigation module installed.\nI also need to finish fueling the shuttle.
+speech_shuttle_no_nav = A working navigation module is not installed.
 
 speech_needbag = I need a bag to carry my stuff!
 speech_bag_smaller = It's a smaller bag.
 speech_bag_full = My bag is full!
-speech_wear_wornedout = I can't wear a worn out suit!
+speech_wear_wornedout = I can't wear this suit! It's worn out!
 speech_wear_destroyed = My suit has been destroyed!
 speech_powerpack_need_recharge_powerpack = I need to recharge my power pack.
 speech_powerpack_needpowerpack = I need a power pack.
-speech_powerpack_outofenergy = Power pack is out of energy.
-speech_weapon_toohot = It's too hot!
-speech_weapon_broken = My weapon is broken!
-speech_tap_notsafe = It's not safe to use the tap right now.\nSomething is lurking nearby...
-speech_tap_busy = Can't use the tap right now. I'm busy with something...
+speech_powerpack_outofenergy = My power pack is out of energy.
+speech_weapon_toohot = This gun's too hot!
+speech_weapon_broken = My weapon broke!
+speech_tap_notsafe = It's not safe to drink from the tap.\nI hear something nearby...
+speech_tap_busy = Can't use the tap right now.\nI'm a little busy.
 speech_tap_dry = This tap is dry.
-speech_toilet_noneed_piss_dump = I don't need to piss or take a crap right now.
-speech_toilet_noneed_piss = I don't need to piss right now.
-speech_toilet_cant_dump = I can't take a dump in here.
-speech_toilet_better = That's better.
-speech_bed_bleeding = I can't sleep while bleeding!
-speech_bed_already_slept = I can't sleep. I just woke up.
-speech_bed_lurking_around = I can't sleep. Something is lurking nearby...
+speech_toilet_noneed_piss_dump = ...I don't need to go right now.
+speech_toilet_noneed_piss = ...I don't need to pee.
+speech_toilet_cant_dump = ...I can't go right now!
+speech_toilet_better = That's better!
+speech_bed_bleeding = I'm still bleeding...\nI need to patch up, first.
+speech_bed_already_slept = I'm not tired anymore,\nI just woke up!
+speech_bed_lurking_around = I can't sleep right now.\nI hear something nearby.
 speech_bed_base_invasion = The generator is under attack!
-speech_chair_lurking_around = I can't sit right now, there is something is lurking nearby...
-speech_charger_complete = Charging complete
-speech_charger_need_powerpack = I need to equip a power pack to be able to use a recharge station.
-speech_charger_unpowered = Charging station is drained and unpowered.
-speech_charger_already_charging = Charging in progress.
-speech_charger_need_oxygentank = I need to equip an oxygen canister to be able to use this recharge station.
-speech_charger_need_temperaturetank = I need to equip a thermal canister to be able to use this recharge station.
-speech_elevator_unpowered = This elevator is not powered.
-speech_tube_security_lock_down = The tram has been shut down\ndue to a security lockdown!
-speech_tube_power_down = This tram is not powered.
-speech_stairs_security_lock_down = Access to the stairs has been shut down\ndue to a security lockdown!
-speech_savepoint_security_lock_down = Game save console has been disabled\ndue to a security lockdown!
-speech_security_switch = I can't power up the generator's security measures\nwhen there is no threat detected.
-speech_hatch_block = I can't go through it;\nlooks like something is blocking the hatch.
+speech_chair_lurking_around = I can't sit right now.\nI hear something nearby.
+speech_charger_complete = Charging complete!
+speech_charger_need_powerpack = I need to equip a power pack\nbefore I can use this.
+speech_charger_unpowered = This charging station is drained and unpowered.
+speech_charger_already_charging = Charging in progress!
+speech_charger_need_oxygentank = I need to equip an oxygen canister\nbefore I can use this.
+speech_charger_need_temperaturetank = I need to equip a thermal canister\nbefore I can use this.
+speech_elevator_unpowered = This elevator isn't powered.
+speech_tube_security_lock_down = The tram has been shut down!\nThere's a security lockdown!
+speech_tube_power_down = The tram isn't powered.
+speech_stairs_security_lock_down = Stair access has been cut off!\nThere's a security lockdown!
+speech_savepoint_security_lock_down = This console is disabled!\nThere's a security lockdown!
+speech_security_switch = The security turrets are currently disabled.\nThere's no threat detected nearby.
+speech_hatch_block = I can't go through it.\nLooks like something is blocking the hatch.
 
-speech_event_drink = Ahh, much better...\n But I need to get out of here somehow.
-speech_event_food = Better, but I'm still hungry.
-speech_event_sleepy = ZzZzZz
+speech_event_drink = Ahh, much better...\nI need to keep moving.
+speech_event_food = That's a little better.\nI'm still hungry, though.
+speech_event_sleepy = I'm pretty tired...\nMaybe I should rest?
 speech_event_got_weapon_1 = Nice, a weapon.
-speech_event_got_weapon_2 = Nice, another weapon...
+speech_event_got_weapon_2 = Nice, another weapon!
 
-speech_item_oxygen_nosuit = Can't refill oxygen. My suit has no oxygen storage.
-speech_item_drink_lurking = I can't drink right now. Something is lurking nearby...
-speech_item_food_lurking = I can't eat right now. Something is lurking nearby...
+speech_item_oxygen_nosuit = I have no way to store oxygen at the moment.
+speech_item_drink_lurking = I can't drink right now...\nI just heard something nearby...
+speech_item_food_lurking = I can't eat right now.\nI just heard something nearby...
 
-speech_how_long_was_I_in_sleep = Ugh... how long was I asleep?
-speech_awfully_quite = It's awfully quiet, I can't even hear the ventillation fans.
-speech_i_wonder_if_oxygen_generator_is_working = I wonder if the oxygen generator is still working.
-speech_it_is_very_dark = It's very dark in here...
-speech_door_seems_to_be_nonfunctional = This door seems to be broken.
-speech_there_is_water_bottle = There's a water bottle. I should pick it up!
+speech_how_long_was_I_in_sleep = I think it's time to leave...
+speech_awfully_quite = The power to the fans finally died.
+speech_i_wonder_if_oxygen_generator_is_working = I hope the oxygen generator is still working.
+speech_it_is_very_dark = ...It's pretty dark down here.
+speech_door_seems_to_be_nonfunctional = This door's busted.
+speech_there_is_water_bottle = There's a water bottle!\nMan, I could use a drink!
 speech_jake_cell1 = This is Jake's cell.
-speech_jake_cell2 = He had a serious sweet tooth. He must have something\nto eat hidden somewhere in this cell.
+speech_jake_cell2 = He had a serious sweet tooth.\nThere must be a candy stash somewhere.
 speech_time_to_get_out = Time to get the hell out of here!
-speech_holy_crap = Holy crap!
-speech_he_won't_need_bag = He won't need this bag anymore.
+speech_holy_crap = Woah! Holy crap!
+speech_he_won't_need_bag = He won't need this anymore.
 speech_this_door_is_locked = This door is locked.
-speech_guardroom1 = Guard's duty room.
+speech_guardroom1 = It's the duty room for the guards.
 speech_guardroom2 = Maybe I can find something useful.
-speech_this_can't_be_happening = This can't be happening...
-speech_what_happened_here = Ugh, What happened here!?
-speech_i_better_get_going = I better get going, maybe this tram is still running...
-speech_visitor_meeting_room1 = Visitor's meeting room.
+speech_this_can't_be_happening = ...This... can't be happening...
+speech_what_happened_here = Ugh...! What happened here!?
+speech_i_better_get_going = I need to make it to the main gate!\n...I hope the tram still works...
+speech_visitor_meeting_room1 = This is the visitation area.
 speech_visitor_meeting_room2 = No one ever visited me here.
 speech_tube1 = Holy crap! The tram is still operational!
-speech_tube2 = I am not sure why and for how long...
-speech_tube3 = But I am getting out of here.
-speech_tube4 = Where should I go?
-speech_hallway_toxicated_radiation = This hallway has been made toxic by radiation!
-speech_check_oxygen_supply = I should check my oxygen supply.
-speech_there_is_no_one_here = It doesn't look like there's anyone here.
-speech_power_control_console = Power control console.
-speech_foundlog = There is a data log on the floor.
+speech_tube2 = Looks like I lucked out.
+speech_tube3 = I need to get the hell out of here.
+speech_tube4 = I'm not sure where I should go, though...
+speech_hallway_toxicated_radiation = Woah! Are those waste barrels?!\nI should stay away those!
+speech_check_oxygen_supply = I equip oxygen and thermal canisters, and make\nsure they are charged before heading down. 
+speech_there_is_no_one_here = ...Not a soul around.
+speech_power_control_console = This looks like the power control console.
+speech_foundlog = There's a device on the ground.\nI should check it out.
 
-speech_spectrum_analyzer = Advanced spectrum analyzer.
-speech_spectrum_analyser_to_north = The spectrum analyzer is to the north.
-speech_didn't_play_here = I didn't play here much...
-speech_research_kitchen1 = Kitchen, I never cooked here.
-speech_research_kitchen2 = Dr. Kan used to make some good sandwiches.
-speech_research_baxter1 = Agatha Baxter's office.
-speech_research_baxter2 = She was in charge of Herbert research center.
-speech_research_baxter3 = She was a cat lady.
-speech_my_old_room = My old room...
+speech_spectrum_analyzer = These are the "advanced spectrum analyzers."
+speech_spectrum_analyser_to_north = The research systems are to the north.
+speech_didn't_play_here = I didn't play here often.\nI wasn't very social...
+speech_research_kitchen1 = The kitchen. Good times here.
+speech_research_kitchen2 = ...I miss Dr. Kan's sandwiches.
+speech_research_baxter1 = This is Agatha Baxter's office.
+speech_research_baxter2 = She was in charge of the Herbert Research Center.
+speech_research_baxter3 = ... she was something of a cat lady.
+speech_my_old_room = This is my old room.
 
-speech_mine_upgrade = Excavator upgrade console.
+speech_mine_upgrade = This is the software terminal for the excavator.
 
-speech_engineering_hardtime1 = Nilson Engineering...
-speech_engineering_hardtime2 = Always had a hard time getting what I needed from these guys.
-speech_engineering_hardtime3 = If your suit didn't have the Biggelow corporation logo,\nyou were not a priority.
+speech_engineering_hardtime1 = This is Nilson Engineering.
+speech_engineering_hardtime2 = These guys always gave me a hard time with my print orders.
+speech_engineering_hardtime3 = If Bigelow's logo wasn't on your suit,\nyou were routinely ignored by the staff.
 
-speech_aries_Bae_penthouse = This is Sang Jun Bae's penthouse.\nBoss of Nilson engineering.
-speech_aries_deadboss_passion = I can see he inspired a lot of passion in his employees.
+speech_aries_Bae_penthouse = This must be Sang Jun Bae's penthouse.\nHe's the manager at Nilson Engineering.
+speech_aries_deadboss_passion = ...I can see he inspired a lot of passion in his employees.
 
-speech_spacecenter_shuttle = The shuttle has not taken off yet!
+speech_spacecenter_shuttle = There's still a shuttle here!
 
-speech_plaza_Zeronica_Jones = This seems like Zeronica Jones's storage room.
+speech_plaza_Zeronica_Jones = This must be Zeronica Jones's storage room.
 
-speech_pisces_Zeronica_Jones = This seems like Zeronica's home.
-speech_pisces_AgathaBaxter_Rampage = Seems like someone or something rampaged through here...
-speech_pisces_AgathaBaxter1 = Here lies Agatha Baxter.
-speech_pisces_AgathaBaxter2 = Dedicated Mother,
-speech_pisces_AgathaBaxter3 = Star Research Scientist,
-speech_pisces_AgathaBaxter4 = Murder Machine.
+speech_pisces_Zeronica_Jones = The name on the plate says: "Zeronica Jones"
+speech_pisces_AgathaBaxter_Rampage = Woah! What the hell did this?!\nIt must have been something huge!
+speech_pisces_AgathaBaxter1 = ...Here lies Dr. Agatha Baxter...
+speech_pisces_AgathaBaxter2 = ...a dedicated mother of cats...
+speech_pisces_AgathaBaxter3 = ...Head of research at Herbert Engineering...
+speech_pisces_AgathaBaxter4 = ... and apparently a Murder Machine.

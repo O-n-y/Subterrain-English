@@ -1,11 +1,11 @@
-[ccccff][i]I have finished upgrading the software of the power console display to indicate the effects that oxygen and temperature are having on the rate of infection.
+[ccccff][i]Alright, Dr. Kan, I managed to figure this out. Using the data you got from Dr. Rascowicz, I came up with a user interface modification so we can calculate the rate of infection from a glance. It's really simplified, but it'll get the job done.
 
-Dr.Kan was right about this. It seems as though [ffff00]low oxygen[-] and [ffff00]cold temperature[-] speeds up the infection rate.
+First off, we've managed to tap into each district's bio scanners. Thankfully, these are subsystems that are directly powered by the generator, so we won't have to worry about keeping observed locations powered. Each district's "infection level" is calculated by density; the more there are, the higher the percentage. Once I figure out a better way to calculate population, I'll patch it in, but for now, I just set a high threshold. If a district is above 80%, I'd steer clear of it! I don't even want to think what 100% would look like!
 
-The correlation between these factors is not understood. And those Frankensteinesque scientists aren't forthcoming in their notes.  Am I the only professional in this zoo?  Sigh, I guess I just have to keep my nose to the grindstone and finish running these procedures.
+The next thing I've added to the UI is "infection rate." Dr. Rascowicz, of all people, was right all along: [ffff00]low oxygen levels[-] and [ffff00]cold temperatures[-] speed up the rate that this infection spreads. The "infection rate" readout will monitor temperature and oxygen levels and factor that into the estimated rate of growth. Once you get those prototype filters and regulators, this system is prepared to measure the suppression effect and factor it into those calculations.
 
+I don't get any of this, Dr. Kan! I mean, I punched in the data you gave me, but can you explain what's going on in a way I can friggin' understand? What's the correlation here? 
 
-Someone mentioned a mass evacuation soon.  And here I am, unable to pull away from my work.  Why can't security just do their job already?  Am I the only one that does their job around here?
+You know what? Screw it.
 
-
-Oh well, who knows what's going to happen. I don't really care.[/i][-]
+I heard the evacuation announcement. It's just a matter of time before I'm allowed to get the hell out of here and forget about all of this, so I'd rather not know just how crappy this situation is. It'd be better to be oblivious if this situation is as bad as security claims it is.[/i][-]

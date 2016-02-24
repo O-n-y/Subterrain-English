@@ -1,18 +1,9 @@
-There was only one operational tram connection at the prison. And it went straight to Central Control.
+The tram brought me to Central Control without any issues. Everything seems fine... it's rather odd, actually.
 
-I don't know what I was hoping to find when I went to the Central control station, but when I arrived the station was quiet.
+I wasn't exactly sure what to expect when I arrived, but I didn't expect silence. Central tends to be swarming with people; hovering over terminals, talking through the corridors, guards posted up at doorways. Instead, it's a ghost town.
 
-The good news was that the oxygen generator seems to be running. Otherwise I wouldn't have survived.
+The good news is that the oxygen generator seems to be running. Otherwise, I would have suffocated as soon as I opened the tram doors. Hopefully, most of MPO is in similar shape. Maybe I can check the status of each district's life support systems somewhere in Central Control.
 
-There is no telling if other places have oxygen and temperature regulation in a chaotic situation like this.
+First thing's first: I better check on the reactor. Central Control is where power is monitored and distributed through MPO. The reactor's in a secured area, but it's literally down the hall. I can easily access it should it need maintenance. I'll need to keep the reactor in working order, as the entire colony is dependent on the power supplied from this location to keep life support online. On top of that, the tram doesn't seem to be able to access any location that doesn't have power, so I'll have to keep that in mind.
 
-Central Control is basically the power plant for the entire colony. 
-
-
-It is here that energy is produced and sent out to other locations.  It's the single most important facility in the Mars colony.
-
-The colony is dependent on the power supplied from this location to produce oxygen and to keep the temperature stable. Hell, even the trams are on the same power grid.
-
-I should explore the area and search for supplies. But most importantly, I should look out for the [ffff00]power control console[-]. 
-
-I can probably use it to connect the power to the other locations in the colony. Perhaps I should go to the Murray space center and see if I can get a ride off of Mars.
+I should explore the area and search for supplies. But most importantly, I should look out for the [ffff00]power control console[-]. It's got to be around here somewhere. Murray Space Center's lost power, but if I can reconnect it, I might be able to find a way out of here... or, better yet, off Mars.

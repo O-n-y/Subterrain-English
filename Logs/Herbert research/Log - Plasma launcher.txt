@@ -1,34 +1,39 @@
+//Transmission recorded: April 14th, 2053 at 22:53//
+
 [ccccff][i][ffffc0]Merrick:[-]
-  Is the prototype blueprint secure?
+  Is the blueprint of the prototype secure?
 
 [ffffc0]Johnathan:[-]
-  Yeah, we got a hold of it, it's being stored in my lab 
-  at the [ffff00]Carson hotel[-], it's under lock and key,
-  only you and me have the [ffff00]keycards[-] to access it.
+  Yeah, I got a hold of it. I've stowed it in my private 
+  lab at the [ffff00]Carson Hotel[-]. I've patched my
+  door's security flaw. Those hacked keycards
+  floating around won't work on it. 
+  
+  Only our [ffff00]keycards[-] will work. I guarantee it.
 
 [ffffc0]Merrick:[-]
-  Good, we can't have any screw ups with this. 
-  This is a top-secret order from Commander 
-  Sheridan.
+  Okay... good. We can't screw this up. I want to
+  be absolutely sure it doesn't get recovered. 
+  Sheridan would have our asses if anyone even
+  knows about this. If someone found the damn thing,
+  we'd be ejected into space.
 
-  This design is one of a kind; if anything happens to it
-  we're screwed. You know what happens to people
-  that can't follow orders.
+  We're leaving ASAP. They've announced an
+  evacuation, some sort of outbreak or some shit.
+  Don't get distracted by it, this blueprint is the only
+  copy. We need to [f04030]wipe the research database[-]
+  before we leave. They don't want anything left if
+  Earth gets involved before the situation is resolved.
 
-  We're leaving asap. Emergency evacuation of the 
-  Mars colony has been announced, some yahoo is 
-  talking about an infection. 
-
-  Prepare the package to be picked up and be ready 
-  to jump on the first evac out of here.
+  We need to pick it up before we evacuate.
 
 [ffffc0]Johnathan:[-]
-  Alright, understood, I'm headed out to pick it up.
+  Alright, understood. I'll head out and pick it up now.
 
 [ffffc0]Merrick:[-]
-  And remember either you come to the shuttle with 
-  the package, or not at all.
-[/i][-]
+  Remember, Johnathan: don't bother showing up if
+  you don't have the blueprint! None of us are going
+  anywhere without it! And delete your call logs this
+  time, dammit![/i][-]
 
-
-End of transmission
+//End of transmission//

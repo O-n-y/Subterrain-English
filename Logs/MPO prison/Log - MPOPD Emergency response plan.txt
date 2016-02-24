@@ -1,20 +1,25 @@
-[ccccff][i]Emergency outbreak response plan 11-B.
+[ccccff][i]Outbreak Response Plan 11-B Status Update: 
+April 15th, 2053
 
-- Confirmation of outbreak: 92% of population infected and rising.
+Attention all security staff, the following is a status update regarding 11-B:
 
-- Survivors group is gathering at rally point: Murray space center. - confirmed 134 uninfected.
+- 92% of MPO's population is infected with the unknown agent.
+ 
+Infected can be identified by bio scan or rudimentary metal detector test if scanning equipment is unavailable.
 
-- MPO Emergency Response Meeting result (7 council members attending):   
-council agrees by unanimous vote to shut down power for the entire city including the space center.
+- The survivors that were ordered to report to security staff at Murray Space Center had made it there safely.
 
-- Plans have been completed for evacuation of all surviving personnel, including prisoners. - confirmed 53 uninfected
+According to their last report, there were 134 uninfected individuals including security staff.
 
-Prisoners will be moved to the Murray space stations by 5PM April 16.  
-Prisoners are to be handled with extreme caution, taking care to follow all security protocols.  
+- MPO's emergency response team meeting was presided by seven surviving council members.
 
-Repeat!  Follow all security protocols for the transfer of prisoners.  Don't let this disaster turn into a catastrophe by being lazy!
+The present council members unanimously voted to shut down power for the entire city, excluding Murray Space Center and MPO Prison.
 
+Evacuation plans for the prison have been approved. The remaining staff and prisoners are to load onto trams and rally at Murray Space Center. Once at Murray, staff and prisoners will be assigned a shuttle. Proper safety procedures must be followed: all security staff and prisoners must wear proper IEVA suits before boarding shuttles, and navcom diagnostics must be run before takeoff. Once approved for takeoff, all shuttles are to dock with Mars Orbital Station and await further instructions.
 
-Year 2053 April 15 
-MPOPD Director of Security
-James Worlick[/i][-]
+Prisoners must be transported to Murray Space Center by 23:00 hours tomorrow and are to be handled with extreme caution! Some of them were serving sentences for murder. They are not to be left unsupervised!
+
+Again: do not leave any prisoner unsupervised during the transfer! If we closely follow protocol, we could very well avoid a complete catastrophe.
+
+          James Worlick
+          Director of Security[/i][-]

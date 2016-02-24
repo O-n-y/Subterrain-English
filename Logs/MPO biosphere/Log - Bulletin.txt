@@ -1,22 +1,19 @@
 Upon entering the room, I noticed a massive bulletin on the wall.
 
-[ffffc0]Bulletin:[-]
+[ffffc0]Attention: Biosphere Staff
+April 7th, 2053[-] 
 [ccccff][i]
-As of today 2300 hours, I am assuming full control over the biosphere.
+As of 23:00 hours today, I have relieved Dr. Tayama of all leadership responsibilities. Negligence or incompetence will no longer be tolerated at the biosphere. Due to a lack of cooperation, Dr. Tayama will be taken to a secure location for enhanced interrogation techniques.
 
-All biological specimens previously listed as being in violation of health code directives 3, 7, and 14 must be placed in the incinerator by 0500 tomorrow.
+All biological specimens previously listed as being in violation of health code directives 3, 7, and 14 must be placed in the incinerator by 05:00 tomorrow. Any biosphere staff caught with specimens that violate these directives will be dealt with accordingly.
 
-I'm taking command due to what I consider to be gross negligence among the biosphere staff and leadership.
+All sensitive equipment, including [ffff00]data chips[-], are to be confiscated. Due to the biosphere's history of negligence, confiscated equipment will be moved to my storage facility in the [ffff00]Plaza[-] until things shape up around here. Staff caught with confiscated equipment will be joining Dr. Tayama.
 
-Follow my directives to the letter and we will not have any further problems.
+As long as my instructions are followed, I'm sure we can get along and root out all the filth.
 
-Dr. Tayama is being taken to a secure location for enhanced questioning.
+If you have any questions, you know where to find me.
 
-All necessary equipment including [ffff00]data chips[-] will be moved to my storage facility in the [ffff00]Plaza.[-]
-
-If you have any questions, you will know where to find me.
-
-	-Zeronica Jones.
+          - Zeronica Jones.
 [/i][-]
 
-Dr. Tayama has been taken out?
+Dr. Tayama was taken in for "enhanced interrogation techniques"...?

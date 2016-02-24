@@ -1,20 +1,20 @@
-I have found a body that looks like Dr. Tayama, laying crumpled on the floor.
+There's a body here crumpled up on the floor. It looks like Dr. Tayama, the lead researcher at the biosphere. He's been dead for a while.
 
 There are various supplies scattered across the room.
 
-Dr. Tayama... I guess this was Zeronica's 'enhanced questioning.'
+Damn... I guess this was what Zeronica meant by "enhanced interrogation tactics" in that bulletin.
 
-I also found what seems like Zeronica's Log: 
+I also found a log. It's covered in blood.
 
+[i][ffffc0]//Report: April 8th, 2053//[-]
+[ccccff]Agent Heather Morgan, reporting in for the last time.
 
-[i][ffffc0]Zeronica's Log:[-]
-[ccccff]Undercover Agent Heather Morgan checking in for the last time.
+Heather Morgan is dead to me. She was a weak, ineffectual cog in the bureaucratic machine of Earth. Maybe it's the money talking, or the power, or the thrill of killing a man with my bare hands. I don't know...
 
-Heather Morgan is dead to me. She was a weak, ineffectual, bureaucratic jerk-off. Maybe it's the radiation speaking... Or the money... or the thrill of killing a man with my bare hands... Who knows? But I can't go back to Earth.
+What I do know is that I have no reason to go back to Earth.
 
-Murray found out about Tayama's death. I thought he'd kill me or turn me in. He said I'd only proven myself to him.
+Mr. Murray found out about Dr. Tayama's death. I thought he'd kill me or make an example of me; toss me in the prison along with all his other trash. Instead, he said I had proved myself. He congratulated me.
 
-He shared his vision with me. On Earth we are just people. On Mars we are like Gods.[/i][-]
+Mr. Murray shared his vision with me. On Earth, if we aren't slaves, we're just people. Simple people. Even he was. On Mars, we can be Gods in a kingdom we've carved out for ourselves. [/i][-]
 
-
-Murray...  That son of a...
+...I guess Murray wasn't as benevolent as he appeared to be.
