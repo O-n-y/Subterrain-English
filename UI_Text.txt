@@ -399,7 +399,7 @@ speech_stats_dump_1 = I gotta take a dump.
 speech_stats_dump_2 = I need to find a toilet.\n...Gotta drop a deuce.
 speech_stats_dump_3 = I'm going to crap my pants!\n...I need a toilet! Now!
 speech_stats_overburden = I'm carrying too much weight.
-speech_stats_agilityLimit = I can't move quickly anymore.
+speech_stats_agilityLimit = I can't move quickly anymore!
 
 stats_tip_thirst_1 = Minor Dehydration
 stats_tip_thirst_2 = Moderate Dehydration
@@ -897,5 +897,5 @@ speech_pisces_Zeronica_Jones = The name on the plate says: "Zeronica Jones"
 speech_pisces_AgathaBaxter_Rampage = Woah! What the hell did this?!\nIt must have been something huge!
 speech_pisces_AgathaBaxter1 = ...Here lies Dr. Agatha Baxter...
 speech_pisces_AgathaBaxter2 = ...a dedicated mother of cats...
-speech_pisces_AgathaBaxter3 = ...Head of research at Herbert Engineering...
+speech_pisces_AgathaBaxter3 = ...Head of research at Herbert Research Center...
 speech_pisces_AgathaBaxter4 = ... and apparently a Murder Machine.

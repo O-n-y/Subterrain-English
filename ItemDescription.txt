@@ -4,21 +4,21 @@
 3;Mars Apolonite Ore;One of the rarest materials on Mars. Apolonite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Casandrium[-] when refined.
 4;Long Knife;It's an improved MPO security knife. It has a long reach.
 5;Mars Casandrium;An exotic and expensive material processed from [ccccff]Apolonite Ore[-]. It's extremely durable and and light.
-6;Mars Palladium;A common material refined from [ccccff]Nickle Ore[-]. It's usually shipped to Earth, as it's more valuable there.
+6;Mars Palladium;A common material refined from [ccccff]Nickel Ore[-]. It's usually shipped to Earth, as it's more valuable there.
 7;Electronic Resin;Electronic semiconductor resin that can be used in 3D printing to produce any parts that require nano-scale electric flow control.
-8;Glass Fiber;A glass filiment. Mainly used in 3D printing to produce fabric-like materials.
-9;Infested Eyeball;A creepy, bloodshot eyeball from a dead mutant.\n\nYields [ccccff]Tissue Extract[-] when recycled.
-10;Infested Fat Sack;It's a nasty sack of fat from a dead mutant. Sticky!\n\nYields [ccccff]Tissue Extract[-] when recycled.
-11;Infested Nail;It's a jagged nail from a dead mutant.\n\nYields [ccccff]Osseous Extract[-] when recycled.
-12;Infested Tissue;A hunk of flesh from a dead mutant. It's smelly.\n\nYields [ccccff]Tissue Extract[-] when recycled.
-13;Infested Tongue;A tongue from a dead mutant. It's still wiggling!\n\nYields [ccccff]Tissue Extract[-] when recycled.
-14;Infested Tooth;A sharp tooth from a dead mutant. It's pointy!\n\nYields [ccccff]Osseous Extract[-] when recycled.
+8;Glass Fiber;A glass filament. Mainly used in 3D printing to produce fabric-like materials.
+9;Infected Eyeball;A creepy, bloodshot eyeball from a dead mutant.\n\nYields [ccccff]Tissue Extract[-] when recycled.
+10;Infected Fat Sack;It's a nasty sack of fat from a dead mutant. Sticky!\n\nYields [ccccff]Tissue Extract[-] when recycled.
+11;Infected Nail;It's a jagged nail from a dead mutant.\n\nYields [ccccff]Osseous Extract[-] when recycled.
+12;Infected Tissue;A hunk of flesh from a dead mutant. It's smelly.\n\nYields [ccccff]Tissue Extract[-] when recycled.
+13;Infected Tongue;A tongue from a dead mutant. It's still wiggling!\n\nYields [ccccff]Tissue Extract[-] when recycled.
+14;Infected Tooth;A sharp tooth from a dead mutant. It's pointy!\n\nYields [ccccff]Osseous Extract[-] when recycled.
 15;Mars Titanium;A common material processed from [ccccff]Ilmenite Ore[-]. It's worth a lot more on Earth.
 16;Metal Composite;Very light metal composite resource for 3D printing. It can be made as hard as solid metal but also shaped into any form like plastic.
 17;Blood Sample A;High grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
 18;Blood Sample B;Medium grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
 19;Blood Sample C;Low grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
-20;Side Bag;A small Mars Security satchel. It doesn't hold much, but now all I'm missing is a man bun!\n\nMffff00]Max Slots:[-] [ffffff]48[-]\n[ffff00]Max Weight:[-] [ffffff]22[-] kg
+20;Side Bag;A small Mars Security satchel. It doesn't hold much, but now all I'm missing is a man bun!\n\n[ffff00]Max Slots:[-] [ffffff]48[-]\n[ffff00]Max Weight:[-] [ffffff]22[-] kg
 21;Beer Can;A can of "Mars" brand beer. It still seems to be [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] THIRST[-]
 22;Energy Drink;A great tasting energy drink called "Thunder Muscle". It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] THIRST[-]
 23;Purified Water;A bottle of pure drinking water. It's [ffff00]seal[-] is still intact.\n\n[a3ff00]- [ffffff]70%[-] THIRST[-]
@@ -27,22 +27,22 @@
 26;Standard Flashlight;Constantly drains a bit of energy from a power pack while on. Research may lead to a better version.
 27;Light Stick;It's dim, but it lasts forever and doesn't require a power pack.
 28;Baked Beans;A can of baked beans. Not bad! The can is still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] HUNGER[-]
-29;Mars Grape;Some Mars grapes. It's probably [7f0000]contaminated[-].\n\nYields [ccccff]Resveratrol[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
-30;Mars Peanut;A peanut grown in the biosphere. It might be [7f0000]contaminated[-].\n\nYields [ccccff]Isoflavones[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
-31;Mars Corn;An ear of Mars corn. There's a good chance it's [7f0000]contaminated[-].\n\nYields [ccccff]Zeaxanthin[-] when processed.\n\n[a3ff00]- [ffffff]10%[-] HUNGER[-]
-32;Mars Carrot;A Mars carrot, fresh from the biosphere. Chances are it's [7f0000]contaminated[-].\n\nYields [ccccff]Alpha-Carotene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
-33;Chocolate Bar;A candy bar! It's sealed, but it could still be [7f0000]contaminated[-].\n\n[a3ff00]- [ffffff]30%[-] HUNGER[-]
-34;Mars Lemon;A zesty lemon from Mars' biosphere. It's probably [7f0000]contaminated[-], though.\n\nYields [ccccff]Hesperidin[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
-35;Morning Cereal;It's a box of cereal with a dumb-looking cartoon dog on it. This dog is sad kids won't share cereal with it. The box is sealed, but could be [7f0000]contaminated[-].\n\n[a3ff00]- [ffffff]70%[-] HUNGER[-]
-36;Mars Garlic;A clove of garlic. It's rather smelly, and probably [7f0000]contaminated[-].\n\nYields [ccccff]Allicin[-] when processed.\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]
+29;Mars Grape;Some Mars grapes. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Resveratrol[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
+30;Mars Peanut;A peanut grown in the biosphere. It might be [ff0000]contaminated[-].\n\nYields [ccccff]Isoflavones[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
+31;Mars Corn;An ear of Mars corn. There's a good chance it's [ff0000]contaminated[-].\n\nYields [ccccff]Zeaxanthin[-] when processed.\n\n[a3ff00]- [ffffff]10%[-] HUNGER[-]
+32;Mars Carrot;A Mars carrot, fresh from the biosphere. Chances are it's [ff0000]contaminated[-].\n\nYields [ccccff]Alpha-Carotene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
+33;Chocolate Bar;A candy bar! It's sealed, but it could still be [ff0000]contaminated[-].\n\n[a3ff00]- [ffffff]30%[-] HUNGER[-]
+34;Mars Lemon;A zesty lemon from Mars' biosphere. It's probably [ff0000]contaminated[-], though.\n\nYields [ccccff]Hesperidin[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
+35;Morning Cereal;It's a box of cereal with a dumb-looking cartoon dog on it. This dog is sad kids won't share cereal with it. The box is sealed, but could be [ff0000]contaminated[-].\n\n[a3ff00]- [ffffff]70%[-] HUNGER[-]
+36;Mars Garlic;A clove of garlic. It's rather smelly, and probably [ff0000]contaminated[-].\n\nYields [ccccff]Allicin[-] when processed.\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]
 37;Pineapple;Slices of pineapple in simple syrup. It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
 38;Roast Beef;I'm not sure if much of this was ever "beef". It's [ffff00]sealed[-] and safe from contamination, so it's got that going for it.\n\n[a3ff00]- [ffffff]70%[-] HUNGER[-]
-39;Rotten Food scrap;Rotten, highly [7f0000]contaminated[-] left over food scrap. I shouldn't eat this!
+39;Rotten Food Scrap;Rotten, highly [ff0000]contaminated[-] leftover food scrap. I shouldn't eat this!
 40;Salmon;King Bloscar's finest! It's still [ffff00]sealed[-], and is very filling!\n\n[a3ff00]- [ffffff]80%[-] HUNGER[-]
-41;Snack;A sealed bag of chips, but it could be [7f0000]contaminated[-].\n\n[a3ff00]- [ffffff]30%[-] HUNGER[-]
+41;Snack;A sealed bag of chips, but it could be [ff0000]contaminated[-].\n\n[a3ff00]- [ffffff]30%[-] HUNGER[-]
 42;Spaghetti;A can of spaghetti. Thankfully, "rat" isn't a listed ingredient. It's [ffff00]seal[-] is still intact, so it's safe from contamination.\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
-43;Mars Tomato;A tomato grown on Mars. It's probably [7f0000]contaminated[-].\n\nYields [ccccff]Lycopene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
-44;Mars Onion;An onion that was grown in the biosphere. It's probably [7f0000]contaminated[-].\n\nYields [ccccff]Quercetin[-] when processed\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]\n[a3ff00]- [ffffff]2%[-] THIRST[-]
+43;Mars Tomato;A tomato grown on Mars. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Lycopene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
+44;Mars Onion;An onion that was grown in the biosphere. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Quercetin[-] when processed\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]\n[a3ff00]- [ffffff]2%[-] THIRST[-]
 45;Keycard - Generator Room;Keycard for Central Control's generator room.
 46;Improved Baton;Improved baton that deals additional damage.
 47;Barrel 'Serious Harry' C58;Barrel for range weapon.
@@ -67,40 +67,40 @@
 66;Touch Tablet;Digital tablet that can be used with a stylus or finger. There's nothing of interest on it.
 67;Watch;A classic looking watch. Nothing fancy, though.
 68;PreMartianAttack_Repel;(System weapon for PreMartian)
-69;IFM-9 Plasma Launcher;This early prototype weapon utilizes a shielded firing chamber to propel explosive rounds of ionized plasma. It's very dangerous to fire in close quarters, and has immense destructive force. It seems like it was very important to the MPO and Earth Space Initiative. There still seems to be room for improvement.
-70;IFM-10B Plasma Launcher;This improved version boasts larger area of effect, power and range. It's a marvel of modern technology and yet, there appears to be room for improvement. Just what was the MPO and Earth Space Initiative planning to use this for?
-71;RVGR-XU Plasma Launcher;This is a prototype for a man-portable weapon of mass destruction. If anyone back on Earth ever got a hold of this, it could cause some serious problems. Here on Mars they could get away with creating something like this, utilizing cutting edge technology.
+69;IFM-9 Plasma Launcher;This is an early prototype of a hybrid plasma weapon that was secretly being developed by Jonathan and Merrick for a client named "Sheridan". This weapon fires a ball of superheated plasma that encases a microscopic antimatter bolt. When the a bolt hits a target, it explodes, throwing the plasma is thrown around in all directions. It's extremely effective against biological matter.\n\nThis weapon is [ff0000]dangerous[-] in close-quarters combat!
+70;IFM-10B Plasma Launcher;This improved version boasts a larger area of effect, power and a longer effective range. It's a marvel of modern weapon technology, but there are a few things that could still be improved.\n\nThis weapon is [ff0000]dangerous[-] in close-quarters combat!
+71;RVGR-XU Plasma Launcher;This is the final version of the weapon "Sheridan" asked Jonathan and Merrick to design. It's extremely advanced and extremely destructive! A fitting weapon for Mars in a situation like this. Thankfully I don't have any demons to fight.\n\nThis weapon is [ff0000]dangerous[-] in close-quarters combat!
 72;Hacked Keycard - Class A;Single use keycard for hacking class A locks.
 73;Hacked Keycard - Class B;Single use keycard for hacking class B locks.
 74;Hacked Keycard - Class C;Single use keycard for hacking class C locks.
 75;Prototype Plasma Launcher Blueprint;This is blueprint data for what seems to be a secret prototype plasma launcher. If researched, I may be able to produce one! Level 2 software required.
 76;Keycard - Johnathan;Johnathan's keycard. It's probably for his personal lab.
 77;Jonathan's Phone Call;Log - Jonathan's Phone Call.
-78;Thermal Canister (Low capacity);A low capacity thermal canister. It doesn't hold very much, but it's better than freezing to death!\n\n[ffff00]Capacity:[-] [ffffff]40[-] units
+78;Thermal Canister S;A small, low capacity thermal canister. It doesn't hold very much, but it's better than freezing to death!\n\n[ffff00]Capacity:[-] [ffffff]40[-] units
 79;Log01;Empty log
 80;I Better Get Moving;Log -  I Better Get Moving.
 81;Living Nightmare;Log - Living Nightmare.
 82;Heading to Central;Log - Heading to Central.
 83;Leaving This Place;Log - Leaving This Place.
 84;Arrival at Central Control;Log - Arrival at Central Control.
-85;Power Control Consolel;Log - Power Control Console.
+85;Power Control Console;Log - Power Control Console.
 86;Evacuation Status Update;Log - Evacuation Status Update.
 87;Windroid;A weak steroid used by runners and other athletes. It allows users to move more swiftly and without fatigue for a short amount of time.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
 88;Windroid Pro;A stronger steroid used by distance runners and other athletes. It's stronger than normal Windroid.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
 89;Windroid Ultra;A very strong steroid used by competitive runners and other athletes. It's stronger than Windroid Pro.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
-90;Windroid X;An intensely powerful and very expensive steriod. It's usually used illegally by pro atheletes.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
-91;Marsmari D;An enhanced Marsmari. This one is a little stronger and lasts a little longer.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Senses[-]\n[A3FF00]Improved Range[-]
-92;Marsmari V;A very strong form of Marsmari. This refined form allows users to sense others from even further away.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Senses[-]\n[A3FF00]Improved Range +[-]
-93;Decontamination Pill B;A strong, yellow decontamination pill. This one works pretty quickly.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n[ffff00]Strength:[-] [ffffff]Strong[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Deconamination[-]
-94;Decontamination Pill C;A blue decontamination pill. This version seems to work faster.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n[ffff00]Strength:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Deconamination[-]
-95;Decontamination Pill;A weak deconamination pill. It seems to have been manufactured fairly recently.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n[ffff00]Strength:[-] [ffffff]Weak[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Deconamination[-]
-96;Marsmari X;The most potent form of Marsmari. Users claim to be able to sense others through thick walls over long distances.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Senses[-]\n[A3FF00]Improved Range + +[-]
-97;Decontamination Pill A;A very strong decontamination pill. This green pill quickly reduces a person's contamination!\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n[ffff00]Strength:[-] [ffffff]Very Strong[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Deconamination[-]
+90;Windroid X;An intensely powerful and very expensive steroid. It's usually used illegally by pro athletes.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
+91;Marsmari D;An enhanced Marsmari. This one is a little stronger and lasts a little longer.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]\n[A3FF00]Improved Range[-]
+92;Marsmari V;A very strong form of Marsmari. This refined form allows users to sense others from even further away.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]\n[A3FF00]Improved Range +[-]
+93;Decontamination Pill B;A strong, yellow decontamination pill. This one works pretty quickly.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n[ffff00]Strength:[-] [ffffff]Strong[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Contamination[-]
+94;Decontamination Pill C;A blue decontamination pill. This version seems to work faster.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n[ffff00]Strength:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Contamination[-]
+95;Decontamination Pill;A weak decontamination pill. It seems to have been manufactured fairly recently.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n[ffff00]Strength:[-] [ffffff]Weak[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Contamination[-]
+96;Marsmari X;The most potent form of Marsmari. Users claim to be able to sense others through thick walls over long distances.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]\n[A3FF00]Improved Range + +[-]
+97;Decontamination Pill A;A very strong decontamination pill. This green pill quickly reduces a person's contamination!\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n[ffff00]Strength:[-] [ffffff]Very Strong[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Contamination[-]
 98;Basic Medical Kit;A standard issue medical kit that can be found all around Mars.\n\n[a3ff00]+ [ffffff]20%[-] HEALTH[-]
 99;Musclemax;A steroid for pumping up muscles. After use, it boosts melee damage for a short time.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength[-]
-100;Musclemax K;A stronger fersion of Musclemax. The effects last longer.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength[-]
+100;Musclemax K;A stronger version of Musclemax. The effects last longer.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength[-]
 101;Musclemax S;A very strong steroid for increasing muscle mass.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength[-]
-102;Marsmari;A recreational drug that heightens the user's senses.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Senses[-]
+102;Marsmari;A recreational drug that heightens the user's senses.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]
 103;Musclemax X;The strongest muscle mass steroid available. The effects last for a very long time.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength[-]
 104;Nanocasting Kit;A cast made from nanomachine technology. It is used to immobilize fractured bones so they can heal.\n\n[ffff00]Speed:[-] [ffffff]Very Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 105;Improved Medical Kit;A blue medical kit that restores more health than a standard kit.\n\n[a3ff00]+ [ffffff]40%[-] HEALTH[-]
@@ -118,7 +118,7 @@
 117;Chalk;A square of chalk for dusting cues with.
 118;Cleansing Cream;Cosmetics. My wife used to use this brand...
 119;Clinical Thermometer;Open wide!\n\nGuess again!
-120;Coil;It's a small coil, so there's no chance you'd get stuck in this one.
+120;Coil;It's a small coil with a manufacturer's mark: "Reynolds Industries"
 121;Cue;A cue for billiards. It's a great weapon against humans, but not against mutants!
 122;Curling Iron;A small electronic iron for styling hair. I already got style, though!
 123;Cutting Board;If I knew how to cook, or had time to, I'd probably be all over this.
@@ -156,7 +156,7 @@
 155;Necklace;A cheap necklace that's only suitable for scrap.
 156;Notebook;A paper notebook. These are pretty rare on Mars due to the lack of trees.
 157;Nozzle;A nozzle for a hose. I've never seen a hose around the colony, though.
-158;Pajamas;Silly looking footed pajamas with a "trap door" for "making bears".
+158;Pajamas;Silly looking footed pajamas with a "trapdoor" for "making bears".
 159;Perfume;I'd wear this. For science, of course. I don't want to attract attention, though.
 160;Piston;It's from a combustion engine that runs on fossil fuels. How'd this get here?!
 161;Plate;It's a cheap piece of dinnerware.
@@ -168,8 +168,8 @@
 167;Scarf;It's not very warm. Why is this on Mars?!
 168;Scissors;Unless I can get the mutants to run with these, it's not a very good weapon.
 169;Screwdriver;I've been screwed enough lately. I'll toss it into the recycler later, just in case this is the reason I am.
-170;Shampoo;If I wash my hair, I'll loose my natural hair gel!
-171;Small pillow;It's pretty comfy... but I can't rest now!
+170;Shampoo;If I wash my hair, I'll lose my natural hair gel!
+171;Small Pillow;It's pretty comfy... but I can't rest now!
 172;Soap;It's smells nice, but it also smells like fruit I usually eat. It's confusing!
 173;Socks;Ugh! It smells! And they don't match, either!
 174;Spoon;I can't bend this.
@@ -182,7 +182,7 @@
 181;Thermos;A container for keeping liquids hot or cold, but I'll drink anything at any temperature.
 182;Tie;I'd wear this, but it would just be a choking hazard.
 183;Foundation;A cosmetic paste for evening skin tone. I look so pretty!
-184;Tooth Paste;It doesn't taste very good. 
+184;Toothpaste;It doesn't taste very good.
 185;Electronic Toothbrush;This thing's pretty noisy! I'd probably attract mutants if I used it!
 186;Torn Doll;This thing is super creepy!
 187;Torn Pillow;Feathers are spilling out of it.
@@ -208,19 +208,19 @@
 207;Heatsink 'Thor' 420;Heatsink for ranged weapon.
 208;Heatsink 'Loki' 70D;Heatsink for ranged weapon.
 209;Heatsink 'Loki' 80T;Heatsink for ranged weapon.
-210;Thermal Canister (Medium Capacity);An improved thermal canister. It's lighter and has an increased capacity.\n\n[ffff00]Capacity:[-] [ffffff]60[-] units
+210;Thermal Canister M;An improved, medium-sized thermal canister. It's lighter and has an increased capacity.\n\n[ffff00]Capacity:[-] [ffffff]60[-] units
 211;Heatsink 'Loki' 90F;Heatsink for ranged weapon.
 212;Heatsink 'Naglfar' M100;Heatsink  for ranged weapon.
 213;Heatsink 'Naglfar' G120;Heatsink  for ranged weapon.
 214;Power Pack L;Large portable energy pack. This thing holds a ton of power!\n\n[ffff00]Capacity:[-] [ffffff]1750[-]\n[ffff00]Shield Power:[-] [ffffff]70%[-]
-215;Power Pack M;A medium portable energy pack. It holds more than a small, but there's room for improvement.\n\n[ffff00]Capacity:[-] [ffffff]1250[-]\n[ffff00]Shield Power:[-] [ffffff]65%[-]
+215;Power Pack M;A medium portable energy pack. It holds more energy and generates a better shield than a small power pack, but there's room for improvement.\n\n[ffff00]Capacity:[-] [ffffff]1250[-]\n[ffff00]Shield Power:[-] [ffffff]65%[-]
 216;Power Pack S;A small portable energy pack. It doesn't hold much, but you can't use ranged weapons or a shield without it!\n\n[ffff00]Capacity:[-] [ffffff]750[-]\n[ffff00]Shield Power:[-] [ffffff]60%[-]
 217;Attractor Dummy;Attracts infected for 10 seconds.
 218;Electric Stun Grenade;A grenade that stuns nearby organic lifeforms within its range. It slides along the ground when thrown.\n\nIt has a [ffffff]1[-] second fuse.
 219;Laser Tripwire Trap;Security laser trip wire with heat damaging effect.
 220;Photon Grenade;Damages nearby organic lifeforms within its range. It slides along the ground when thrown.\n\nIt has a [ffffff]1[-] second fuse.
 221;Beacon;Throw and interact with to assign a color and notes. The location of the beacon will appear on your map.
-222;Oxygen Canister (Low Density);A low capacity oxygen canister. It might not be much, but the alternative is suffocation!\n\n[ffff00]Capacity:[-] [ffffff]60[-] units
+222;Oxygen Canister S;A small, low capacity oxygen canister. It might not be much, but the alternative is suffocation!\n\n[ffff00]Capacity:[-] [ffffff]60[-] units
 223;Credit;Credit cash data. Instantly transfers to user's account.
 224;Baton;MPO Security baton.
 225;Claw;Mutant Claw.
@@ -244,14 +244,14 @@
 243;Keycard - Herbert Research;Unlocks the door to Herbert Research Center.
 244;Blood Extract;This has been extracted from mutant blood samples.
 245;Tissue Extract;This has been extracted from mutant organ samples.
-246;Power Suit;This power suit is based on advanced nano technology. It almost looks a little sinister!\n\nThis suit is a little [7f0000]bulky[-].
+246;Power Suit;This power suit is based on advanced nano technology. It almost looks a little sinister!\n\nThis suit is a little [ff0000]bulky[-].
 247;Power Suit MK II;This power suit has had its mobility issues fixed, but there is still room for improvement.
-248;Power Suit MK III;This power suit has inertia control technologies incorperated into it.\n\nThis suit provides the wearer with [a3ff00]enhanced mobility[-].
-249;Battle Suit;This prototype suit of power armor is suitable even for an interplanetary surface invasion.\n\nThis suit is a little [7f0000]bulky[-].
+248;Power Suit MK III;This power suit has inertia control technologies incorporated into it.\n\nThis suit provides the wearer with [a3ff00]enhanced mobility[-].
+249;Battle Suit;This prototype suit of power armor is suitable even for an interplanetary surface invasion.\n\nThis suit is a little [ff0000]bulky[-].
 250;Battle Suit MK II;An advanced suit of armor. The weight and mobility issues have been addressed in this version, but there is still room for improvement.
-251;Battle Suit MK III;This extremely advanced battle suit shrugs off kinectic energy! It also augment's the user's agility with servo motors.\n\nTThis suit provides the wearer with [a3ff00]enhanced mobility[-].
-252;Advanced Colonist Suit;This is an improved colony suit for better survivability. It has a bubble helmet!\n\nThis suit is a little [7f0000]bulky[-].
-253;Advanced Colonist Suit MK II;An improved advanced colony suit. The bubble helmet has been reenforced. There is still room for improvement, though!
+251;Battle Suit MK III;This extremely advanced battle suit shrugs off kinetic energy! It also augments the user's agility with servo motors.\n\nThis suit provides the wearer with [a3ff00]enhanced mobility[-].
+252;Advanced Colonist Suit;This is an improved colony suit for better survivability. It has a bubble helmet!\n\nThis suit is a little [ff0000]bulky[-].
+253;Advanced Colonist Suit MK II;An improved advanced colony suit. The bubble helmet has been reinforced. There is still room for improvement, though!
 254;Advanced Colonist Suit MK III;This advanced colony suit is of a lighter and more durable design.\n\nThis suit provides the wearer with [a3ff00]enhanced mobility[-].
 255;Standard Colonist Suit;A standard issue MPO colonist suit. It offers very minor protection.
 256;MPO Engineering Suit;Item not yet implemented.
@@ -287,15 +287,15 @@
 286;Barrel 'Phantom' R3;Barrel for ranged weapon.
 287;Barrel 'Raging Bull' GE180;Barrel for ranged weapon.
 288;Barrel 'Raging Bull' GE190;Barrel for ranged weapon.
-289;Thermal Canister (High Capacity);A high capacity thermal canister. It has an improved weight and capacity over previous versions.\n\n[ffff00]Capacity:[-] [ffffff]80[-] units
-290;Thermal Canister (Ultra Capacity);An ultra capacity thermal canister. It's super light and holds a ton of thermal energy.\n\n[ffff00]Capacity:[-] [ffffff]100[-] units
-291;Mars Monazite Ore;An uncommon Mars ore that's produces durable materials.\n\nYields [ccccff]Cerium[-] when refined.
+289;Thermal Canister L;A large thermal canister. It has an improved weight and capacity over previous versions.\n\n[ffff00]Capacity:[-] [ffffff]80[-] units
+290;Thermal Canister XL;An extremely lightweight, yet large, thermal canister. It boasts a very high capacity.\n\n[ffff00]Capacity:[-] [ffffff]100[-] units
+291;Mars Monazite Ore;An uncommon Mars ore that produces durable materials.\n\nYields [ccccff]Cerium[-] when refined.
 292;Mars Nickel Ore;Nickel ore found underground on Mars. Fairly common.\n\nYields [ccccff]Palladium[-] when refined.
-293;Oxygen Canister M;A medium oxygen canister with improved wight and capacity.\n\n[ffff00]Capacity:[-] [ffffff]80[-] units
-294;Oxygen Canister (High Density);A very light weight oxygen canister with a large capacity.\n\n[ffff00]Capacity:[-] [ffffff]100[-] units
+293;Oxygen Canister M;A medium oxygen canister with improved weight and capacity.\n\n[ffff00]Capacity:[-] [ffffff]80[-] units
+294;Oxygen Canister L;A large oxygen canister with a large capacity. It's not as heavy as it looks!\n\n[ffff00]Capacity:[-] [ffffff]100[-] units
 295;Osseous Extract;Extracted from mutant bone tissue samples.
 296;Resveratrol;A purple liquid processed from [ccccff]Mars Grapes[-].\n\nUsed in the production of basic medical supplies.
-297;Lycopene;A red liquid processed from [ccccff]Mars Tomatos[-].\n\nUsed in the production of basic medical supplies.
+297;Lycopene;A red liquid processed from [ccccff]Mars Tomatoes[-].\n\nUsed in the production of basic medical supplies.
 298;Isoflavones;A tan liquid processed from [ccccff]Mars Peanuts[-].\n\nUsed in the production of improved medical supplies.
 299;Zeaxanthin;A green liquid processed from [ccccff]Mars Corn[-].\n\nUsed in the production of improved medical supplies.
 300;Alpha-Carotene;An orange liquid processed from [ccccff]Mars Carrots.\n\nUsed in the production of advanced medical supplies.
@@ -326,57 +326,57 @@
 325;Long Electric Knife;Advanced Security knife with extra reach and Stun effect.
 326;Long Laser Sword;Advanced prototype melee weapon with extra reach and damage.
 327;Long Double Edged Knife;MPO Security knife with longer reach and extra damage.
-328;Backpack XL;XL Mars security backpack. This thing is huge! You could live in here!\n\n[ffff00]Max Slots:[-] [ffffff]80[-]\n[ffff00]Max Weight:[-] [ffffff]45[-] kg 
+328;Backpack XL;XL Mars security backpack. This thing is huge! You could live in here!\n\n[ffff00]Max Slots:[-] [ffffff]80[-]\n[ffff00]Max Weight:[-] [ffffff]45[-] kg
 329;Electric Stun Grenade MK II;An upgraded stun grenade that features a motion sensor. The sensor will trigger the grenade, detonating as enemies approach it.\n\nIt has a [FFFFFF]2[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]
 330;Electric Stun Grenade MK III;An advanced stun grenade with a longer fuse. It flashes and makes noise when armed, which attracts enemies.\n\nIt has a [ffffff]5[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]\n[A3FF00]Attracts Enemies[-]
 331;Electric Stun Grenade MK IV;A very advanced stun grenade. In addition to stunning, it knocks enemies back.\n\nIt has a [ffffff]5[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]\n[A3FF00]Attracts Enemies[-]\n[A3FF00]Knockback[-]
 332;Photon Grenade MK II;An improved photon grenade with a motion sensor. The sensor will trigger the grenade, detonating as enemies approach it.\n\nIt has a [FFFFFF]2[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]
 333;Photon Grenade MK III;An advanced photon grenade. It flashes and makes noise when armed, which attracts enemies.\n\nIt has a [ffffff]5[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]\n[A3FF00]Attracts Enemies[-]
-334;Photon Grenade MK IV;Photon Grenade that can attract nearby mutants.\n\nIt has a [ffffff]5[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]\n[A3FF00]Attracts Enemies[-]\n[A3FF00]Extended Range/Damage[-]
+334;Photon Grenade MK IV;Photon Grenade that can attract nearby mutants.\n\nIt has a [ffffff]5[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]\n[A3FF00]Attracts Enemies[-]\n[A3FF00]Improved Range/Damage[-]
 335;Improved Flashlight;An improved flashlight. It has an extended range.
 336;Nano Flashlight;Flashlight based on Nano light technology. It has improved range and angle.
 337;Ultron Flashlight;A very bright flashlight based on Ultron light technology. It uses very little energy compared to most flashlights.
 338;Power Pack XL;An extra large portable energy pack. You could power an apartment with this thing!\n\n[ffff00]Capacity:[-] [ffffff]2250[-]\n[ffff00]Shield Power:[-] [ffffff]75%[-]
-339;Oxygen Canister (Ultra Density);An extremely light weight oxygen canister with a very high capacity.\n\n[ffff00]Capacity:[-] [ffffff]120[-] units
-340;Reactor Module MK I;A reactor module for the inertia reactor. This one isn't very advanced, but it's based on nano technology.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]800[-]
+339;Oxygen Canister XL;An extremely lightweight, yet large, oxygen canister. It boasts a very high capacity.\n\n[ffff00]Capacity:[-] [ffffff]120[-] units
+340;Reactor Module MK I;A reactor module for the inertia reactor. This one isn't very advanced, but it's based on nanotechnology.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]800[-]
 341;Reactor Module MK II;A reactor module for the inertia reactor. This module is slightly more advanced and might fare better in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]1200[-]
 342;Reactor Module MK III;A reactor module for the inertia reactor. It's pretty advanced. It might last longer in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]1500[-]
 343;Reactor Module MK IV;A reactor module for the inertia reactor. It's exceptionally advanced. It should last a very long time, even though the reactor's damaged.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]2000[-]
-344;Level 1 Engineering Software;Software for engineering facilities.
+344;Level 1 Engineering Software;Basic software for engineering facilities.
 345;Level 2 Engineering Software;Level [ffffff]2[-] software for engineering facilities.
 346;Level 3 Engineering Software;Level [ffffff]3[-] software for engineering facilities.
 347;Level 4 Engineering Software;Level [ffffff]4[-] software for engineering facilities.
-348;Level 1 Biosphere Software;Software for biosphere facility.
+348;Level 1 Biosphere Software;Basic software for biosphere facility.
 349;Level 2 Biosphere Software;Level [ffffff]2[-] software for the biosphere.
 350;Level 3 Biosphere Software;Level [ffffff]3[-] software for the biosphere.
 351;Level 4 Biosphere Software;Level [ffffff]4[-] software for the biosphere.
-352;Level 1 Mine Software;Software for the mine.
+352;Level 1 Mine Software;Basic software for the mine.
 353;Level 2 Mine Software;Level [ffffff]2[-] software for the mine.
 354;Level 3 Mine Software;Level [ffffff]3[-] software for the mine.
 355;Level 4 Mine Software;Level [ffffff]4[-] software for the mine.
-356;Level 1 Research Software;Software for research and repair facilities.
+356;Level 1 Research Software;Basic software for research and repair facilities.
 357;Level 2 Research Software;Level [ffffff]2[-] software for research and repair facilities.
 358;Level 3 Research Software;Level [ffffff]3[-] software for research and repair facilities.
 359;Level 4 Research Software;Level [ffffff]4[-] software for research and repair facilities.
-360;Level 2 Engineering Data Chip;Data chip for engineering facilities.\n\n[cc831c]Research[-] this to gain the blueprint for a possible software upgrade.
-361;Level 3 Engineering Data Chip;Data chip for engineering facilities.\n\n[cc831c]Research[-] this to gain the blueprint for a possible software upgrade.
-362;Level 4 Engineering Data Chip;Data chip for engineering facilities.\n\n[cc831c]Research[-] this to gain the blueprint for a possible software upgrade.
-363;Level 2 Biosphere Data Chip;Data chip for the biosphere.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
-364;Level 3 Biosphere Data Chip;Data chip for the biosphere.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
-365;Level 4 Biosphere Data Chip;Data chip for the biosphere.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
-366;Level 2 Mine Data Chip;Data chip for the mine.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
-367;Level 3 Mine Data Chip;Data chip for the mine.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
-368;Level 4 Mine Data Chip;Data chip for the mine.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
-369;Level 2 Research Data Chip;Data chip for research and repair facilities.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
-370;Level 3 Research Data Chip;Data chip for research and repair facilities.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
-371;Level 4 Research Data Chip;Data chip for research and repair facilities.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
+360;Level 2 Engineering Data Chip;A level [ffffff]2[-] data chip for engineering facilities.\n\n[cc831c]Research[-] this to gain the blueprint for a possible software upgrade.
+361;Level 3 Engineering Data Chip;A level [ffffff]3[-] data chip for engineering facilities.\n\n[cc831c]Research[-] this to gain the blueprint for a possible software upgrade.
+362;Level 4 Engineering Data Chip;A level [ffffff]4[-] data chip for engineering facilities.\n\n[cc831c]Research[-] this to gain the blueprint for a possible software upgrade.
+363;Level 2 Biosphere Data Chip;A level [ffffff]2[-] data chip for the biosphere.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
+364;Level 3 Biosphere Data Chip;A level [ffffff]3[-] data chip for the biosphere.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
+365;Level 4 Biosphere Data Chip;A level [ffffff]4[-] data chip for the biosphere.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
+366;Level 2 Mine Data Chip;A level [ffffff]2[-] data chip for the mine.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
+367;Level 3 Mine Data Chip;A level [ffffff]3[-] data chip for the mine.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
+368;Level 4 Mine Data Chip;A level [ffffff]4[-] data chip for the mine.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
+369;Level 2 Research Data Chip;A level [ffffff]2[-] data chip for research and repair facilities.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
+370;Level 3 Research Data Chip;A level [ffffff]3[-] data chip for research and repair facilities.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
+371;Level 4 Research Data Chip;A level [ffffff]4[-] data chip for research and repair facilities.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
 372;Emergency Medical Kit;A yellow medical kit with a lot of supplies for serious injuries.\n\n[a3ff00]+ [ffffff]60%[-] HEALTH[-]
-373;Complete Medical Kit;This green medical kit is like having a portible emergency room. It can treat the most grevious wounds.\n\n[a3ff00]+ [ffffff]80%[-] HEALTH[-]
+373;Complete Medical Kit;This green medical kit is like having a portable emergency room. It can treat the most grievous wounds.\n\n[a3ff00]+ [ffffff]80%[-] HEALTH[-]
 374;Improved Nanocasting Kit;A blue nanocasting kit that's more effective than a standard kit. It heals fractures faster than a standard nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 375;Advanced Nanocasting Kit;An advanced nanocasting kit with a yellow color. It heals fractures much more quickly than a standard nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 376;Ultra Nanocasting Kit;An very advanced green colored cast. It heals fractures much more quickly than any other nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Fast[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 377;Bandage;A small bandage that can help a cut heal after a period of time.\n\n[ffff00]Speed:[-] [ffffff]Very Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Stops Bleeding[-]
-378;Improved Bandage;A more absorbant blue bandage. It heals cuts faster than a standard bandage.\n\n[ffff00]Speed:[-] [ffffff]Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Stops Bleeding[-]
+378;Improved Bandage;A more absorbent blue bandage. It heals cuts faster than a standard bandage.\n\n[ffff00]Speed:[-] [ffffff]Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Stops Bleeding[-]
 379;Ultra Bandage;A very advanced green bandage that adheres to the skin securely. It heals cuts faster than any other bandage.\n\n[ffff00]Speed:[-] [ffffff]Fast[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Stops Bleeding[-]
 380;Health Wonder C;Permanently increases max HP. Can't be applied twice.
 381;Health Wonder B;Permanently increases max HP. Can't be applied twice.
@@ -384,15 +384,15 @@
 383;Stamina Wonder C;Permanently increases max stamina. Can't be applied twice.
 384;Stamina Wonder B;Permanently increases max stamina. Can't be applied twice.
 385;Stamina Wonder A;Permanently increases max stamina. Can't be applied twice.
-386;Advanced Bandage;A very absorbant yellow bandage that clings tightly to wounds.\n\n[ffff00]Speed:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Stops Bleeding[-]
+386;Advanced Bandage;A very absorbent yellow bandage that clings tightly to wounds.\n\n[ffff00]Speed:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Stops Bleeding[-]
 387;Thermal Regulator;It's a basic thermal regulator. When placed in temperature regulation systems, it will generate heat.
-388;Thermal Regulator MK II;It's a thermal regulator with some modifications. It suppresses the spread of the infection.\n\n[ffff00]Effects:[-]\n[a3ff00]Suppression[-]
-389;Thermal Regulator MK III;It's a thermal regulator with some advanced modifications. It has improved suppression effects.\n\n[ffff00]Effects:[-]\n[a3ff00]Suppression +[-]
-390;Thermal Regulator MK IV;It's a thermal regulator with very advanced modifications. It has excellent suppression effects\n\n[ffff00]Effects:[-]\n[a3ff00]Suppression + +[-]
+388;Thermal Regulator MK II;It's a thermal regulator with some modifications. It suppresses the spread of the infection.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression[-]
+389;Thermal Regulator MK III;It's a thermal regulator with some advanced modifications. It has improved suppression effects.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression +[-]
+390;Thermal Regulator MK IV;It's a thermal regulator with very advanced modifications. It has excellent suppression effects\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression + +[-]
 391;Oxygen Filter;It's a basic oxygen filter. When placed in oxygen generation systems, it will generate oxygen.
-392;Oxygen Filter MK II;It's an oxygen filter with some modifications. It suppresses the spread of the infection.\n\n[ffff00]Effects:[-]\n[a3ff00]Suppression[-]
-393;Oxygen Filter MK III;It's an oxygen filter with some advanced modifications. It has improved suppression effects.\n\n[ffff00]Effects:[-]\n[a3ff00]Suppression +[-]
-394;Oxygen Filter MK IV;It's an oxygen filter with very advanced modifications. It has excellent suppression effects\n\n[ffff00]Effects:[-]\n[a3ff00]Suppression + +[-]
+392;Oxygen Filter MK II;It's an oxygen filter with some modifications. It suppresses the spread of the infection.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression[-]
+393;Oxygen Filter MK III;It's an oxygen filter with some advanced modifications. It has improved suppression effects.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression +[-]
+394;Oxygen Filter MK IV;It's an oxygen filter with very advanced modifications. It has excellent suppression effects\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression + +[-]
 395;Broken Oxygen Filter;It's a broken oxygen filter. Something overloaded it, or someone sabotaged it. It's junk.\n\n[cc831c]Researching[-] this will allow you to create a functional filter.
 396;Broken Thermal Regulator;It's a broken thermal regulator. Something overloaded it, or someone sabotaged it. It's junk.\n\n[cc831c]Researching[-] this will allow you to create a functional regulator.
 397;System;Do not translate
@@ -454,29 +454,29 @@
 453;Better Bars;Log - Better Bars.
 454;Ortega's Phone Call;Log - Ortega's Phone Call.
 455;Package Delivered;Log - Package Delivered.
-456;Better Bar;I should never ever eat this. But I can open this up.
-457;Better Bar;I should never ever eat this. But I can open this up.
+456;Better Bar;I probably shouldn't eat this, but I don't see the harm in opening it.
+457;Better Bar;I probably shouldn't eat this, but I don't see the harm in opening it.
 458;Mr. Wiggles;Log - Mr. Wiggles.
-459;Apolonite Gem;Polished Apolonite gemstone. Refining this may produce some [ccccff]Casandrium[-].
-460;Bastnaesite Gem;Polished Bastnaesite gemstone. Refining this may produce some [ccccff]Neodymium[-].
-461;Gadolinite Gem;Polished Gadolinite gemstone. Refining this may produce some [ccccff]Scandium[-].
-462;Ilmenite Gem;Polished Ilmenite gemstone. Refining this may produce some [ccccff]Titanium[-].
-463;Monazite Gem;Polished Monazite gemstone. Refining this may produce some [ccccff]Cerium[-].
-464;Nickel Gem;Polished Nickel gemstone. Refining this may produce some [ccccff]Palladium[-].
-465;Petalite Gem;Polished Petalite gemstone. Refining this may produce some [ccccff]Lithium[-].
-466;Xenotime Gem;Polished Xenotime gemstone. Refining this may produce some [ccccff]Yttrium[-].
-467;Apolonite Ring;Jewellery made with Apolonite ore. Recycling this may produce an [ccccff]Apolonite gem[-].
-468;Bastnaesite Necklace;Jewellery made with Bastnaesite ore. Recycling this may produce a [ccccff]Bastnaesite gem[-].
-469;Gadolinite Bracelet;Jewellery made with Gadolinite ore. Recycling this may produce a [ccccff]Gadolinite gem[-].
-470;Ilmenite Earring;Jewellery made with Ilmenite ore. Recycling this may produce an [ccccff]Ilmenite gem[-].
-471;Monazite Ring;Jewellery made with Monazite ore. Recycling this may produce a [ccccff]Monazite gem[-].
-472;Nickel Neckless;Jewellery made with Nickel ore. Recycling this may produce a [ccccff]Nickel gem[-].
-473;Petalite Earring;Jewellery made with Petalite ore. Recycling this may produce a [ccccff]Petalite gem[-].
-474;Xenotime Bracelet;Jewellery made with Xenotime ore. Recycling this may produce a [ccccff]Xenotime gem[-].
+459;Apolonite Gem;A polished Apolonite gemstone.\n\nRefining this may produce some [ccccff]Casandrium[-].
+460;Bastnaesite Gem;A polished Bastnaesite gemstone.\n\nRefining this may produce some [ccccff]Neodymium[-].
+461;Gadolinite Gem;A polished Gadolinite gemstone.\n\nRefining this may produce some [ccccff]Scandium[-].
+462;Ilmenite Gem;A polished Ilmenite gemstone.\n\nRefining this may produce some [ccccff]Titanium[-].
+463;Monazite Gem;A polished Monazite gemstone.\n\nRefining this may produce some [ccccff]Cerium[-].
+464;Nickel Gem;A polished Nickel gemstone.\n\nRefining this may produce some [ccccff]Palladium[-].
+465;Petalite Gem;A polished Petalite gemstone.\n\nRefining this may produce some [ccccff]Lithium[-].
+466;Xenotime Gem;A polished Xenotime gemstone.\n\nRefining this may produce some [ccccff]Yttrium[-].
+467;Apolonite Ring;Jewelry made with Apolonite ore.\n\nRecycling this may produce an [ccccff]Apolonite Gem[-].
+468;Bastnaesite Necklace;Jewelry made with Bastnaesite ore.\n\nRecycling this may produce a [ccccff]Bastnaesite Gem[-].
+469;Gadolinite Bracelet;Jewelry made with Gadolinite ore.\n\nRecycling this may produce a [ccccff]Gadolinite Gem[-].
+470;Ilmenite Earring;Jewelry made with Ilmenite ore.\n\nRecycling this may produce an [ccccff]Ilmenite Gem[-].
+471;Monazite Ring;Jewelry made with Monazite ore.\n\nRecycling this may produce a [ccccff]Monazite Gem[-].
+472;Nickel Necklace;Jewelry made with Nickel ore.\n\nRecycling this may produce a [ccccff]Nickel Gem[-].
+473;Petalite Earring;Jewelry made with Petalite ore.\n\nRecycling this may produce a [ccccff]Petalite Gem[-].
+474;Xenotime Bracelet;Jewelry made with Xenotime ore.\n\nRecycling this may produce a [ccccff]Xenotime Gem[-].
 475;Mars Cave Crystal;Rare crystal found in Mars caves. Very popular souvenir for the tourists. Some people on Earth believe it to have a mythical healing power and is revered by some cults. This one seems to be a [ffff00]genuine[-].
-476;Mars Cave Crystal;Rare crystal found in Mars caves. Very popular souvenir for the tourists. Some people on Earth believe it to have a mythical healing power and is revered by some cults. However, this one seems to be a [7f0000]cheap fake[-].
-477;Keycard - Engineering Subdoor; A keycard for the shortcut leading from Research center to Engineering.
-478;Keycard - Research Subdoor;A keycard for the shortcut leading from Engineering to Research center.
+476;Mars Cave Crystal;Rare crystal found in Mars caves. Very popular souvenir for the tourists. Some people on Earth believe it to have a mythical healing power and is revered by some cults. However, this one seems to be a [ff0000]cheap fake[-].
+477;Keycard - Engineering Sub-Door; A keycard for the shortcut leading from Research center to Engineering.
+478;Keycard - Research Sub-Door;A keycard for the shortcut leading from Engineering to Research center.
 479;Shotgun Flux GX3;Core part for a shotgun.
 480;SpittingWalkerAttack1;(System weapon for BitingWalkers)
 481;VomWalkerAttack1;(System weapon for BitingWalkers)
