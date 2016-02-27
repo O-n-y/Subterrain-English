@@ -18,14 +18,14 @@
 17;Blood Sample A;High grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
 18;Blood Sample B;Medium grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
 19;Blood Sample C;Low grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
-20;Side Bag;A small Mars Security satchel. It doesn't hold much, but now all I'm missing is a man bun!\n\n[ffff00]Max Slots:[-] [ffffff]48[-]\n[ffff00]Max Weight:[-] [ffffff]22[-] kg
+20;Side Bag;A small Mars Security satchel. It doesn't hold much, it looks nice! Now all I'm missing is a man bun!\n\n[ffff00]Max Slots:[-] [ffffff]48[-]\n[ffff00]Max Weight:[-] [ffffff]22[-] kg
 21;Beer Can;A can of "Mars" brand beer. It still seems to be [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] THIRST[-]
 22;Energy Drink;A great tasting energy drink called "Thunder Muscle". It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] THIRST[-]
 23;Purified Water;A bottle of pure drinking water. It's [ffff00]seal[-] is still intact.\n\n[a3ff00]- [ffffff]70%[-] THIRST[-]
 24;Soft Drink;A fizzy drink with a bunch of slogans on it. It still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]30%[-] THIRST[-]
 25;Vita D;A [ffff00]sealed[-] healthy drink. Well, it's sort of "healthy"!\n\n[a3ff00]- [ffffff]50%[-] THIRST[-]
-26;Standard Flashlight;Constantly drains a bit of energy from a power pack while on. Research may lead to a better version.
-27;Light Stick;It's dim, but it lasts forever and doesn't require a power pack.
+26;Standard Flashlight;A standard issue flashlight for MPO security forces. Much brighter and better range than a light stick, but it constantly drains a bit of energy from a power pack while on.\n\n[ffff00]Special Features[-]\n[A3FF00]Enhanced Brightness[-]\n[A3FF00]Extended Range[-]
+27;Light Stick;A kinetic energy powered light stick. It's dim and short ranged, but it lasts forever and doesn't require a power pack.\n\n[ffff00]Special Features[-]\n[A3FF00]ENo Power Draw[-]
 28;Baked Beans;A can of baked beans. Not bad! The can is still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] HUNGER[-]
 29;Mars Grape;Some Mars grapes. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Resveratrol[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
 30;Mars Peanut;A peanut grown in the biosphere. It might be [ff0000]contaminated[-].\n\nYields [ccccff]Isoflavones[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
@@ -244,15 +244,15 @@
 243;Keycard - Herbert Research;Unlocks the door to Herbert Research Center.
 244;Blood Extract;This has been extracted from mutant blood samples.
 245;Tissue Extract;This has been extracted from mutant organ samples.
-246;Power Suit;This power suit is based on advanced nano technology. It almost looks a little sinister!\n\nThis suit is a little [ff0000]bulky[-].
+246;Power Suit;This power suit is based on advanced nanotechnology. This prototype's a little bulky, but has a lot of It looks sort of sinister!\n\n[ffff00]Special Features[-]:\n[ff0000]Bulky[-]
 247;Power Suit MK II;This power suit has had its mobility issues fixed, but there is still room for improvement.
-248;Power Suit MK III;This power suit has inertia control technologies incorporated into it.\n\nThis suit provides the wearer with [a3ff00]enhanced mobility[-].
-249;Battle Suit;This prototype suit of power armor is suitable even for an interplanetary surface invasion.\n\nThis suit is a little [ff0000]bulky[-].
+248;Power Suit MK III;This power suit has inertia control technologies incorporated into it.\n\n[ffff00]Special Features[-]:\n[a3ff00]Enhanced Mobility +[-]
+249;Battle Suit;This prototype suit of power armor is suitable even for an interplanetary surface invasion. It's a little bulky.\n\n[ffff00]Special Features[-]:\n[ff0000]Bulky[-]
 250;Battle Suit MK II;An advanced suit of armor. The weight and mobility issues have been addressed in this version, but there is still room for improvement.
 251;Battle Suit MK III;This extremely advanced battle suit shrugs off kinetic energy! It also augments the user's agility with servo motors.\n\nThis suit provides the wearer with [a3ff00]enhanced mobility[-].
-252;Advanced Colonist Suit;This is an improved colony suit for better survivability. It has a bubble helmet!\n\nThis suit is a little [ff0000]bulky[-].
+252;Advanced Colonist Suit;This is an improved colony suit for better survivability. It's a little bulky, but it has a bubble helmet!\n\n[ffff00]Special Features[-]:\n[ff0000]Bulky[-]
 253;Advanced Colonist Suit MK II;An improved advanced colony suit. The bubble helmet has been reinforced. There is still room for improvement, though!
-254;Advanced Colonist Suit MK III;This advanced colony suit is of a lighter and more durable design.\n\nThis suit provides the wearer with [a3ff00]enhanced mobility[-].
+254;Advanced Colonist Suit MK III;This advanced colony suit is of a lighter and more durable design.\n\n[ffff00]Special Features[-]:\n[a3ff00]Enhanced Mobility[-]
 255;Standard Colonist Suit;A standard issue MPO colonist suit. It offers very minor protection.
 256;MPO Engineering Suit;Item not yet implemented.
 257;IEVA Suit;An "intra/extravehicular activity" space suit. It has its own personal oxygen supply.
@@ -333,9 +333,9 @@
 332;Photon Grenade MK II;An improved photon grenade with a motion sensor. The sensor will trigger the grenade, detonating as enemies approach it.\n\nIt has a [FFFFFF]2[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]
 333;Photon Grenade MK III;An advanced photon grenade. It flashes and makes noise when armed, which attracts enemies.\n\nIt has a [ffffff]5[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]\n[A3FF00]Attracts Enemies[-]
 334;Photon Grenade MK IV;Photon Grenade that can attract nearby mutants.\n\nIt has a [ffffff]5[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]\n[A3FF00]Attracts Enemies[-]\n[A3FF00]Improved Range/Damage[-]
-335;Improved Flashlight;An improved flashlight. It has an extended range.
-336;Nano Flashlight;Flashlight based on Nano light technology. It has improved range and angle.
-337;Ultron Flashlight;A very bright flashlight based on Ultron light technology. It uses very little energy compared to most flashlights.
+335;Improved Flashlight;An improved flashlight. It has an extended range.\n\n[ffff00]Special Features[-]\n[A3FF00]Enhanced Brightness +[-]\n[A3FF00]Extended Range +[-]
+336;Nano Flashlight;Flashlight based on Nano light technology. It has improved range and angle.\n\n[ffff00]Special Features[-]\n[A3FF00]Enhanced Brightness + +[-]\n[A3FF00]Extended Range + +[-]\n[A3FF00]Wide Angle[-]
+337;Ultron Flashlight;A very bright flashlight based on Ultron light technology. It uses very little energy compared to most flashlights.\n\n[ffff00]Special Features[-]\n[A3FF00]Enhanced Brightness + + +[-]\n[A3FF00]Extended Range + + +[-]\n[A3FF00]Wide Angle[-]\n[A3FF00]Lower Energy Drain[-]
 338;Power Pack XL;An extra large portable energy pack. You could power an apartment with this thing!\n\n[ffff00]Capacity:[-] [ffffff]2250[-]\n[ffff00]Shield Power:[-] [ffffff]75%[-]
 339;Oxygen Canister XL;An extremely lightweight, yet large, oxygen canister. It boasts a very high capacity.\n\n[ffff00]Capacity:[-] [ffffff]120[-] units
 340;Reactor Module MK I;A reactor module for the inertia reactor. This one isn't very advanced, but it's based on nanotechnology.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]800[-]
@@ -374,7 +374,7 @@
 373;Complete Medical Kit;This green medical kit is like having a portable emergency room. It can treat the most grievous wounds.\n\n[a3ff00]+ [ffffff]80%[-] HEALTH[-]
 374;Improved Nanocasting Kit;A blue nanocasting kit that's more effective than a standard kit. It heals fractures faster than a standard nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 375;Advanced Nanocasting Kit;An advanced nanocasting kit with a yellow color. It heals fractures much more quickly than a standard nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
-376;Ultra Nanocasting Kit;An very advanced green colored cast. It heals fractures much more quickly than any other nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Fast[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
+376;Ultra Nanocasting Kit;A very advanced green colored cast. It heals fractures much more quickly than any other nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Fast[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 377;Bandage;A small bandage that can help a cut heal after a period of time.\n\n[ffff00]Speed:[-] [ffffff]Very Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Stops Bleeding[-]
 378;Improved Bandage;A more absorbent blue bandage. It heals cuts faster than a standard bandage.\n\n[ffff00]Speed:[-] [ffffff]Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Stops Bleeding[-]
 379;Ultra Bandage;A very advanced green bandage that adheres to the skin securely. It heals cuts faster than any other bandage.\n\n[ffff00]Speed:[-] [ffffff]Fast[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Stops Bleeding[-]
@@ -449,7 +449,7 @@
 448;Zeronica's Packages;Log - Zeronica's Packages.
 449;Agent Morgan's Report;Log - Agent Morgan's Report.
 450;Dr. Tayama;Log - Dr. Tayama.
-451;Keycard - Zeronica Jones;Zeronica Jones's keycard.
+451;Keycard - Zeronica Jones;Zeronica Jones' keycard.
 452;Baxter's Phone Call;Log - Baxter's Phone Call.
 453;Better Bars;Log - Better Bars.
 454;Ortega's Phone Call;Log - Ortega's Phone Call.

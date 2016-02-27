@@ -45,7 +45,7 @@ setting_light = Light Quality
 setting_input_play = Input & Play
 setting_use_controller = Enable Controller
 setting_autotarget = Aim Assist Angle
-setting_user_guide = Tutorial Pop-ups
+setting_user_guide = Tutorial
 setting_auto_save = Autosave
 setting_language = Language
 setting_save = SAVE
@@ -270,24 +270,10 @@ saveslot_slot0 = Slot 1
 saveslot_slot1 = Slot 2
 
 newgame_title = New Game Setting
-newgame_easy = Easy Mode\n\n- 30% less thirst, hunger needs.\n- 50% more damage to mobs.\n- 40% less damage
-
-received.\n- 40% less contamination effect.\n- Slower infection and evolution speed.\n- Able to save from pause
-
-menu.
-newgame_normal = Normal Mode\n\n- 20% less thirst, hunger needs.\n- 20% less damage received.\n- 20% less
-
-contamination effect.\n- Able to save from pause menu.
-newgame_hardcore = Hardcore Mode\n\n- Normal thirst, hunger needs.\n- Normal damage received.\n- Normal
-
-contamination effect.\n- 30% more enemy health.\n- Faster infection and evolution speed.\n- Unable to save from
-
-pause menu.
-newgame_nightmare = Nightmare Mode\n\n- 20% more thirst, hunger needs.\n- 20% more damage received.\n- 20% more
-
-contamination effect.\n- 50% more enemy health.\n- Fastest infection and evolution speed.\n- Unable to save from
-
-pause menu.
+newgame_easy = Easy Mode\n\n- 30% less thirst, hunger needs.\n- 50% more damage to enemies.\n- 40% less damage received.\n- 40% less contamination effect.\n- Slower infection and evolution speed.\n- Able to save from pause menu.
+newgame_normal = Normal Mode\n\n- 20% less thirst, hunger needs.\n- 20% less damage received.\n- 20% less contamination effect.\n- Able to save from pause menu.
+newgame_hardcore = Hardcore Mode\n\n- Normal thirst, hunger needs.\n- Normal damage received.\n- Normal contamination effect.\n- 30% more enemy health.\n- Faster infection and evolution speed.\n- Unable to save from pause menu.
+newgame_nightmare = Nightmare Mode\n\n- 20% more thirst, hunger needs.\n- 20% more damage received.\n- 20% more contamination effect.\n- 50% more enemy health.\n- Fastest infection and evolution speed.\n- Unable to save from pause menu.
 newgame_difficulty = Difficulty
 newgame_skip_intro = Skip Intro
 newgame_skip_tutorial = Skip Tutorial
@@ -297,29 +283,17 @@ newgame_difficulty_easy = Easy
 newgame_difficulty_normal = Normal
 newgame_difficulty_hardcore = Hardcore
 newgame_difficulty_nightmare = Nightmare
-newgame_permdeath = Permanent death
+newgame_permdeath = Permadeath
 
 warning_invasion_before_title = WARNING
 warning_invasion_before_subtitle = MUTANT INVASION
-warning_invasion_before_detail = Central Control's generator is under attack!\nMutant creatures will invade the
-
-generator room from 3 directions.\nThe mutants will try to destroy all of the generator modules.\nSecurity alert
-
-means West can't travel using the tram or stairs.\nThe game can't be saved during an invasion.\nWest must defend the
-
-generator and eliminate all threats in order to disable the security lock down.
+warning_invasion_before_detail = Central Control's generator is under attack!\nMutant creatures will invade the generator room from 3 directions.\nThe mutants will try to destroy all of the generator modules.\nSecurity alert means West can't travel using the tram or stairs.\nThe game can't be saved during an invasion.\nWest must defend the generator and eliminate all threats in order to disable the security lock down.
 warning_invasion_after_title = SUCCESS
 warning_invasion_after_subtitle = ALL INVASION FORCES HAVE BEEN ELIMINATED
-warning_invasion_after_detail = All invading mutants have been eliminated.\nCentral control's security lock down has
-
-been disabled.
+warning_invasion_after_detail = All invading mutants have been eliminated.\nCentral control's security lock down has been disabled.
 warning_overheat_title = WARNING
 warning_overheat_subtitle = GENERATOR IS OVERHEATING
-warning_overheat_detail = The generator is using more power than it can produce.\nYou must return to the power
-
-control console and reduce its power output.\nIf you fail to return to Central Control in time,\na massive blackout
-
-will trigger causing you to be stuck in remote places.
+warning_overheat_detail = The generator is using more power than it can produce.\nYou must return to the power control console and reduce its power output.\nIf you fail to return to Central Control in time,\na massive blackout will trigger causing you to be stuck in remote places.
 
 itemdetail_gun_craft_item = Gun Craft Item
 itemdetail_core = Core part
@@ -399,7 +373,7 @@ speech_stats_dump_1 = I gotta take a dump.
 speech_stats_dump_2 = I need to find a toilet.\n...Gotta drop a deuce.
 speech_stats_dump_3 = I'm going to crap my pants!\n...I need a toilet! Now!
 speech_stats_overburden = I'm carrying too much weight.
-speech_stats_agilityLimit = I can't move quickly anymore!
+speech_stats_agilityLimit = I can't move quickly anymore.
 
 stats_tip_thirst_1 = Minor Dehydration
 stats_tip_thirst_2 = Moderate Dehydration
@@ -658,7 +632,7 @@ gameover_researchcompleted = Research projects completed
 map_title = Mars map
 map_select_location = Select location
 
-map_location_section = Section
+map_location_section =- Section
 map_location_Central control = Central Control
 map_location_Carson hotel = Carson Hotel
 map_location_District Aries = District Aries
@@ -770,16 +744,10 @@ speech_facility_crafting = MPO's 3D printer.
 speech_facility_bio_analyzer = The biological research systems.
 speech_facility_tech_analyzer = The technology research systems.
 speech_facility_biofarm = A remote terminal for the biosphere's facilities.
-speech_facility_biofarm_noremote = This remote terminal isn't working currently.\nIt needs level two software or
-
-better to function.\nI'll need to use the controls at the biosphere for now.
+speech_facility_biofarm_noremote = This remote terminal isn't working currently.\nIt needs level two software or better to function.\nI'll need to use the controls at the biosphere for now.
 speech_facility_mine = A remote terminal for the mine's facilities.
-speech_facility_mine_noremote = This remote terminal isn't working currently.\nIt needs level two software or better
-
-to function.\nI'll need to use the controls at the mine for now.
-speech_facility_engineering_noremote = This remote terminal isn't working currently.\nIt needs level two software or
-
-better to function.\nI'll need to use the controls at Nilson for now.
+speech_facility_mine_noremote = This remote terminal isn't working currently.\nIt needs level two software or better to function.\nI'll need to use the controls at the mine for now.
+speech_facility_engineering_noremote = This remote terminal isn't working currently.\nIt needs level two software or better to function.\nI'll need to use the controls at Nilson for now.
 
 speech_oxygen_generator_turn_off = I turned off the oxygen generator!
 speech_oxygen_generator_turn_on = I turned on the oxygen generator!
@@ -788,9 +756,7 @@ speech_oxygen_generator_replace_filter = I should replace the filter later.
 
 speech_temperature_regulator_turn_off = I turned off the temperature regulator!
 speech_temperature_regulator_turn_on = I turned on the temperature regulator!
-speech_temperature_regulator_turn_on_nopower = I've turned on the temperature regulator.\nIt seems to be unpowered,
-
-though.
+speech_temperature_regulator_turn_on_nopower = I've turned on the temperature regulator.\nIt seems to be unpowered, though.
 speech_temperature_regulator_replace_sensor = I should replace the regulator later.
 
 speech_shuttle_no_fuel = There isn't enough fuel to take off.
@@ -875,7 +841,7 @@ speech_foundlog = There's a device on the ground.\nI should check it out.
 speech_spectrum_analyzer = These are the "advanced spectrum analyzers."
 speech_spectrum_analyser_to_north = The research systems are to the north.
 speech_didn't_play_here = I didn't play here often.\nI wasn't very social...
-speech_research_kitchen1 = The kitchen. Good times here.
+speech_research_kitchen1 = The kitchen. I had some good times here.
 speech_research_kitchen2 = ...I miss Dr. Kan's sandwiches.
 speech_research_baxter1 = This is Agatha Baxter's office.
 speech_research_baxter2 = She was in charge of the Herbert Research Center.
@@ -885,8 +851,8 @@ speech_my_old_room = This is my old room.
 speech_mine_upgrade = This is the software terminal for the excavator.
 
 speech_engineering_hardtime1 = This is Nilson Engineering.
-speech_engineering_hardtime2 = These guys always gave me a hard time with my print orders.
-speech_engineering_hardtime3 = If Bigelow's logo wasn't on your suit,\nyou were routinely ignored by the staff.
+speech_engineering_hardtime2 = These guys always gave me a\nhard time with my print orders.
+speech_engineering_hardtime3 = If Bigelow's logo wasn't on your jumpsuit,\nyou were routinely ignored by the staff.
 
 speech_aries_Bae_penthouse = This must be Sang Jun Bae's penthouse.\nHe's the manager at Nilson Engineering.
 speech_aries_deadboss_passion = ...I can see he inspired a lot of passion in his employees.
@@ -899,5 +865,5 @@ speech_pisces_Zeronica_Jones = The name on the plate says: "Zeronica Jones"
 speech_pisces_AgathaBaxter_Rampage = Woah! What the hell did this?!\nIt must have been something huge!
 speech_pisces_AgathaBaxter1 = ...Here lies Dr. Agatha Baxter...
 speech_pisces_AgathaBaxter2 = ...a dedicated mother of cats...
-speech_pisces_AgathaBaxter3 = ...Head of research at Herbert Research Center...
+speech_pisces_AgathaBaxter3 = ...the head of Herbert Research Center...
 speech_pisces_AgathaBaxter4 = ... and apparently a Murder Machine.
