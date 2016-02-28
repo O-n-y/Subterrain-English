@@ -13,7 +13,7 @@ mainmenu_credits_instruction = Watch the credits for Subterrain
 mainmenu_exit_instruction = Exit the game
 
 releasenote_title = Release notes:
-releasenote_closeinstruction = Press any key, button to close
+releasenote_closeinstruction = Press any key/button to close
 
 demo_speech_unable = I can't use the tram!\nI need to buy the game!
 demo_notice_title = Demo Notice
@@ -34,7 +34,7 @@ setting_fog_intensity = Animated Fog Intensity
 setting_light_intensity = Light Intensity
 setting_outvision_intensity = Fog of War Intensity
 setting_shadow_intensity = Shadow Intensity
-setting_minimap_intensity = Minimap Transparency
+setting_minimap_intensity = Minimap Opacity
 setting_camera_mouse = Camera Drift Distance
 setting_animated_fog = Animated Fog
 setting_bloom = Bloom
@@ -65,9 +65,7 @@ setting_Japanese = Japanese
 setting_Other = Other
 
 setting_keyboard_title = REMAP KEYBOARD INPUT
-setting_keyboard_notice = PRESS\n\nKEYBOARD KEY\nMOUSE BUTTON\nMOUSE SCROLL UP\nMOUSE SCROLL DOWN\n\nTO CHANGE
-
-MAPPING\n\nPRESS ESC TO CANCEL
+setting_keyboard_notice = PRESS\n\nKEYBOARD KEY\nMOUSE BUTTON\nMOUSE SCROLL UP\nMOUSE SCROLL DOWN\n\nTO CHANGE MAPPING\n\nPRESS ESC TO CANCEL
 setting_keyboard_back = RETURN TO SETTINGS
 setting_keyboard_up = MOVE UP
 setting_keyboard_left = MOVE LEFT
@@ -122,7 +120,7 @@ userguide_Camera_Zoom = Camera Zoom
 userguide_Shield = Shield
 userguide_Sleeping = Sleeping
 userguide_Assemble = Assembling Weapon
-userguide_Tube = Tube
+userguide_Tube = Tram
 userguide_Power_control_console = Power Control Console
 userguide_Oxygen_canister = Oxygen Canister
 userguide_Temperature_canister = Temperature Canister
@@ -181,7 +179,7 @@ userguide_key_farm = ( E )
 userguide_key_repair = ( E )
 userguide_key_upgrade = ( E )
 
-beacon_title = BEACON NOTE
+beacon_title = BEACON NOTE EDITOR
 beacon_colorselection = COLOR SELECTION
 beacon_white = WHITE
 beacon_red = RED
@@ -192,7 +190,7 @@ beacon_orange = ORANGE
 beacon_magenta = MAGENTA
 beacon_apply = APPLY DATA
 beacon_pickup = PICK UP
-beacon_pickup_note = Warning, picking up beacon will reset its data.
+beacon_pickup_note = Note settings reset on pick up!
 
 hud_env_day_title = DAY
 hud_generator_overheat_limit = GENERATOR OVERHEAT LIMIT
@@ -373,7 +371,7 @@ speech_stats_dump_1 = I gotta take a dump.
 speech_stats_dump_2 = I need to find a toilet.\n...Gotta drop a deuce.
 speech_stats_dump_3 = I'm going to crap my pants!\n...I need a toilet! Now!
 speech_stats_overburden = I'm carrying too much weight.
-speech_stats_agilityLimit = I can't move quickly anymore.
+speech_stats_agilityLimit = I can't move quickly anymore!
 
 stats_tip_thirst_1 = Minor Dehydration
 stats_tip_thirst_2 = Moderate Dehydration
@@ -405,7 +403,7 @@ stats_tip_dump_1 = Slight Need to Defecate
 stats_tip_dump_2 = Serious Need to Defecate
 stats_tip_dump_3 = Extreme Need to Defecate
 stats_tip_overburden = Overburdened
-stats_tip_agilityLimit = Crippled
+stats_tip_agilityLimit = Unable to Dodge or Sprint
 
 stats_tip_buff_heal = Healing
 stats_tip_buff_perception = Sensing Enemies
@@ -832,7 +830,7 @@ speech_tube1 = Holy crap! The tram is still operational!
 speech_tube2 = Looks like I lucked out.
 speech_tube3 = I need to get the hell out of here.
 speech_tube4 = I'm not sure where I should go, though...
-speech_hallway_toxicated_radiation = Woah! Are those waste barrels?!\nI should stay away those!
+speech_hallway_toxicated_radiation = Woah! Are those waste barrels?!\nI should stay away from those!
 speech_check_oxygen_supply = I equip oxygen and thermal canisters, and make\nsure they are charged before heading down. 
 speech_there_is_no_one_here = ...Not a soul around.
 speech_power_control_console = This looks like the power control console.
@@ -865,5 +863,5 @@ speech_pisces_Zeronica_Jones = The name on the plate says: "Zeronica Jones"
 speech_pisces_AgathaBaxter_Rampage = Woah! What the hell did this?!\nIt must have been something huge!
 speech_pisces_AgathaBaxter1 = ...Here lies Dr. Agatha Baxter...
 speech_pisces_AgathaBaxter2 = ...a dedicated mother of cats...
-speech_pisces_AgathaBaxter3 = ...the head of Herbert Research Center...
+speech_pisces_AgathaBaxter3 = ...the head of Herbert Research...
 speech_pisces_AgathaBaxter4 = ... and apparently a Murder Machine.

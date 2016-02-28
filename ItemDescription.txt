@@ -25,7 +25,7 @@
 24;Soft Drink;A fizzy drink with a bunch of slogans on it. It still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]30%[-] THIRST[-]
 25;Vita D;A [ffff00]sealed[-] healthy drink. Well, it's sort of "healthy"!\n\n[a3ff00]- [ffffff]50%[-] THIRST[-]
 26;Standard Flashlight;A standard issue flashlight for MPO security forces. Much brighter and better range than a light stick, but it constantly drains a bit of energy from a power pack while on.\n\n[ffff00]Special Features[-]\n[A3FF00]Enhanced Brightness[-]\n[A3FF00]Extended Range[-]
-27;Light Stick;A kinetic energy powered light stick. It's dim and short ranged, but it lasts forever and doesn't require a power pack.\n\n[ffff00]Special Features[-]\n[A3FF00]ENo Power Draw[-]
+27;Light Stick;A kinetic energy powered light stick. It's dim and short ranged, but it lasts forever and doesn't require a power pack.\n\n[ffff00]Special Features[-]\n[A3FF00]No Power Draw[-]
 28;Baked Beans;A can of baked beans. Not bad! The can is still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] HUNGER[-]
 29;Mars Grape;Some Mars grapes. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Resveratrol[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
 30;Mars Peanut;A peanut grown in the biosphere. It might be [ff0000]contaminated[-].\n\nYields [ccccff]Isoflavones[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
@@ -37,14 +37,14 @@
 36;Mars Garlic;A clove of garlic. It's rather smelly, and probably [ff0000]contaminated[-].\n\nYields [ccccff]Allicin[-] when processed.\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]
 37;Pineapple;Slices of pineapple in simple syrup. It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
 38;Roast Beef;I'm not sure if much of this was ever "beef". It's [ffff00]sealed[-] and safe from contamination, so it's got that going for it.\n\n[a3ff00]- [ffffff]70%[-] HUNGER[-]
-39;Rotten Food Scrap;Rotten, highly [ff0000]contaminated[-] leftover food scrap. I shouldn't eat this!
-40;Salmon;King Bloscar's finest! It's still [ffff00]sealed[-], and is very filling!\n\n[a3ff00]- [ffffff]80%[-] HUNGER[-]
+39;Rotten Food Scrap;Rotten, highly [ff0000]contaminated[-] leftover food scraps. I shouldn't eat this!
+40;Salmon;King Bloscar's finest from Earth! It's still [ffff00]sealed[-], and is very filling!\n\n[a3ff00]- [ffffff]80%[-] HUNGER[-]
 41;Snack;A sealed bag of chips, but it could be [ff0000]contaminated[-].\n\n[a3ff00]- [ffffff]30%[-] HUNGER[-]
-42;Spaghetti;A can of spaghetti. Thankfully, "rat" isn't a listed ingredient. It's [ffff00]seal[-] is still intact, so it's safe from contamination.\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
+42;Spaghetti;A can of "Pastafarian" brand spaghetti. There is some sort of crazy pasta monster on the front of the can! It's [ffff00]seal[-] is still intact, so it's safe from contamination.\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
 43;Mars Tomato;A tomato grown on Mars. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Lycopene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
 44;Mars Onion;An onion that was grown in the biosphere. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Quercetin[-] when processed\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]\n[a3ff00]- [ffffff]2%[-] THIRST[-]
 45;Keycard - Generator Room;Keycard for Central Control's generator room.
-46;Improved Baton;Improved baton that deals additional damage.
+46;Improved Baton;An improved security baton that deals additional damage.
 47;Barrel 'Serious Harry' C58;Barrel for range weapon.
 48;Barrel 'Serious Harry' C72;Barrel for range weapon.
 49;Heatsink 'Frost' 20D;Heatsink for ranged weapon.
@@ -85,10 +85,10 @@
 84;Arrival at Central Control;Log - Arrival at Central Control.
 85;Power Control Console;Log - Power Control Console.
 86;Evacuation Status Update;Log - Evacuation Status Update.
-87;Windroid;A weak steroid used by runners and other athletes. It allows users to move more swiftly and without fatigue for a short amount of time.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
-88;Windroid Pro;A stronger steroid used by distance runners and other athletes. It's stronger than normal Windroid.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
-89;Windroid Ultra;A very strong steroid used by competitive runners and other athletes. It's stronger than Windroid Pro.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
-90;Windroid X;An intensely powerful and very expensive steroid. It's usually used illegally by pro athletes.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
+87;Windroid;A weak synthetic drug used by soldiers and security forces during conflicts. It allows users to move a little more swiftly and without fatigue for a short amount of time.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
+88;Windroid Pro;A synthetic drug used by veteran soldiers and mercenaries during conflicts. It allows users to move more swiftly and without fatigue for a while.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility +[-]\n[A3FF00]Unlimited Stamina[-]
+89;Windroid Ultra;A strong synthetic drug used by special forces and hardened mercenaries. It allows users to move much more swiftly and without fatigue for quite some time.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility + +[-]\n[A3FF00]Unlimited Stamina[-]
+90;Windroid X;A very strong synthetic drug used by elite soldiers during conflicts. It allows users to move very swiftly and without fatigue for a very long time.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility + + +[-]\n[A3FF00]Unlimited Stamina[-]
 91;Marsmari D;An enhanced Marsmari. This one is a little stronger and lasts a little longer.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]\n[A3FF00]Improved Range[-]
 92;Marsmari V;A very strong form of Marsmari. This refined form allows users to sense others from even further away.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]\n[A3FF00]Improved Range +[-]
 93;Decontamination Pill B;A strong, yellow decontamination pill. This one works pretty quickly.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n[ffff00]Strength:[-] [ffffff]Strong[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Contamination[-]
@@ -105,17 +105,17 @@
 104;Nanocasting Kit;A cast made from nanomachine technology. It is used to immobilize fractured bones so they can heal.\n\n[ffff00]Speed:[-] [ffffff]Very Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 105;Improved Medical Kit;A blue medical kit that restores more health than a standard kit.\n\n[a3ff00]+ [ffffff]40%[-] HEALTH[-]
 106;Stylus;A stylus for touch devices.
-107;Billiard ball;A round and shiny billiard ball.
-108;Billiard glove;A fancy glove that is commonly used by pro players.
+107;Billiard Ball;A round and shiny billiard ball.
+108;Billiard Glove;A fancy glove that is commonly used by pro players.
 109;Body Lotion;For smooth and silky skin!
 110;Mattress Cover;It looks clean and feels soft.
 111;Broken Cue;A broken billiard cue. Either it was used in a fight, or someone missed their shot pretty badly!
 112;Broken Plate;A plate that's been broken into pieces.
-113;Broken PTC;Completely broken personal temperature control unit.
+113;Broken PTC;Completely broken personal temperature control unit. This one definitely doesn't work.
 114;Broken Scalpel;A broken surgical knife.
 115;Camera;A old fashioned looking camera. Probably from Earth.
 116;Cap;A typical baseball cap that can be worn in multiple configurations.
-117;Chalk;A square of chalk for dusting cues with.
+117;Cue Chalk;A square of chalk for dusting cues with.
 118;Cleansing Cream;Cosmetics. My wife used to use this brand...
 119;Clinical Thermometer;Open wide!\n\nGuess again!
 120;Coil;It's a small coil with a manufacturer's mark: "Reynolds Industries"
@@ -136,7 +136,7 @@
 135;Fork;It's flimsy, so I can't "fork" anyone to death with this.
 136;Garbage Disposal;This belongs under a sink, but that's not going to stop me from recycling it!
 137;Genius PDA;This PDA is out of juice, so it's going in the recycler!
-138;Jeff Murray Figure;Small statue that resembles the founder of MPO, Jeff Murray. It has 16 points of articulation!
+138;Jeff Murray Figure;Small statue that resembles the founder of MPO, Jeff Murray. It has 16 points of articulation for some reason!
 139;Smart Glasses;These smart glasses that adjust its focal length to the wearer. They're similar to the ones I'm wearing, only I like my style of frame more.
 140;Hair Dryer;This would be useful if I took a shower. Or swam.
 141;Hair Pin;Nope. Not wearing this.
@@ -171,7 +171,7 @@
 170;Shampoo;If I wash my hair, I'll lose my natural hair gel!
 171;Small Pillow;It's pretty comfy... but I can't rest now!
 172;Soap;It's smells nice, but it also smells like fruit I usually eat. It's confusing!
-173;Socks;Ugh! It smells! And they don't match, either!
+173;Socks;Ugh! They smell! And they don't match, either!
 174;Spoon;I can't bend this.
 175;Game Controller;A multi-axis wireless controller with touch pads and a speaker.
 176;Electronic Stethoscope;It's a stethoscope with an amplifier in it. It reminds me of my intern days...
@@ -195,7 +195,7 @@
 194;Valve;An old valve with numbers engraved on it. The three is particularly worn out.
 195;Vodka;Fancy Russian vodka from Earth!
 196;Whiskey;The label says "Gabe's Reserve" and features a jolly man with glasses.
-197;Wine Glass;It's just regular glass.
+197;Wine Glass;A glass for drinking wine until you're a miserable pile of secrets.
 198;Wire;Thin metal wire.
 199;Barrel 'Serious Harry' C42;Barrel for ranged weapon.
 200;Barrel 'Dancing doll' F420;Barrel for ranged weapon.
@@ -222,7 +222,7 @@
 221;Beacon;Throw and interact with to assign a color and notes. The location of the beacon will appear on your map.
 222;Oxygen Canister S;A small, low capacity oxygen canister. It might not be much, but the alternative is suffocation!\n\n[ffff00]Capacity:[-] [ffffff]60[-] units
 223;Credit;Credit cash data. Instantly transfers to user's account.
-224;Baton;MPO Security baton.
+224;Baton;This is a standard issue MPO security baton used by prison guards.
 225;Claw;Mutant Claw.
 226;Pistol GIO;Core part for a pistol.
 227;Pistol GIO B2;Core part for a pistol.
@@ -232,12 +232,12 @@
 231;Shotgun Flux;Core part for a shotgun.
 232;Shotgun Flux GT;Core part for a shotgun.
 233;Fist;Puny human fist.
-234;Hammer;Good for little more than hitting nails.
-235;Crowbar;An iconic melee weapon for a free man.
-236;Knife;MPO Security knife.
+234;Hammer;An unused hammer. It's a decent weapon in a pinch.
+235;Crowbar;An iconic melee weapon for a free man. 
+236;Knife;A standard issue knife for MPO security.
 237;K 815;Randomly pre-combined ranged weapon.
-238;Wrench;Fix the mutant problems.
-239;MPO Prison Suit;Mars colony detention suit.
+238;Wrench;A big monkey wrench for fixing plumbing problems. And mutants.
+239;MPO Prison Suit;An orange Mars prison jumpsuit. It doesn't offer much protection, and it rips easily.
 240;Keycard - Nilson Engineering;Unlocks the door to Nilson Engineering.
 241;Keycard - MPO Biosphere;Unlocks the door to the Biosphere.
 242;Keycard - MPO Mine;Unlocks the door to the Mine.
@@ -249,13 +249,13 @@
 248;Power Suit MK III;This power suit has inertia control technologies incorporated into it.\n\n[ffff00]Special Features[-]:\n[a3ff00]Enhanced Mobility +[-]
 249;Battle Suit;This prototype suit of power armor is suitable even for an interplanetary surface invasion. It's a little bulky.\n\n[ffff00]Special Features[-]:\n[ff0000]Bulky[-]
 250;Battle Suit MK II;An advanced suit of armor. The weight and mobility issues have been addressed in this version, but there is still room for improvement.
-251;Battle Suit MK III;This extremely advanced battle suit shrugs off kinetic energy! It also augments the user's agility with servo motors.\n\nThis suit provides the wearer with [a3ff00]enhanced mobility[-].
+251;Battle Suit MK III;This extremely advanced battle suit shrugs off kinetic energy! It also augments the user's agility with servo motors.\n\n[ffff00]Special Features[-]:\n[a3ff00]Enhanced Mobility + +[-]
 252;Advanced Colonist Suit;This is an improved colony suit for better survivability. It's a little bulky, but it has a bubble helmet!\n\n[ffff00]Special Features[-]:\n[ff0000]Bulky[-]
 253;Advanced Colonist Suit MK II;An improved advanced colony suit. The bubble helmet has been reinforced. There is still room for improvement, though!
 254;Advanced Colonist Suit MK III;This advanced colony suit is of a lighter and more durable design.\n\n[ffff00]Special Features[-]:\n[a3ff00]Enhanced Mobility[-]
 255;Standard Colonist Suit;A standard issue MPO colonist suit. It offers very minor protection.
 256;MPO Engineering Suit;Item not yet implemented.
-257;IEVA Suit;An "intra/extravehicular activity" space suit. It has its own personal oxygen supply.
+257;IEVA Suit;An "intra/extravehicular activity" space suit. This suit was designed with extensive life support functions built-in, but it is exceptionally bulky!\n\n[ffff00]Special Features[-]:\n[a3ff00]Personal Life Support[-]\n[ff0000]Extremely Bulky[-]
 258;Birthday Suit;Running around Mars in my undies...!
 259;Pistol GIO A;Core part for a pistol.
 260;Pistol GIO A2;Core part for a pistol.
@@ -314,18 +314,18 @@
 313;Mars Lithium;An exotic and expensive material processed from [ccccff]Petalite Ore[-]. It's extremely durable and and light.
 314;Shotgun Flux GX2;Core part for a shotgun.
 315;Heatsink 'Naglfar' F350;Heatsink  for ranged weapon.
-316;Heavy Baton;Improved MPO Security baton.
-317;Spiked Heavy Baton;Spiked MPO Security baton.
-318;Electric Baton;Advanced MPO Security baton.
-319;Heavy Electric Baton;Heavy electric MPO Security baton.
-320;Laser Baton;Advanced laser baton that deals more damage.
-321;Heavy Laser Baton;Advanced laser baton with improved knockback and extra damage.
-322;Double Edged Knife;MPO Security knife that deals more damage.
-323;Electric Knife;Advanced Security knife with a small Stun effect.
-324;Laser Sword;Advanced prototype melee weapon.
-325;Long Electric Knife;Advanced Security knife with extra reach and Stun effect.
-326;Long Laser Sword;Advanced prototype melee weapon with extra reach and damage.
-327;Long Double Edged Knife;MPO Security knife with longer reach and extra damage.
+316;Heavy Baton;An improved security baton with a cudgel end. It's time to get medieval!
+317;Weighted Heavy Baton;A really bulky baton with a weighted head. 
+318;Electric Baton;This baton has a tazer head for dealing with unruly people. Hopefully it's just as effective on mutants!
+319;Heavy Electric Baton;An improved electric baton with a bigger tazer head.
+320;Laser Baton;A glowing baton that burns any flesh it comes in contact with. It does considerably more damage than most batons.
+321;Heavy Laser Baton;An improved laser baton that is brightly glowing orange. It sends enemies flying in addition to doing more damage.
+322;Double-Edged Knife;An improved knife with a double-edged blade. It's pretty sharp! 
+323;Electric Knife;An electrified knife with a stunning effect.
+324;Laser Sword;Advanced prototype melee weapon that costs over two mill in parts alone!
+325;Electric Sword;An improved electric knife with extra reach.
+326;Long Laser Sword;An elegant weapon, for a more civilized age. It has extra reach and impressive damage.
+327;Double-Edged Sword;An improved double-edged knife with improved damage and extended reach.
 328;Backpack XL;XL Mars security backpack. This thing is huge! You could live in here!\n\n[ffff00]Max Slots:[-] [ffffff]80[-]\n[ffff00]Max Weight:[-] [ffffff]45[-] kg
 329;Electric Stun Grenade MK II;An upgraded stun grenade that features a motion sensor. The sensor will trigger the grenade, detonating as enemies approach it.\n\nIt has a [FFFFFF]2[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]
 330;Electric Stun Grenade MK III;An advanced stun grenade with a longer fuse. It flashes and makes noise when armed, which attracts enemies.\n\nIt has a [ffffff]5[-] second fuse.\n\n[ffff00]Special Features[-]:\n[A3FF00]Motion Sensor[-]\n[A3FF00]Attracts Enemies[-]
