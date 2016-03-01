@@ -1,0 +1,12 @@
+There is a pile of notes here:
+
+[i][ccccff][ffffc0]April 2nd:[-]
+Murray's been tuning Minerva to colder climates and environments with little to no oxygen. He says it's to cut down on oxidation damage and overclock the nanomachines without risk, but I don't understand why. Minerva's for living things, after all, and I sure as hell like breathing and being warm.
+
+[ffffc0]April 8th:[-]
+By modifying the life support systems around the city, "leaks" can be kept at bay indefinitely. The life support prototypes will utilized their connected systems and piping as antennae. When installed, these regulators and filters will broadcast interfering signals to partially disrupt the nanomachines, dampening Minerva's spread.
+
+[ffffc0]April 17th:[-]
+I guess it's up to me now. The only way [ffff00]purification[-] will occur is if they are stopped at the source. I have to get these into [ffff00]every oxygen and temperature generator[-] around MPO in order to collected enough data before the AI can formulate a killswitch. I managed to get the new prototypes to talk to the new Minerva samples Murray released, but it looks like it also will [ff0000]accelerate the spread[-] of the infection - it'll act like a network booster for the time these are communicating.[-][/i]
+
+I think if I manage to get these oxygen filters and temperature regulators in every district of MPO, I could figure out what he was trying to do.

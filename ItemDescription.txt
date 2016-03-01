@@ -1,10 +1,10 @@
 0;Empty Item;Empty item
 1;Backpack M;A medium Mars Security backpack worn by guards.Not too big, not too small!\n\n[ffff00]Max Slots:[-] [ffffff]56[-]\n[ffff00]Max Weight:[-] [ffffff]27[-] kg
 2;Backpack L;A large Mars Security backpack worn by guards. There's a ton of room in it!\n\n[ffff00]Max Slots:[-] [ffffff]68[-]\n[ffff00]Max Weight:[-] [ffffff]35[-] kg
-3;Mars Apolonite Ore;One of the rarest materials on Mars. Apolonite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Casandrium[-] when refined.
+3;Apolonite Ore;One of the rarest materials on Mars. Apolonite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Casandrium[-] when refined.
 4;Long Knife;It's an improved MPO security knife. It has a long reach.
-5;Mars Casandrium;An exotic and expensive material processed from [ccccff]Apolonite Ore[-]. It's extremely durable and and light.
-6;Mars Palladium;A common material refined from [ccccff]Nickel Ore[-]. It's usually shipped to Earth, as it's more valuable there.
+5;Casandrium;An exotic and expensive material processed from [ccccff]Apolonite Ore[-]. It's extremely durable and and light.
+6;Palladium;A common material refined from [ccccff]Nickel Ore[-]. It's usually shipped to Earth, as it's more valuable there.
 7;Electronic Resin;Electronic semiconductor resin that can be used in 3D printing to produce any parts that require nano-scale electric flow control.
 8;Glass Fiber;A glass filament. Mainly used in 3D printing to produce fabric-like materials.
 9;Infected Eyeball;A creepy, bloodshot eyeball from a dead mutant.\n\nYields [ccccff]Tissue Extract[-] when recycled.
@@ -13,7 +13,7 @@
 12;Infected Tissue;A hunk of flesh from a dead mutant. It's smelly.\n\nYields [ccccff]Tissue Extract[-] when recycled.
 13;Infected Tongue;A tongue from a dead mutant. It's still wiggling!\n\nYields [ccccff]Tissue Extract[-] when recycled.
 14;Infected Tooth;A sharp tooth from a dead mutant. It's pointy!\n\nYields [ccccff]Osseous Extract[-] when recycled.
-15;Mars Titanium;A common material processed from [ccccff]Ilmenite Ore[-]. It's worth a lot more on Earth.
+15;Titanium;A common material processed from [ccccff]Ilmenite Ore[-]. It's worth a lot more on Earth.
 16;Metal Composite;Very light metal composite resource for 3D printing. It can be made as hard as solid metal but also shaped into any form like plastic.
 17;Blood Sample A;High grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
 18;Blood Sample B;Medium grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
@@ -27,22 +27,22 @@
 26;Standard Flashlight;A standard issue flashlight for MPO security forces. Much brighter and better range than a light stick, but it constantly drains a bit of energy from a power pack while on.\n\n[ffff00]Special Features[-]\n[A3FF00]Enhanced Brightness[-]\n[A3FF00]Extended Range[-]
 27;Light Stick;A kinetic energy powered light stick. It's dim and short ranged, but it lasts forever and doesn't require a power pack.\n\n[ffff00]Special Features[-]\n[A3FF00]No Power Draw[-]
 28;Baked Beans;A can of baked beans. Not bad! The can is still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] HUNGER[-]
-29;Mars Grape;Some Mars grapes. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Resveratrol[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
-30;Mars Peanut;A peanut grown in the biosphere. It might be [ff0000]contaminated[-].\n\nYields [ccccff]Isoflavones[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
-31;Mars Corn;An ear of Mars corn. There's a good chance it's [ff0000]contaminated[-].\n\nYields [ccccff]Zeaxanthin[-] when processed.\n\n[a3ff00]- [ffffff]10%[-] HUNGER[-]
-32;Mars Carrot;A Mars carrot, fresh from the biosphere. Chances are it's [ff0000]contaminated[-].\n\nYields [ccccff]Alpha-Carotene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
+29;Grapes;Some Mars grapes. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Resveratrol[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
+30;Peanut;A peanut grown in the biosphere. It might be [ff0000]contaminated[-].\n\nYields [ccccff]Isoflavones[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
+31;Corn;An ear of Mars corn. There's a good chance it's [ff0000]contaminated[-].\n\nYields [ccccff]Zeaxanthin[-] when processed.\n\n[a3ff00]- [ffffff]10%[-] HUNGER[-]
+32;Carrot;A Mars carrot, fresh from the biosphere. Chances are it's [ff0000]contaminated[-].\n\nYields [ccccff]Alpha-Carotene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]
 33;Chocolate Bar;A candy bar! It's sealed, but it could still be [ff0000]contaminated[-].\n\n[a3ff00]- [ffffff]30%[-] HUNGER[-]
-34;Mars Lemon;A zesty lemon from Mars' biosphere. It's probably [ff0000]contaminated[-], though.\n\nYields [ccccff]Hesperidin[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
+34;Lemon;A zesty lemon from Mars' biosphere. It's probably [ff0000]contaminated[-], though.\n\nYields [ccccff]Hesperidin[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
 35;Morning Cereal;It's a box of cereal with a dumb-looking cartoon dog on it. This dog is sad kids won't share cereal with it. The box is sealed, but could be [ff0000]contaminated[-].\n\n[a3ff00]- [ffffff]70%[-] HUNGER[-]
-36;Mars Garlic;A clove of garlic. It's rather smelly, and probably [ff0000]contaminated[-].\n\nYields [ccccff]Allicin[-] when processed.\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]
+36;Garlic;A clove of garlic. It's rather smelly, and probably [ff0000]contaminated[-].\n\nYields [ccccff]Allicin[-] when processed.\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]
 37;Pineapple;Slices of pineapple in simple syrup. It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
 38;Roast Beef;I'm not sure if much of this was ever "beef". It's [ffff00]sealed[-] and safe from contamination, so it's got that going for it.\n\n[a3ff00]- [ffffff]70%[-] HUNGER[-]
 39;Rotten Food Scrap;Rotten, highly [ff0000]contaminated[-] leftover food scraps. I shouldn't eat this!
 40;Salmon;King Bloscar's finest from Earth! It's still [ffff00]sealed[-], and is very filling!\n\n[a3ff00]- [ffffff]80%[-] HUNGER[-]
 41;Snack;A sealed bag of chips, but it could be [ff0000]contaminated[-].\n\n[a3ff00]- [ffffff]30%[-] HUNGER[-]
 42;Spaghetti;A can of "Pastafarian" brand spaghetti. There is some sort of crazy pasta monster on the front of the can! It's [ffff00]seal[-] is still intact, so it's safe from contamination.\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
-43;Mars Tomato;A tomato grown on Mars. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Lycopene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
-44;Mars Onion;An onion that was grown in the biosphere. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Quercetin[-] when processed\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]\n[a3ff00]- [ffffff]2%[-] THIRST[-]
+43;Tomato;A tomato grown on Mars. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Lycopene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
+44;Onion;An onion that was grown in the biosphere. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Quercetin[-] when processed\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]\n[a3ff00]- [ffffff]2%[-] THIRST[-]
 45;Keycard - Generator Room;Keycard for Central Control's generator room.
 46;Improved Baton;An improved security baton that deals additional damage.
 47;Barrel 'Serious Harry' C58;Barrel for range weapon.
@@ -85,10 +85,10 @@
 84;Arrival at Central Control;Log - Arrival at Central Control.
 85;Power Control Console;Log - Power Control Console.
 86;Evacuation Status Update;Log - Evacuation Status Update.
-87;Windroid;A weak synthetic drug used by soldiers and security forces during conflicts. It allows users to move a little more swiftly and without fatigue for a short amount of time.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Unlimited Stamina[-]
-88;Windroid Pro;A synthetic drug used by veteran soldiers and mercenaries during conflicts. It allows users to move more swiftly and without fatigue for a while.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility +[-]\n[A3FF00]Unlimited Stamina[-]
-89;Windroid Ultra;A strong synthetic drug used by special forces and hardened mercenaries. It allows users to move much more swiftly and without fatigue for quite some time.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility + +[-]\n[A3FF00]Unlimited Stamina[-]
-90;Windroid X;A very strong synthetic drug used by elite soldiers during conflicts. It allows users to move very swiftly and without fatigue for a very long time.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility + + +[-]\n[A3FF00]Unlimited Stamina[-]
+87;Windroid;A weak synthetic drug used by soldiers and security forces during conflicts. It allows users to move a little more swiftly and without fatigue for a short amount of time.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Stamina ∞ [-]
+88;Windroid Pro;A synthetic drug used by veteran soldiers and mercenaries during conflicts. It allows users to move more swiftly and without fatigue for a while.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility +[-]\n[A3FF00]Stamina ∞[-]
+89;Windroid Ultra;A strong synthetic drug used by special forces and hardened mercenaries. It allows users to move much more swiftly and without fatigue for quite some time.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility + +[-]\n[A3FF00]Stamina ∞[-]
+90;Windroid X;A very strong synthetic drug used by elite soldiers during conflicts. It allows users to move very swiftly and without fatigue for a very long time.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility + + +[-]\n[A3FF00]Stamina ∞[-]
 91;Marsmari D;An enhanced Marsmari. This one is a little stronger and lasts a little longer.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]\n[A3FF00]Improved Range[-]
 92;Marsmari V;A very strong form of Marsmari. This refined form allows users to sense others from even further away.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]\n[A3FF00]Improved Range +[-]
 93;Decontamination Pill B;A strong, yellow decontamination pill. This one works pretty quickly.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n[ffff00]Strength:[-] [ffffff]Strong[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Contamination[-]
@@ -98,10 +98,10 @@
 97;Decontamination Pill A;A very strong decontamination pill. This green pill quickly reduces a person's contamination!\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n[ffff00]Strength:[-] [ffffff]Very Strong[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Contamination[-]
 98;Basic Medical Kit;A standard issue medical kit that can be found all around Mars.\n\n[a3ff00]+ [ffffff]20%[-] HEALTH[-]
 99;Musclemax;A steroid for pumping up muscles. After use, it boosts melee damage for a short time.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength[-]
-100;Musclemax K;A stronger version of Musclemax. The effects last longer.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength[-]
-101;Musclemax S;A very strong steroid for increasing muscle mass.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength[-]
+100;Musclemax K;A stronger version of Musclemax. The effects last longer.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength +[-]
+101;Musclemax S;A very strong steroid for increasing muscle mass.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength + +[-]
 102;Marsmari;A recreational drug that heightens the user's senses.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]
-103;Musclemax X;The strongest muscle mass steroid available. The effects last for a very long time.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength[-]
+103;Musclemax X;The strongest muscle mass steroid available. The effects last for a very long time.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Improved Melee Strength + + +[-]
 104;Nanocasting Kit;A cast made from nanomachine technology. It is used to immobilize fractured bones so they can heal.\n\n[ffff00]Speed:[-] [ffffff]Very Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 105;Improved Medical Kit;A blue medical kit that restores more health than a standard kit.\n\n[a3ff00]+ [ffffff]40%[-] HEALTH[-]
 106;Stylus;A stylus for touch devices.
@@ -302,16 +302,16 @@
 301;Hesperidin;A yellow liquid processed from [ccccff]Mars Lemons[-].\n\nUsed in the production of advanced medical supplies.
 302;Allicin;A clear liquid processed from [ccccff]Mars Garlic[-].\n\nUsed in the production of ultra medical supplies.
 303;Quercetin;A milky liquid processed from [ccccff]Mars Onions[-].\n\nUsed in the production of ultra medical supplies.
-304;Mars Ilmenite Ore;Ilmenite ore found deep underground on Mars. Fairly common.\n\nYields [ccccff]Titanium[-] when refined.
-305;Mars Bastnaesite Ore;An uncommon Mars ore that's produces durable materials.\n\nYields [ccccff]Neodymium[-] when refined.
-306;Mars Gadolinite Ore;A fairly rare ore. It's very valuable for making advanced equipment.\n\nYields [ccccff]Scandium[-] when refined.
-307;Mars Xenotime Ore;A fairly rare ore. It's very valuable for making advanced equipment.\n\nYields [ccccff]Yttrium[-] when refined.
-308;Mars Petalite Ore;One of the rarest materials on Mars. Petalite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Lithium[-] when refined.
-309;Mars Cerium;A somewhat uncommon alloy processed from [ccccff]Monazite Ore[-]. It's fairly durable.
-310;Mars Neodymium;A somewhat uncommon alloy processed from [ccccff]Bastnaesite Ore[-]. It's fairly durable.
-311;Mars Scandium;An advanced alloy processed from [ccccff]Gadolinite Ore[-]. It's sought after even on Mars.
-312;Mars Yttrium;An advanced alloy processed from [ccccff]Xenotime Ore[-]. It's sought after even on Mars.
-313;Mars Lithium;An exotic and expensive material processed from [ccccff]Petalite Ore[-]. It's extremely durable and and light.
+304;Ilmenite Ore;Ilmenite ore found deep underground on Mars. Fairly common.\n\nYields [ccccff]Titanium[-] when refined.
+305;Bastnaesite Ore;An uncommon Mars ore that's produces durable materials.\n\nYields [ccccff]Neodymium[-] when refined.
+306;Gadolinite Ore;A fairly rare ore. It's very valuable for making advanced equipment.\n\nYields [ccccff]Scandium[-] when refined.
+307;Xenotime Ore;A fairly rare ore. It's very valuable for making advanced equipment.\n\nYields [ccccff]Yttrium[-] when refined.
+308;Petalite Ore;One of the rarest materials on Mars. Petalite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Lithium[-] when refined.
+309;Cerium;A somewhat uncommon alloy processed from [ccccff]Monazite Ore[-]. It's fairly durable.
+310;Neodymium;A somewhat uncommon alloy processed from [ccccff]Bastnaesite Ore[-]. It's fairly durable.
+311;Scandium;An advanced alloy processed from [ccccff]Gadolinite Ore[-]. It's sought after even on Mars.
+312;Yttrium;An advanced alloy processed from [ccccff]Xenotime Ore[-]. It's sought after even on Mars.
+313;Lithium;An exotic and expensive material processed from [ccccff]Petalite Ore[-]. It's extremely durable and and light.
 314;Shotgun Flux GX2;Core part for a shotgun.
 315;Heatsink 'Naglfar' F350;Heatsink  for ranged weapon.
 316;Heavy Baton;An improved security baton with a cudgel end. It's time to get medieval!
@@ -473,11 +473,13 @@
 472;Nickel Necklace;Jewelry made with Nickel ore.\n\nRecycling this may produce a [ccccff]Nickel Gem[-].
 473;Petalite Earring;Jewelry made with Petalite ore.\n\nRecycling this may produce a [ccccff]Petalite Gem[-].
 474;Xenotime Bracelet;Jewelry made with Xenotime ore.\n\nRecycling this may produce a [ccccff]Xenotime Gem[-].
-475;Mars Cave Crystal;Rare crystal found in Mars caves. Very popular souvenir for the tourists. Some people on Earth believe it to have a mythical healing power and is revered by some cults. This one seems to be a [ffff00]genuine[-].
-476;Mars Cave Crystal;Rare crystal found in Mars caves. Very popular souvenir for the tourists. Some people on Earth believe it to have a mythical healing power and is revered by some cults. However, this one seems to be a [ff0000]cheap fake[-].
+475;Cave Crystal;Rare crystal found in Mars caves. Very popular souvenir for the tourists. Some people on Earth believe it to have a mythical healing power and is revered by some cults. This one seems to be a [ffff00]genuine[-].
+476;Cave Crystal;Rare crystal found in Mars caves. Very popular souvenir for the tourists. Some people on Earth believe it to have a mythical healing power and is revered by some cults. However, this one seems to be a [ff0000]cheap fake[-].
 477;Keycard - Engineering Sub-Door; A keycard for the shortcut leading from Research center to Engineering.
 478;Keycard - Research Sub-Door;A keycard for the shortcut leading from Engineering to Research center.
 479;Shotgun Flux GX3;Core part for a shotgun.
 480;SpittingWalkerAttack1;(System weapon for BitingWalkers)
 481;VomWalkerAttack1;(System weapon for BitingWalkers)
 482;VomWalker2Attack1;(System weapon for BitingWalkers)
+483;Crash;Log - Crash
+484;Assessment;Log - Assessment
