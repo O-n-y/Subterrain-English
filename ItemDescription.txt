@@ -1,4 +1,4 @@
-0;Empty Item;Empty item
+﻿0;Empty Item;Empty item
 1;Backpack M;A medium Mars Security backpack worn by guards.Not too big, not too small!\n\n[ffff00]Max Slots:[-] [ffffff]56[-]\n[ffff00]Max Weight:[-] [ffffff]27[-] kg
 2;Backpack L;A large Mars Security backpack worn by guards. There's a ton of room in it!\n\n[ffff00]Max Slots:[-] [ffffff]68[-]\n[ffff00]Max Weight:[-] [ffffff]35[-] kg
 3;Apolonite Ore;One of the rarest materials on Mars. Apolonite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Casandrium[-] when refined.
@@ -289,8 +289,8 @@
 288;Barrel 'Raging Bull' GE190;Barrel for ranged weapon.
 289;Thermal Canister L;A large thermal canister. It has an improved weight and capacity over previous versions.\n\n[ffff00]Capacity:[-] [ffffff]80[-] units
 290;Thermal Canister XL;An extremely lightweight, yet large, thermal canister. It boasts a very high capacity.\n\n[ffff00]Capacity:[-] [ffffff]100[-] units
-291;Mars Monazite Ore;An uncommon Mars ore that produces durable materials.\n\nYields [ccccff]Cerium[-] when refined.
-292;Mars Nickel Ore;Nickel ore found underground on Mars. Fairly common.\n\nYields [ccccff]Palladium[-] when refined.
+291;Monazite Ore;An uncommon Mars ore that produces durable materials.\n\nYields [ccccff]Cerium[-] when refined.
+292;Nickel Ore;Nickel ore found underground on Mars. Fairly common.\n\nYields [ccccff]Palladium[-] when refined.
 293;Oxygen Canister M;A medium oxygen canister with improved weight and capacity.\n\n[ffff00]Capacity:[-] [ffffff]80[-] units
 294;Oxygen Canister L;A large oxygen canister with a large capacity. It's not as heavy as it looks!\n\n[ffff00]Capacity:[-] [ffffff]100[-] units
 295;Osseous Extract;Extracted from mutant bone tissue samples.
