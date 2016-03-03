@@ -1,4 +1,4 @@
-﻿0;Empty Item;Empty item
+0;Empty Item;Empty item
 1;Backpack M;A medium Mars Security backpack worn by guards.Not too big, not too small!\n\n[ffff00]Max Slots:[-] [ffffff]56[-]\n[ffff00]Max Weight:[-] [ffffff]27[-] kg
 2;Backpack L;A large Mars Security backpack worn by guards. There's a ton of room in it!\n\n[ffff00]Max Slots:[-] [ffffff]68[-]\n[ffff00]Max Weight:[-] [ffffff]35[-] kg
 3;Apolonite Ore;One of the rarest materials on Mars. Apolonite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Casandrium[-] when refined.
@@ -483,3 +483,13 @@
 482;VomWalker2Attack1;(System weapon for BitingWalkers)
 483;Crash;Log - Crash
 484;Assessment;Log - Assessment
+485;Confession Part 1;Log - Confession Part 1
+486;Confession Part 2;Log - Confession Part 2
+487;Confession Part 3;Log - Confession Part 3
+488;Confession Part 4;Log - Confession Part 4
+489;Purification;Log - Purification
+490;Keypass - Murray mansion lab;Murray mansion lab key card
+491;Keypass - Murray mansion gate;Murray mansion gate key card
+492;Oxygen purification filter;Oxygen generator purification fuse.
+493;Temp. regulator fuse purification;Temperature regulator fuse with purification effect.
+494;Purification data;Blueprint containing data that can be researched in order to produce oxygen and temperature purification parts.
