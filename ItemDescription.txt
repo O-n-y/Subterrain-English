@@ -1,4 +1,4 @@
-0;Empty Item;Empty item
+﻿0;Empty Item;Empty item
 1;Backpack M;A medium Mars Security backpack worn by guards.Not too big, not too small!\n\n[ffff00]Max Slots:[-] [ffffff]56[-]\n[ffff00]Max Weight:[-] [ffffff]27[-] kg
 2;Backpack L;A large Mars Security backpack worn by guards. There's a ton of room in it!\n\n[ffff00]Max Slots:[-] [ffffff]68[-]\n[ffff00]Max Weight:[-] [ffffff]35[-] kg
 3;Apolonite Ore;One of the rarest materials on Mars. Apolonite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Casandrium[-] when refined.
@@ -85,10 +85,10 @@
 84;Arrival at Central Control;Log - Arrival at Central Control.
 85;Power Control Console;Log - Power Control Console.
 86;Evacuation Status Update;Log - Evacuation Status Update.
-87;Windroid;A weak synthetic drug used by soldiers and security forces during conflicts. It allows users to move a little more swiftly and without fatigue for a short amount of time.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility[-]\n[A3FF00]Stamina ∞ [-]
-88;Windroid Pro;A synthetic drug used by veteran soldiers and mercenaries during conflicts. It allows users to move more swiftly and without fatigue for a while.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility +[-]\n[A3FF00]Stamina ∞[-]
-89;Windroid Ultra;A strong synthetic drug used by special forces and hardened mercenaries. It allows users to move much more swiftly and without fatigue for quite some time.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility + +[-]\n[A3FF00]Stamina ∞[-]
-90;Windroid X;A very strong synthetic drug used by elite soldiers during conflicts. It allows users to move very swiftly and without fatigue for a very long time.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Enhanced Mobility + + +[-]\n[A3FF00]Stamina ∞[-]
+87;Windroid;A weak synthetic drug used by soldiers and security forces during conflicts. It allows users to move a little more swiftly and without fatigue for a short amount of time.\n\n[ffff00]Duration:[-] [ffffff]Short[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Mobility +[-]\n[A3FF00]Stamina ∞[-]
+88;Windroid Pro;A synthetic drug used by veteran soldiers and mercenaries during conflicts. It allows users to move more swiftly and without fatigue for a while.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Mobility + +[-]\n[A3FF00]Stamina ∞[-]
+89;Windroid Ultra;A strong synthetic drug used by special forces and hardened mercenaries. It allows users to move much more swiftly and without fatigue for quite some time.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Mobility + + +[-]\n[A3FF00]Stamina ∞[-]
+90;Windroid X;A very strong synthetic drug used by elite soldiers during conflicts. It allows users to move very swiftly and without fatigue for a very long time.\n\n[ffff00]Duration:[-] [ffffff]Very Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Mobility + + + +[-]\n[A3FF00]Stamina ∞[-]
 91;Marsmari D;An enhanced Marsmari. This one is a little stronger and lasts a little longer.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]\n[A3FF00]Improved Range[-]
 92;Marsmari V;A very strong form of Marsmari. This refined form allows users to sense others from even further away.\n\n[ffff00]Duration:[-] [ffffff]Long[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Detect Enemies[-]\n[A3FF00]Improved Range +[-]
 93;Decontamination Pill B;A strong, yellow decontamination pill. This one works pretty quickly.\n\n[ffff00]Duration:[-] [ffffff]Moderate[-]\n[ffff00]Strength:[-] [ffffff]Strong[-]\n\n[ffff00]Effects[-]:\n[A3FF00]Lowers Contamination[-]
@@ -244,18 +244,18 @@
 243;Keycard - Herbert Research;Unlocks the door to Herbert Research Center.
 244;Blood Extract;This has been extracted from mutant blood samples.
 245;Tissue Extract;This has been extracted from mutant organ samples.
-246;Power Suit;This power suit is based on advanced nanotechnology. This prototype's a little bulky, but has a lot of It looks sort of sinister!\n\n[ffff00]Special Features[-]:\n[ff0000]Bulky[-]
+246;Power Suit;This power suit is based on advanced nanotechnology. This prototype's a little bulky, but has a lot of It looks sort of sinister!\n\n[ffff00]Special Features[-]:\n[ff0000]Mobility -[-]
 247;Power Suit MK II;This power suit has had its mobility issues fixed, but there is still room for improvement.
-248;Power Suit MK III;This power suit has inertia control technologies incorporated into it.\n\n[ffff00]Special Features[-]:\n[a3ff00]Enhanced Mobility +[-]
-249;Battle Suit;This prototype suit of power armor is suitable even for an interplanetary surface invasion. It's a little bulky.\n\n[ffff00]Special Features[-]:\n[ff0000]Bulky[-]
+248;Power Suit MK III;This power suit has inertia control technologies incorporated into it.\n\n[ffff00]Special Features[-]:\n[a3ff00]Mobility + +[-]
+249;Battle Suit;This prototype suit of power armor is suitable even for an interplanetary surface invasion. It's a little bulky.\n\n[ffff00]Special Features[-]:\n[ff0000]Mobility -[-]
 250;Battle Suit MK II;An advanced suit of armor. The weight and mobility issues have been addressed in this version, but there is still room for improvement.
-251;Battle Suit MK III;This extremely advanced battle suit shrugs off kinetic energy! It also augments the user's agility with servo motors.\n\n[ffff00]Special Features[-]:\n[a3ff00]Enhanced Mobility + +[-]
-252;Advanced Colonist Suit;This is an improved colony suit for better survivability. It's a little bulky, but it has a bubble helmet!\n\n[ffff00]Special Features[-]:\n[ff0000]Bulky[-]
+251;Battle Suit MK III;This extremely advanced battle suit shrugs off kinetic energy! It also augments the user's agility with servo motors.\n\n[ffff00]Special Features[-]:\n[a3ff00]Mobility + + +[-]
+252;Advanced Colonist Suit;This is an improved colony suit for better survivability. It's a little bulky, but it has a bubble helmet!\n\n[ffff00]Special Features[-]:\n[ff0000]Mobility -[-]
 253;Advanced Colonist Suit MK II;An improved advanced colony suit. The bubble helmet has been reinforced. There is still room for improvement, though!
-254;Advanced Colonist Suit MK III;This advanced colony suit is of a lighter and more durable design.\n\n[ffff00]Special Features[-]:\n[a3ff00]Enhanced Mobility[-]
+254;Advanced Colonist Suit MK III;This advanced colony suit is of a lighter and more durable design.\n\n[ffff00]Special Features[-]:\n[a3ff00]Mobility +[-]
 255;Standard Colonist Suit;A standard issue MPO colonist suit. It offers very minor protection.
 256;MPO Engineering Suit;Item not yet implemented.
-257;IEVA Suit;An "intra/extravehicular activity" space suit. This suit was designed with extensive life support functions built-in, but it is exceptionally bulky!\n\n[ffff00]Special Features[-]:\n[a3ff00]Personal Life Support[-]\n[ff0000]Extremely Bulky[-]
+257;IEVA Suit;An "intra/extravehicular activity" space suit. This suit was designed with extensive life support functions built-in, but it is exceptionally bulky!\n\n[ffff00]Special Features[-]:\n[a3ff00]Personal Life Support[-]\n[ff0000]Mobility - -[-]
 258;Birthday Suit;Running around Mars in my undies...!
 259;Pistol GIO A;Core part for a pistol.
 260;Pistol GIO A2;Core part for a pistol.
@@ -338,10 +338,10 @@
 337;Ultron Flashlight;A very bright flashlight based on Ultron light technology. It uses very little energy compared to most flashlights.\n\n[ffff00]Special Features[-]\n[A3FF00]Enhanced Brightness + + +[-]\n[A3FF00]Extended Range + + +[-]\n[A3FF00]Wide Angle[-]\n[A3FF00]Lower Energy Drain[-]
 338;Power Pack XL;An extra large portable energy pack. You could power an apartment with this thing!\n\n[ffff00]Capacity:[-] [ffffff]2250[-]\n[ffff00]Shield Power:[-] [ffffff]75%[-]
 339;Oxygen Canister XL;An extremely lightweight, yet large, oxygen canister. It boasts a very high capacity.\n\n[ffff00]Capacity:[-] [ffffff]120[-] units
-340;Reactor Module MK I;A reactor module for the inertia reactor. This one isn't very advanced, but it's based on nanotechnology.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]800[-]
-341;Reactor Module MK II;A reactor module for the inertia reactor. This module is slightly more advanced and might fare better in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]1200[-]
-342;Reactor Module MK III;A reactor module for the inertia reactor. It's pretty advanced. It might last longer in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]1500[-]
-343;Reactor Module MK IV;A reactor module for the inertia reactor. It's exceptionally advanced. It should last a very long time, even though the reactor's damaged.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\nDurability: [ffffff]2000[-]
+340;Reactor Module MK I;A reactor module for the inertia reactor. This one isn't very advanced, but it's based on nanotechnology.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]800[-]
+341;Reactor Module MK II;A reactor module for the inertia reactor. This module is slightly more advanced and might fare better in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]1200[-]
+342;Reactor Module MK III;A reactor module for the inertia reactor. It's pretty advanced. It might last longer in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]1500[-]
+343;Reactor Module MK IV;A reactor module for the inertia reactor. It's exceptionally advanced. It should last a very long time, even though the reactor's damaged.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]2000[-]
 344;Level 1 Engineering Software;Basic software for engineering facilities.
 345;Level 2 Engineering Software;Level [ffffff]2[-] software for engineering facilities.
 346;Level 3 Engineering Software;Level [ffffff]3[-] software for engineering facilities.
@@ -388,11 +388,11 @@
 387;Thermal Regulator;It's a basic thermal regulator. When placed in temperature regulation systems, it will generate heat.
 388;Thermal Regulator MK II;It's a thermal regulator with some modifications. It suppresses the spread of the infection.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression[-]
 389;Thermal Regulator MK III;It's a thermal regulator with some advanced modifications. It has improved suppression effects.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression +[-]
-390;Thermal Regulator MK IV;It's a thermal regulator with very advanced modifications. It has excellent suppression effects\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression + +[-]
+390;Thermal Regulator MK IV;It's a thermal regulator with very advanced modifications. It has excellent suppression effects.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression + +[-]
 391;Oxygen Filter;It's a basic oxygen filter. When placed in oxygen generation systems, it will generate oxygen.
 392;Oxygen Filter MK II;It's an oxygen filter with some modifications. It suppresses the spread of the infection.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression[-]
 393;Oxygen Filter MK III;It's an oxygen filter with some advanced modifications. It has improved suppression effects.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression +[-]
-394;Oxygen Filter MK IV;It's an oxygen filter with very advanced modifications. It has excellent suppression effects\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression + +[-]
+394;Oxygen Filter MK IV;It's an oxygen filter with very advanced modifications. It has excellent suppression effects.\n\n[ffff00]Effects:[-]\n[a3ff00]Infection Suppression + +[-]
 395;Broken Oxygen Filter;It's a broken oxygen filter. Something overloaded it, or someone sabotaged it. It's junk.\n\n[cc831c]Researching[-] this will allow you to create a functional filter.
 396;Broken Thermal Regulator;It's a broken thermal regulator. Something overloaded it, or someone sabotaged it. It's junk.\n\n[cc831c]Researching[-] this will allow you to create a functional regulator.
 397;System;Do not translate
@@ -488,8 +488,8 @@
 487;Confession Part 3;Log - Confession Part 3
 488;Confession Part 4;Log - Confession Part 4
 489;Purification;Log - Purification
-490;Keypass - Murray mansion lab;Murray mansion lab key card
-491;Keypass - Murray mansion gate;Murray mansion gate key card
-492;Oxygen purification filter;Oxygen generator purification fuse.
-493;Temp. regulator fuse purification;Temperature regulator fuse with purification effect.
-494;Purification data;Blueprint containing data that can be researched in order to produce oxygen and temperature purification parts.
+490;Keypass - Mansion Security Door;A keycard for the lab security doors in Murray's mansion.
+491;Keypass - Mansion Gate;A hefty keycard for the gate to Murray's mansion. 
+492;Purification Filter;It's an experimental "purification" oxygen filter.\n\n[ffff00]Effects:[-]\n[a3ff00]Purification[-]
+493;Purification Regulator;It's an experimental "purification" temperature regulator.\n\n[ffff00]Effects:[-]\n[a3ff00]Purification[-]
+494;Purification Data;A blueprint containing data for manufacturing "purification" oxygen filters and temperature regulators.

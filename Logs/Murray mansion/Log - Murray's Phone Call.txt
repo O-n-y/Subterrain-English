@@ -1,0 +1,55 @@
+//Transmission recorded: May 10th, 2051 at 13:47//
+
+[ccccff][i][ffffc0]Murray:[-]
+ Hello, Doctor West. I've heard a lot about you!
+
+[ffffc0]West:[-]
+ Hello, Mr. Murray. Thank you for the invitation.
+
+[ccccff][i][ffffc0]Murray:[-]
+ Not at all, kid! So, tell me about this research
+ you have proposed! You mentioned you have a way
+ to create nanomachines that can indefinitely
+ inhabit the body? What are you planning to do
+ with something like that?
+ 
+[ffffc0]West:[-]
+ Well, Mr. Murray--
+ 
+[ffffc0]Murray:[-]
+ Oh, no need for that, kid. Jim is fine.
+ 
+[ffffc0]West:[-]
+ Oh, sure! Well, Jim, my wife has a disease I
+ don't know how to fight without constant
+ maintenance. She has Alzheimer's.
+ 
+[ffffc0]Murray:[-]
+ Can't she just do ultrasound? I mean, I've done
+ it. Works wonders.
+ 
+[ffffc0]West:[-]
+ Unfortunately, she'd have to be in ultrasound
+ indefinitely. She needs constant maintenance.
+ Nanomachines could solve this in theory, but I
+ can't move past just proposing it. It'll take a lot
+ of money, a lot of test material, and everything
+ about it is controversial and illegal. I'm probably
+ already being monitored just talking about it
+ over the phone.
+ 
+[ffffc0]Murray:[-]
+ I understand entirely, Dr. West. We can continue
+ this conversation through a VPN link to my Earth
+ offices. Please, head over there tomorrow and
+ check in at reception. I think I can help you
+ and your wife.
+ 
+[ffffc0]West:[-]
+ Really? Thank you, Jim! I'll be over first thing
+ tomorrow!
+ 
+[ffffc0]Murray:[-]
+ Glad to hear it, kid. Don't keep me waiting!
+ 
+ //End of transmission//

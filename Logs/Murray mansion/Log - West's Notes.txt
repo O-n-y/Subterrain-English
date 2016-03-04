@@ -1,0 +1,17 @@
+...Huh? These are all of my notes... "West's Research" is on the front. Everything's in here, they even have the research proposal I sent Murray before he invited me. They highlighted a few things and wrote notes at the bottom.
+
+[i][ffffc0]//Research Proposal//[-][ccccff]
+Alzheimer's is caused by neurotoxic plaques that adhere to brain tissue. This is treatable with ultrasound, and even for patients at risk, getting an ultrasound once every month or so can manage the disease. Jennifer, however, is different. She needs to be constantly exposed to ultrasound in order to keep the disease at bay, which isn't possible. Overexposure to ultrasound can be just as harmful as Alzheimer's.
+
+Nanomachines are a non-invasive way to deal with the problem. They could directly manipulate plaques that have already formed and prevent new ones from starting constantly without interfering with the brain's functions. I plan to design them to [ffff00]reproduce autonomously[-] by harvesting carbon and copper from the bloodstream, ensuring that the effect would be [ffff00]permanent[-]. I am confident I can [ffff00]adapt these nanomachines[-] for other diseases and purposes once I'm finished treating Jennifer.[/i][-]
+
+[ff0000]Follow specifications.
+          -R[-]
+
+"Specifications?" Wait... I remember this. These were some of the last notes I wrote before I was thrown in prison.
+
+[i][ffffc0]//Results: Jan 4th, 2052//[-][ccccff]
+Something is wrong with the current code. The nanomachines are improperly handling instructions and erroneously mending tissue. Even worse: when there were no plaques to destroy, they tear into other tissue to make "busy work". It's time to go back to the drawing board. I'm going to extensively scale back the capabilities of the nanomachines, and remove the self-replicating aspect - it's much too dangerous, and it would be better to readminister the nanomachines after they wear out should something go wrong.[-]
+
+[ff0000]There's nothing of note in this one. Finish the project. If you can't, you'll end up as West's roommate.
+          -R[-]
