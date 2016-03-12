@@ -493,3 +493,6 @@
 492;Purification Filter;It's an experimental "purification" oxygen filter.\n\n[ffff00]Effects:[-]\n[a3ff00]Purification[-]
 493;Purification Regulator;It's an experimental "purification" temperature regulator.\n\n[ffff00]Effects:[-]\n[a3ff00]Purification[-]
 494;Purification Data;A blueprint containing data for manufacturing "purification" oxygen filters and temperature regulators.
+495;Murray's Phone Call;Log - Murray's Phone Call
+496;West's Notes;Log - West's Notes
+497;Group Call;Log - Group Call
