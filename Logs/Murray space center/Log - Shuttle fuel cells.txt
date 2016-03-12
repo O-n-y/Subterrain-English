@@ -1,10 +1,12 @@
 [ccccff][i]Martin...  
 
-Shit... I held out for as long as I could, little buddy. I'm not going to make it much longer, so you won't have to worry about me anymore. That's the good news for you, anyway. The bad news, though, is that you're going to be stuck here. Well, unless you can get your shit together. You might still have a chance then.
+Shit... I held out for as long as I could, little buddy. I tried to call you, but you must have turned it off again without knowing. 
+
+I'm not going to make it much longer, so you won't have to worry about me anymore. That's the good news for you, anyway. The bad news, though, is that you're going to be stuck here. Well, unless you can get your shit together. You might still have a chance then.
 
 If you can gather [ffff00]five fuel cells[-] and repair the [ffff00]navigation module[-], the shuttle will be ready to fly. Everything else was fixed or patched up using the parts in storage. I don't know where you can find more fuel, but I know they made it at [ffff00]Nilson Engineering's Bio Combiner[-] using materials harvested from the [ffff00]biosphere[-].
 
-I sent that dummy Morris to go deal with it, but that was days ago. Chances are he's still trying to figure out how to activate the [ffff00]biosphere's[-] production facilities, if he's not already dead. My bet is that he's dead. That boy... man, was he dumb. I guess I'll be seeing him soon.
+That dummy Morris still isn't back, either. Chances are he's still trying to figure out how to activate the [ffff00]biosphere's[-] production facilities. If he's not already dead, that is. My bet is that he's dead. That boy... man, was he dumb. I guess I'll be seeing him soon.
 
 I'm not even going to bother explaining what to do about the nav module, though. I don't even know what to do about that. Maybe those eggheads in [ffff00]Herbert[-] could have figured it out, if any of them were still around.
 

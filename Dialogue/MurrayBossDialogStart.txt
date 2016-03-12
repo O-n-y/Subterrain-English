@@ -1,0 +1,12 @@
+West;Albert West;...oh my god... I thought you'd be surprised to see me, but... 
+you... look like you've been running experiments of your own while I was away.
+Murray;Jeff Murray;At least you're addressing me properly. I've been waiting for you, Albert.
+West;Albert West;Waiting? For what? For someone to let you out of here?
+Murray;Jeff Murray;Hah, you were always clever, Albert, but I never knew how tenacious you were until now. I'm sure you've noticed my changes on the way to ascendance. 
+Murray;Jeff Murray;Be rational. If you could see things the way I do now, we wouldn't be enemies.
+Murray;Jeff Murray;You can be the first of my chaplains; my favored champion. I could expand your horizons. I could make you stronger, faster, grant you forbidden wisdom that could rip worlds asunder. 
+Murray;Jeff Murray;We could conquer it all, Albert. The galaxy would be cleft by our path.
+Murray;Jeff Murray;I'm passed the point of making generous offers to those beneath me, but you're the reason we've come this far. I'd never have this body were it not for you. I never would have met Jennifer.
+West;Albert West;So I've heard... what have you done with her? Is she still alive?
+Murray;Jeff Murray;She's the reason you're still alive, despite your trespass into my sanctum. 
+Murray;Jeff Murray;Quickly, Albert-- I have matters to attend to now that I'm free. Are you going to join us?
