@@ -620,15 +620,6 @@ notice_tap_confirm2 = There is a risk of contamination.\n\nAre you sure?
 notice_saveconsole_title = Console
 notice_saveconsole_confirm = Save game\n\nAre you sure?
 
-notice_purification_switch_title = Purification activation
-notice_purification_switch_confirm = Activate purification?\n\nWest will not be able to turn it off once it is activated!
-
-notice_murray_title = Murray's offer
-notice_murray_confirm = Accept Jeff Murray's offer?
-
-notice_Jennifer_title = Jennifer's offer
-notice_Jennifer_confirm = Accept Jennifer West's offer?
-
 gameover_title = Dr. West is dead!
 gameover_main = BACK TO MAIN MENU
 gameover_continue = CONTINUE SAVE GAME
@@ -774,11 +765,6 @@ speech_shuttle_no_fuel = There isn't enough fuel to take off.
 speech_shuttle_no_fuel_no_nav = There is no working navigation module installed.\nI also need to finish fueling the shuttle.
 speech_shuttle_no_nav = A working navigation module is not installed.
 
-speech_purification_notready = Purification activation not ready.
-speech_purification_alreadyactivated = Purification switch already activated.
-speech_purification_basementswitch_notready = Switch won't budge!
-speech_purification_basementswitch_alreadyopened = Gate already opened.
-
 speech_needbag = I need a bag to carry my stuff!
 speech_bag_smaller = It's a smaller bag.
 speech_bag_full = My bag is full!
@@ -883,48 +869,3 @@ speech_pisces_AgathaBaxter1 = ...Here lies Dr. Agatha Baxter...
 speech_pisces_AgathaBaxter2 = ...a dedicated mother of cats...
 speech_pisces_AgathaBaxter3 = ...the head of Herbert Research...
 speech_pisces_AgathaBaxter4 = ... and apparently a Murder Machine.
-
-speech_West_Maze1 = I'm getting closer!
-speech_West_Maze2 = I'm almost there!
-speech_West_MansionEntry = ...What is this place?
-speech_West_MansionEmpty = Looks like no one survived here, either.
-speech_West_MansionBodies = I recognize some of these people...
-speech_West_MansionPurifier = This machine's humming pretty loudly.
-speech_West_MansionDoor = Woah! This door is huge!
-
-speech_Murray_Boss1 = Impressive!
-speech_Murray_Boss2 = Do you regret leaving that cell now?!
-speech_Murray_Boss3 = Hahaha! Do you really think you can stop me?!
-speech_Murray_Boss4 = Give it up, Albert!
-speech_Murray_Boss5 = This is not wrath, Albert. This is benevolence.
-speech_Murray_Boss6 = You'll never see her again, Albert!
-speech_Murray_Boss7 = She loves me now, Albert! Just lay down and die!
-
-speech_Murray_Boss8 = Subpar, Albert. I expected better of you!
-speech_Murray_Boss9 = You'll regret your insolence!
-speech_Murray_Boss10 = Is this all you're capable of?!
-speech_Murray_Boss11 = This isn't over, Albert!
-speech_Murray_Boss12 = ...Jennifer... 
-speech_Murray_Boss13 = Agggghhhh!!!!
-
-speech_Jennifer_Boss1 = Albert, please, darling... it's not too late...
-speech_Jennifer_Boss1_West = ... Jennifer... I'm so-- no, focus!
-speech_Jennifer_Boss2 = You don't even realize what we can accomplish together!
-speech_Jennifer_Boss3 = Stop... SQUIRMING!
-speech_Jennifer_Boss4 = If only you agreed to join... what a waste!
-speech_Jennifer_Boss5 = I'll tear you in half!
-speech_Jennifer_Boss6 = Drop your weapon, Albert... we can still be together...
-speech_Jennifer_Boss6_West = ... I'll just put this do-- damn it, no! She's gone!
-
-speech_Jennifer_Boss7 = ...You were supposed to help me...
-speech_Jennifer_Boss7_West = ... I tried... I did everyth-- no! Get out of my head!
-speech_Jennifer_Boss8 = ...Honey, please... let's talk about this!
-speech_Jennifer_Boss8_West = ... Okay... n-no! No, you're not Jennifer!
-speech_Jennifer_Boss9 = Ow... Albert, please... it hurts...!
-speech_Jennifer_Boss9_West = ... I'm sorry... but I know it's not you!
-speech_Jennifer_Boss10 = You'd hit your own wife?
-speech_Jennifer_Boss10_West = You're not my wife!
-speech_Jennifer_Boss11 = Is this how you want Jennifer to remember you?
-speech_Jennifer_Boss12 = Impossible... 
-speech_Jennifer_Boss13 = I... I don't believe it...
-speech_Jennifer_Boss14 = Aggh!
