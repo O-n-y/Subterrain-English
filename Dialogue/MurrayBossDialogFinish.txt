@@ -1,2 +1,4 @@
-Murray;Jeff Murray;How could this happen...? *cough* W-what will you even... d-do...? You c-can't... survive here. You... fool...
-West;Albert West; I'll figure it out.
+Murray;Jeff Murray;How could this happen...? 
+Murray;Jeff Murray;*cough* W-what will you even... do...? 
+Murray;Jeff Murray;You c-can't... survive here. You... fool...
+West;Albert West;I'll figure it out.

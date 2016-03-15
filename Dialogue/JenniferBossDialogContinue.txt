@@ -1,5 +1,5 @@
-West;Albert West;... Jennifer...? What happened to you...?
-Jennifer;Jennifer West;You were gone, West. You've been reduced to distorted fragments in Jennifer's mind. 
+West;Albert West;Jennifer...? What happened to you...?
+Jennifer;Jennifer West;You were gone, West. You've been reduced to distorted slivers. Figments.
 Jennifer;Jennifer West;Moments of terror, despair. At some point I was collected, brought here.
 Jennifer;Jennifer West;I met Murray for the first time, wracked with pain, strapped to a gurney. They saved me, much to their surprise. They told me they had been continuing your work.
 Jennifer;Jennifer West;I gained back more than my life, though. They continued Minerva treatments, hoping to bring my memory back. 
@@ -10,7 +10,8 @@ West;Albert West;What?! You're some kind of telepathic... thing now?!
 Jennifer;Jennifer West;"Thing"... I'm not sure what to call me. Not yet, anyway. 
 Jennifer;Jennifer West;Jennifer's here, but she doesn't remember you... but you can have a second chance. Murray couldn't advance my condition any further. 
 Jennifer;Jennifer West;I knew he lacked the capacity to improve Minerva, even before I dove through his mind. You can, though.
-West;Albert West;How do I even know you are Jennifer?! You sound nothing like her!
+Jennifer;Jennifer West;You can be by Jennifer's side once again.
+West;Albert West;...You're not Jennifer.
 Jennifer;Jennifer West;...
-Jennifer;Jennifer West;Please... Albert... I've missed you for so long. 
+Jennifer;Jennifer West;Please... Albert... I've missed you for so long. Look what's become of me.
 Jennifer;Jennifer West;Please join me... I don't want to be alone anymore. I've been scared for so long... I just... I just need you by my side.

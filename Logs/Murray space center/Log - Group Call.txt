@@ -55,9 +55,8 @@
   
 [ffffc0]Captain Roger:[-]
   ... I'll just do it later. Martin, scrounge
-  up whatever you can around the space center,
-  then head back here after you've done that.
-  Morris, come back to the shuttle. I have
+  up whatever you can around the space center.
+  Morris, you come back to shuttle two. I have
   a job for you.
   
 [ffffc0]Morris:[-]

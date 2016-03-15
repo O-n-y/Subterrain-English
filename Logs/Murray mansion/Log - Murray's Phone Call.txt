@@ -17,10 +17,10 @@
  Well, Mr. Murray--
  
 [ffffc0]Murray:[-]
- Oh, no need for that, kid. Jeff is fine.
+ Oh, no need for that, kid. Jim is fine.
  
 [ffffc0]West:[-]
- Oh, sure! Well, Jeff, my wife has a disease I
+ Oh, sure! Well, Jim, my wife has a disease I
  don't know how to fight without constant
  maintenance. She has Alzheimer's.
  
@@ -46,7 +46,7 @@
  and your wife.
  
 [ffffc0]West:[-]
- Really? Thank you, Jeff! I'll be over first thing
+ Really? Thank you, Jim! I'll be over first thing
  tomorrow!
  
 [ffffc0]Murray:[-]
