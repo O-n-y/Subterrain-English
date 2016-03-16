@@ -626,8 +626,8 @@ notice_purification_switch_confirm = Activate purification?\n\nWest will not be 
 notice_murray_title = Murray's offer
 notice_murray_confirm = Accept Jeff Murray's offer?
 
-notice_Jennifer_title = Jennifer's offer
-notice_Jennifer_confirm = Accept Jennifer West's offer?
+notice_jennifer_title = Jennifer's offer
+notice_jennifer_confirm = Accept Jennifer West's offer?
 
 gameover_title = Dr. West is dead!
 gameover_main = BACK TO MAIN MENU
@@ -898,6 +898,9 @@ speech_Murray_boss10 = Is this all you're capable of?!
 speech_Murray_boss11 = This isn't over, Albert!
 speech_Murray_boss12 = ...Jennifer... 
 speech_Murray_boss13 = Agggghhhh!!!!
+
+speech_West_Maze1 = I'm getting closer!
+speech_West_Maze2 = I'm almost there!
 
 speech_Jennifer_boss1 = Albert, please, darling... it's not too late...
 speech_Jennifer_boss1_West = ... Jennifer... I'm so-- no, focus!
