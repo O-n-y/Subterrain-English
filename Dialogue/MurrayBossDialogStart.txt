@@ -1,7 +1,7 @@
 West;Albert West;...oh my god... I thought you'd be surprised to see me, but... you... look like you've been running experiments of your own while I was away.
 Murray;Jeff Murray;At least you're addressing me properly. I've been waiting for you, Albert.
 West;Albert West;Waiting? For what? For someone to let you out of here?
-Murray;Jeff Murray;Hmph. You were always clever, Albert, but I never knew how tenacious you were until now. You've partaken an extensive genocide all on your own. It's admirable, really, and something I should harness.
+Murray;Jeff Murray;Hmph. You were always clever, Albert, but I never knew how tenacious you were until now. You've partaken in an extensive genocide all on your own. It's admirable, really, and something I should harness.
 Murray;Jeff Murray;You can be the first of my chaplains. A favored champion. I could expand your horizons. I could make you stronger, faster, grant you a forbidden power that could rip worlds asunder. 
 Murray;Jeff Murray;We could conquer it all, Albert. The galaxy would be cleft by our path.
 West;Albert West;...

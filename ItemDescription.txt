@@ -1,4 +1,4 @@
-﻿0;Empty Item;Empty item
+0;Empty Item;Empty item
 1;Backpack M;A medium Mars Security backpack worn by guards.Not too big, not too small!\n\n[ffff00]Max Slots:[-] [ffffff]56[-]\n[ffff00]Max Weight:[-] [ffffff]27[-] kg
 2;Backpack L;A large Mars Security backpack worn by guards. There's a ton of room in it!\n\n[ffff00]Max Slots:[-] [ffffff]68[-]\n[ffff00]Max Weight:[-] [ffffff]35[-] kg
 3;Apolonite Ore;One of the rarest materials on Mars. Apolonite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Casandrium[-] when refined.
@@ -495,5 +495,6 @@
 494;Purification Data;A blueprint containing data for manufacturing "purification" oxygen filters and temperature regulators.
 495;Murray's Phone Call;Log - Murray's Phone Call
 496;West's Notes;Log - West's Notes
-497;Group Call;Log - Group Call
-498;What is This Place?;Log - What is This Place?
+497;What is This Place?;Log - What is This Place?
+498;Group Call;Log - Group Call
+499;Space suit data;Blueprint containing data that can be researched in order to produce space suit.

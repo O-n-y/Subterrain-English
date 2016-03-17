@@ -902,6 +902,12 @@ speech_Murray_boss13 = Agggghhhh!!!!
 speech_West_Maze1 = I'm getting closer!
 speech_West_Maze2 = I'm almost there!
 
+speech_West_MansionEntry = ...What is this place?
+speech_West_MansionEmpty = Looks like no one survived here, either.
+speech_West_MansionBodies = I recognize some of these people...
+speech_West_MansionPurifier = This machine's humming pretty loudly.
+speech_West_MansionDoor = Woah! This door is huge!
+
 speech_Jennifer_boss1 = Albert, please, darling... it's not too late...
 speech_Jennifer_boss1_West = ... Jennifer... I'm so-- no, focus!
 speech_Jennifer_boss2 = You don't even realize what we can accomplish together!
