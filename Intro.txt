@@ -2,7 +2,7 @@
 The fourth planet in the Solar System: Mars.
 Humanity's first colony on Mars: MPO.
 MPO is a new hope for thousands of people seeking a fresh start.
-I didn't get one, though. For over 15 months, I have been confined in MPO's prison. Block B05, cell six.
+I didn't get one, though. For over 15 months, I've been confined in MPO's prison. Block B05, cell six.
 My name is... well, was "Doctor" Albert West. It's just "West" now, at least to the guards.
 A lab accident granted me a new title: murderer. I was thrown in here right after.
 That's all in the past...
@@ -11,12 +11,12 @@ My rations have run out. The guards are missing. Emergency power is still on.
 I've been stuck in here for a week. I still can't figure out what happened.
 When this began, my cell was never opened for the day's morning headcount.
 After several hours, my tray slot opened up.
-It was the guard. Hank.
+It was the guard, Hank.
 His eyes were... strange... I could tell something horrible was going on.
 "There will be a transfer today. Be ready at 17:00 hours, and take this. Heh. It'll be your only meal today."
 I heard shuffling and whispering through the slot. I couldn't make out what they were saying.
-My tray slot abruptly closed without another word.
-A prisoner transfer? Why? And what was going on with Hank's eyes? For a brief moment, I had forgotten I was hungry at all. 
+My tray slot closed abruptly, without another word.
+A prisoner transfer? And what was going on with Hank's eyes? For a brief moment, I had forgotten I was hungry at all. 
 A siren went off.
 "Attention: all prisoners! Cells will be opened one at a time. Follow the guards and obey their instructions."
 "Prisoners that fail to comply will be executed on the spot!"
@@ -30,7 +30,7 @@ I heard the unmistakable rumble of cell doors opening through the walls.
 Next was my cell. I was ready to get out of here.
 "Cell six."
 Suddenly: darkness.
-The door stopped. It was completely silent.
+It was completely silent.
 I peeked through the gap in the door, but the hall was empty. The guards were gone.
 Emergency power finally kicked in. The air duct's fan started spinning again, but the door didn't budge! I was stuck!
 I've tried yelling, pounding, clanking my can... no one's coming.
