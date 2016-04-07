@@ -20,7 +20,7 @@
 19;Blood Sample C;Low grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
 20;Side Bag;A small Mars Security satchel. It doesn't hold much, it looks nice! Now all I'm missing is a man bun!\n\n[ffff00]Max Slots:[-] [ffffff]48[-]\n[ffff00]Max Weight:[-] [ffffff]22[-] kg
 21;Beer Can;A can of "Mars" brand beer. It still seems to be [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] THIRST[-]
-22;Energy Drink;A great tasting energy drink called "Thunder Muscle". It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]60%[-] THIRST[-]
+22;Energy Drink;A great tasting energy drink called "Thunder Muscle". It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] THIRST[-]
 23;Purified Water;A bottle of pure drinking water. It's [ffff00]seal[-] is still intact.\n\n[a3ff00]- [ffffff]70%[-] THIRST[-]
 24;Soft Drink;A fizzy drink with a bunch of slogans on it. It still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]30%[-] THIRST[-]
 25;Vita D;A [ffff00]sealed[-] healthy drink. Well, it's sort of "healthy"!\n\n[a3ff00]- [ffffff]50%[-] THIRST[-]
@@ -413,7 +413,7 @@
 412;Nilson Engineering;Log - Nilson Engineering.
 413;Space Shuttle Fuel;A container of fuel formulated for space travel. I'll probably need a few of these for the [ffff00]shuttle[-].
 414;Shuttle Navigation Module;A functioning navigation module for the [ffff00]shuttle[-].\nIt's programmed to head straight to Mars Orbital Station.
-415;Broken Navigation Module;A broken navigation module from shuttle two. If I can [cc831c]analyze[-] this, maybe I can reproduce it. It requires level [ffffff]3[-] research software.
+415;Broken Navigation Module;A broken navigation module from shuttle two. If I can [cc831c]analyze[-] this, maybe I can reproduce it. It requires level [ffffff]4[-] research software.
 416;Shuttle Fuel Data Chip;This data chip has information regarding fuel for space travel. If [cc831c]researched[-], I can produce fuel for the [ffff00]shuttle[-].
 417;Playing Cards;A set of playing cards. Too bad there is no one to play with!
 418;Dice;Pair of dice.
@@ -498,6 +498,3 @@
 497;What is This Place?;Log - What is This Place?
 498;Group Call;Log - Group Call
 499;Space suit data;Blueprint containing data that can be researched in order to produce space suit.
-500;Jennifer_Attack_Normal;(System weapon for Jennifer, Do not translate)
-501;Jennifer_Attack_Spread;(System weapon for Jennifer, Do not translate)
-502;Jennifer_Attack_Spread;(System weapon for Jennifer, Do not translate)
