@@ -774,10 +774,10 @@ speech_shuttle_no_fuel = There isn't enough fuel to take off.
 speech_shuttle_no_fuel_no_nav = There is no working navigation module installed.\nI also need to finish fueling the shuttle.
 speech_shuttle_no_nav = A working navigation module is not installed.
 
-speech_purification_notready = Purification activation not ready.
-speech_purification_alreadyactivated = Purification switch already activated.
-speech_purification_basementswitch_notready = Switch won't budge!
-speech_purification_basementswitch_alreadyopened = Gate already opened.
+speech_purification_notready = Hmm, it's not activating.\n...What am I missing?
+speech_purification_alreadyactivated = It's already activated.\nMPO is purified!
+speech_purification_basementswitch_notready = Huh... this switch won't work.
+speech_purification_basementswitch_alreadyopened = It's already open.\nIt's time to head in.
 
 speech_needbag = I need a bag to carry my stuff!
 speech_bag_smaller = It's a smaller bag.
