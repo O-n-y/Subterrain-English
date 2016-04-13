@@ -339,9 +339,9 @@
 338;Power Pack XL;An extra large portable energy pack. You could power an apartment with this thing!\n\n[ffff00]Capacity:[-] [ffffff]2250[-]\n[ffff00]Shield Power:[-] [ffffff]75%[-]
 339;Oxygen Canister XL;An extremely lightweight, yet large, oxygen canister. It boasts a very high capacity.\n\n[ffff00]Capacity:[-] [ffffff]120[-] units
 340;Reactor Module MK I;A reactor module for the inertia reactor. This one isn't very advanced, but it's based on nanotechnology.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]800[-]
-341;Reactor Module MK II;A reactor module for the inertia reactor. This module is slightly more advanced and might fare better in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]1200[-]
-342;Reactor Module MK III;A reactor module for the inertia reactor. It's pretty advanced. It might last longer in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]1500[-]
-343;Reactor Module MK IV;A reactor module for the inertia reactor. It's exceptionally advanced. It should last a very long time, even though the reactor's damaged.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]2000[-]
+341;Reactor Module MK II;A reactor module for the inertia reactor. This module is slightly more advanced and might fare better in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]1600[-]
+342;Reactor Module MK III;A reactor module for the inertia reactor. It's pretty advanced. It might last longer in the damaged reactor.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]2400[-]
+343;Reactor Module MK IV;A reactor module for the inertia reactor. It's exceptionally advanced. It should last a very long time, even though the reactor's damaged.\n\nCan be [ffff00]repaired[-] at the Nano Reconstruction Bay.\n\n[ffff00]Max Durability[-]: [ffffff]3300[-]
 344;Level 1 Engineering Software;Basic software for engineering facilities.
 345;Level 2 Engineering Software;Level [ffffff]2[-] software for engineering facilities.
 346;Level 3 Engineering Software;Level [ffffff]3[-] software for engineering facilities.

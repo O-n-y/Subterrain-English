@@ -60,6 +60,7 @@ setting_French = French
 setting_Spanish = Spanish
 setting_Italian = Italian
 setting_Swedish = Swedish
+setting_Greek = Greek
 setting_Chinese = Chinese
 setting_Japanese = Japanese
 setting_Other = Other
