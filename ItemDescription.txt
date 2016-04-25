@@ -497,7 +497,11 @@
 496;West's Notes;Log - West's Notes
 497;What is This Place?;Log - What is This Place?
 498;Group Call;Log - Group Call
-499;Space suit data;Blueprint containing data that can be researched in order to produce space suit.
+499;Space Suit Plans;A blueprint containing data for an "intra/extravehicular activity" space suit.
 500;Jennifer_Attack_Normal;(System weapon for Jennifer, Do not translate)
 501;Jennifer_Attack_Spread;(System weapon for Jennifer, Do not translate)
 502;Jennifer_Attack_Spread;(System weapon for Jennifer, Do not translate)
+503;Method of Purification;Log - Method of Purification
+504;The Plan;Log - The Plan
+505;The Gate;Log - The Gate
+506;The Trap;Log - The Trap

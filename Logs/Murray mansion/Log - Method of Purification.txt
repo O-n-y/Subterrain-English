@@ -1,0 +1,17 @@
+A loose pile of notes is sitting on the face of the console.
+
+[ccccff][ffffc0]April 17th:[-]
+One of the last things Dr. Cameron warned me about was to [ffff00]not pull the switch until we were ready[-]. Once activated, the purification system is supposed to activate a bunch of receivers and transmitters around MPO. This should collect the data we need to develop our countermeasure, but this process effectively functions as a signal booster. Cameron's very sure that this would [ffff00]speed up the spread of the Minerva throughout the colony[-]. I can't even take a look at one of those things, and the thought of creating many hundreds more at the flick of a switch terrifies me.
+
+It doesn't end there. I have to get these new [ffff00]oxygen filters and thermal regulators into the oxygen and thermal generators in contaminated districts[-]. The current communication systems we've hooked up to collect data wouldn't be able to transmit the signal everywhere, so our solution is to hook up these special filters and regulators life support systems, using the connected piping and ventilation as antennae.
+
+A few districts are unpowered at the moment. It looks like the reactor is losing power, which is concerning. That'll be an issue if I'm going to [ffff00]keep these these transmitters powered at the same time[-]. It would probably take around [ffff00]a day[-] of [ffff00]simultaneous operation[-] to allow the upload to complete to all the filters and regulators.
+
+Oh god... I thought I heard something. I hope none of them are waiting outside. I need to collect supplies if I'm going to do this. I'll need to head back up to the lab.
+
+[ffffc0]April 18th:[-]
+I couldn't make it out past the lab area. I'm sure they're all over the mansion by now. The most I could do was lock the doors. I'm also out of decontamination pills, and there's no way I can make it down the hall without getting torn into. I can't become one of them. I keep praying that a rescue will show up, and I know throwing that switch would make rescue even more unlikely. I don't know what to do.
+
+The reactor is still losing power, but I noticed something even more strange: [ffff00]central control is still uncontaminated[-], at least according to the software update I asked Dr. Kan to install. It's probably an error, but if it were truly uncontaminated, that means it [ffff00]wouldn't need[-] a set of prototypes. You can't purify what isn't there. I'm not sure why I'm thinking about this. I'm not going to live long to figure it out.
+
+A bunch of sectors lost power due to the reactor's condition. Even if I could get out of here, I'd have to repair the reactor before I could keep all the oxygen and thermal reactors powered while [ffff00]data is uploaded[-]. I have no idea how to repair it, though. This plan may be dead in the water.[-]

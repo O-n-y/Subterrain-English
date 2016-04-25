@@ -1,12 +1,10 @@
-There is a pile of notes here:
-
-[i][ccccff][ffffc0]April 2nd:[-]
-Murray's been tuning Minerva to colder climates and environments with little to no oxygen. He says it's to cut down on oxidation damage and overclock the nanomachines without risk, but I don't understand why. Minerva's for living things, after all, and I sure as hell like breathing and being warm.
+[ccccff][ffffc0]April 2nd:[-]
+Murray's been tuning Minerva to colder climates and environments with little to no oxygen. He says it's to cut down on oxidation damage and overclock the nanomachines without risk, but I don't understand why. Minerva's for living things, after all, and I sure as hell like breathing and being warm. He won't even let any of us touch the AI software anymore. The rest of us on the "Minerva" team are stuck with test sample reports with the occasional request to support the other research teams. My team knows what Minerva can do, and that thought he's changing it behind closed doors makes us uncomfortable. One day Minerva be too difficult to contain.
 
 [ffffc0]April 8th:[-]
-By modifying the life support systems around the city, "leaks" can be kept at bay indefinitely. The life support prototypes will utilized their connected systems and piping as antennae. When installed, these regulators and filters will broadcast interfering signals to partially disrupt the nanomachines, dampening Minerva's spread.
+We've been working to "battle" Minerva during off duty hours, or in between our tasks during the day. We discovered that if we broadcast interfering signals on the same frequencies that the nanomachines communicate with, we can dampen Minerva's rate of spread and evolution. It won't stop it, but it's something. 
 
-[ffffc0]April 17th:[-]
-I guess it's up to me now. The only way [ffff00]purification[-] will occur is if they are stopped at the source. I have to get these into [ffff00]every oxygen and temperature generator[-] around MPO in order to collected enough data before the AI can formulate a killswitch. I managed to get the new prototypes to talk to the new Minerva samples Murray released, but it looks like it also will [ff0000]accelerate the spread[-] of the infection - it'll act like a network booster for the time these are communicating.[-][/i]
+We've poked around the systems in the basement, and Dr. Cameron thinks we can modify the noisy mainframe there to monitor the situation with some modifications. He thinks, in time, we can use the mainframe to collect communication data in order to sabotage their replication and cause self-destruction.
 
-I think if I manage to get these oxygen filters and temperature regulators in every district of MPO, I could figure out what he was trying to do.
+[ffffc0]April 16th:[-]
+I guess it's up to me now. The only way [ffff00]purification[-] will occur is if I can manage to pull this together. I'm not so sure I can.[-]

@@ -1,0 +1,31 @@
+Woah... It's the size of an airlock! There's a few sticky notes near what I'm guessing are the controls. The first note is near a throw switch. The writing is sort of sloppy and smeared, but it's legible.
+
+[i][ccccff]the gate won't get power unless
+the power console at central reports all
+contaminated and minerva samples[-][/i]
+
+The second note was near the first, near the "OFF" light. The writing is more sloppy.
+
+[i][ccccff]begin data collection via terminal and 
+use equipment in Nilson to produce prototypes
+install in all auxiliary locations
+that have contamination[-][/i]
+
+Another note was stuck to the lower half of the previous one.
+
+[i][ccccff]ensure constant power to
+prototypes to allow upload to RAID 0 storage
+once finished, prototype transmitters
+will activate and transmit
+it will take time for this[-][/i]
+
+The last note is barely clinging, hanging on the right side of the console. There's some raised indentations on the note.
+
+[i][ccccff]they can control the others
+they can't get out with these roaming around
+it would end everything[-][/i]
+
+There was some writing on the back.
+
+[i][ccccff]please tell serafina and longin rascowicz
+that murdoch says he's sorry[-][/i]

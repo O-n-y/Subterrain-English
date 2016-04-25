@@ -508,6 +508,7 @@ slot_oxygen_generator = Oxygen Filter
 slot_temperature_regulator = Temperature Regulator
 slot_generator_reactor = Generator Module
 slot_generator_turret = Security Turret
+slot_purification_data = Purification data
 
 jobqueue_required_software = Software Required
 jobqueue_no_more_queue = No space in queue
