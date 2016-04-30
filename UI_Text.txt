@@ -98,6 +98,7 @@ setting_keyboard_weaponswapdown = WEAPON SWAP DOWN
 leaderboard_type = Leaderboard type
 leaderboard_type_longest_survival_time = Longest survival time
 leaderboard_type_shortest_escape_time = Shortest escape time
+leaderboard_type_shortest_purification_time = Shortest purification time
 leaderboard_find_top50 = Top 50
 leaderboard_find_myrank = Near my rank
 
