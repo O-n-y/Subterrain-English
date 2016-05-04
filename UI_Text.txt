@@ -478,11 +478,11 @@ split_split = Split
 split_close = Close
 
 storage_tube_title = Tram Storage
-storage_craft_title = Production Output Storage
+storage_craft_title = Production Output
 storage_combine_title = Bio Storage
 storage_farm_title = Incubator Storage
 storage_mine_title = Extract Storage
-storage_material_title = Production Material storage
+storage_material_title = Material Storage
 storage_capacity = Capacity
 storage_weight = Weight
 storage_get_item = Take all items

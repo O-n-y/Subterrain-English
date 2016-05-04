@@ -20,7 +20,7 @@
 19;Blood Sample C;Low grade blood sample.\n\nYields [ccccff]Blood Extract[-] when recycled.
 20;Side Bag;A small Mars Security satchel. It doesn't hold much, it looks nice! Now all I'm missing is a man bun!\n\n[ffff00]Max Slots:[-] [ffffff]48[-]\n[ffff00]Max Weight:[-] [ffffff]22[-] kg
 21;Beer Can;A can of "Mars" brand beer. It still seems to be [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]40%[-] THIRST[-]
-22;Energy Drink;A great tasting energy drink called "Thunder Muscle". It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]60%[-] THIRST[-]
+22;Energy Drink;A great tasting energy drink called "Thunder Muscle", which states "It's got electrolytes!" on the side. It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]60%[-] THIRST[-]
 23;Purified Water;A bottle of pure drinking water. It's [ffff00]seal[-] is still intact.\n\n[a3ff00]- [ffffff]70%[-] THIRST[-]
 24;Soft Drink;A fizzy drink with a bunch of slogans on it. It still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]30%[-] THIRST[-]
 25;Vita D;A [ffff00]sealed[-] healthy drink. Well, it's sort of "healthy"!\n\n[a3ff00]- [ffffff]50%[-] THIRST[-]
@@ -38,7 +38,7 @@
 37;Pineapple;Slices of pineapple in simple syrup. It's still [ffff00]sealed[-].\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
 38;Roast Beef;I'm not sure if much of this was ever "beef". It's [ffff00]sealed[-] and safe from contamination, so it's got that going for it.\n\n[a3ff00]- [ffffff]70%[-] HUNGER[-]
 39;Rotten Food Scrap;Rotten, highly [ff0000]contaminated[-] leftover food scraps. I shouldn't eat this!
-40;Salmon;King Bloscar's finest from Earth! It's still [ffff00]sealed[-], and is very filling!\n\n[a3ff00]- [ffffff]80%[-] HUNGER[-]
+40;Salmon;King Bloscar's finest from Earth! It's still [ffff00]sealed[-], and is very filling!\n\n[a3ff00]- [ffffff]60%[-] HUNGER[-]
 41;Snack;A sealed bag of chips, but it could be [ff0000]contaminated[-].\n\n[a3ff00]- [ffffff]30%[-] HUNGER[-]
 42;Spaghetti;A can of "Pastafarian" brand spaghetti. There is some sort of crazy pasta monster on the front of the can! It's [ffff00]seal[-] is still intact, so it's safe from contamination.\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
 43;Tomato;A tomato grown on Mars. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Lycopene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
@@ -62,7 +62,7 @@
 61;Dumbbell;I don't even lift.
 62;Large Towel;Rather large towel. How big was this guy?!
 63;Fitness Tracker;Device that can track various exercise stats. It doesn't track kills, though!
-64;Frame;Digital photo frame. It loads images from a server. This one is full of cat photos.
+64;Frame;Digital photo frame. It loads images from a server onto local memory. This one is full of cat photos.
 65;Hand Grip;I get enough hand exercise.
 66;Touch Tablet;Digital tablet that can be used with a stylus or finger. There's nothing of interest on it.
 67;Watch;A classic looking watch. Nothing fancy, though.
@@ -182,7 +182,7 @@
 181;Thermos;A container for keeping liquids hot or cold, but I'll drink anything at any temperature.
 182;Tie;I'd wear this, but it would just be a choking hazard.
 183;Foundation;A cosmetic paste for evening skin tone. I look so pretty!
-184;Toothpaste;It doesn't taste very good.
+184;Toothpaste;It doesn't taste very good. There's a huge warning on the back of the tube: "DO NOT INGEST"
 185;Electronic Toothbrush;This thing's pretty noisy! I'd probably attract mutants if I used it!
 186;Torn Doll;This thing is super creepy!
 187;Torn Pillow;Feathers are spilling out of it.
@@ -416,10 +416,10 @@
 415;Broken Navigation Module;A broken navigation module from shuttle two. If I can [cc831c]analyze[-] this, maybe I can reproduce it. It requires level [ffffff]3[-] research software.
 416;Shuttle Fuel Data Chip;This data chip has information regarding fuel for space travel. If [cc831c]researched[-], I can produce fuel for the [ffff00]shuttle[-].
 417;Playing Cards;A set of playing cards. Too bad there is no one to play with!
-418;Dice;Pair of dice.
-419;Digital Name Tag;An electronic name tag that can be programmed to display a name. This one says "Mary".
+418;Dice;A pair of dice. Roll to save!
+419;Digital Name Tag;An electronic name tag that can be programmed to display a name. This one, like the others, says "Mary" for some reason.
 420;Casino Chips;Fancy chips used in the casino. They are made out of a rather high quality material.
-421;Slot Machine Tokens;Token used in the slot machines. They are made out of a rather high quality material.
+421;Slot Machine Tokens;Tokens used in the slot machines at the casino. They are made out of a rather high quality material.
 422;System;Do not translate
 423;System;Do not translate
 424;System;Do not translate
@@ -475,8 +475,8 @@
 474;Xenotime Bracelet;Jewelry made with Xenotime ore.\n\nRecycling this may produce a [ccccff]Xenotime Gem[-].
 475;Cave Crystal;Rare crystal found in Mars caves. Very popular souvenir for the tourists. Some people on Earth believe it to have a mythical healing power and is revered by some cults. This one seems to be a [ffff00]genuine[-].
 476;Cave Crystal;Rare crystal found in Mars caves. Very popular souvenir for the tourists. Some people on Earth believe it to have a mythical healing power and is revered by some cults. However, this one seems to be a [ff0000]cheap fake[-].
-477;Keycard - Engineering Sub-Door; A keycard for the shortcut leading from Research center to Engineering.
-478;Keycard - Research Sub-Door;A keycard for the shortcut leading from Engineering to Research center.
+477;Keycard - Engineering Sub-Door; A keycard for the shortcut leading from the Herbert Research Center to Nilson Engineering.
+478;Keycard - Research Sub-Door;A keycard for the shortcut leading from Nilson Engineering to Herbert Research Center.
 479;Shotgun Flux GX3;Core part for a shotgun.
 480;SpittingWalkerAttack1;(System weapon for BitingWalkers)
 481;VomWalkerAttack1;(System weapon for BitingWalkers)
