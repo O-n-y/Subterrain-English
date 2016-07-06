@@ -5,12 +5,12 @@ One of the last things Dr. Cameron warned me about was to [ffff00]not pull the s
 
 It doesn't end there. I have to get these new [ffff00]oxygen filters and thermal regulators into the oxygen and thermal generators in contaminated districts[-]. The current communication systems we've hooked up to collect data wouldn't be able to transmit the signal everywhere, so our solution is to hook up these special filters and regulators life support systems, using the connected piping and ventilation as antennae.
 
-A few districts are unpowered at the moment. It looks like the reactor is losing power, which is concerning. That'll be an issue if I'm going to [ffff00]keep these these transmitters powered at the same time[-]. It would probably take around [ffff00]a day[-] of [ffff00]simultaneous operation[-] to allow the upload to complete to all the filters and regulators.
+A few districts are unpowered at the moment. It looks like the reactor is losing power, which is concerning. That'll be an issue if I'm going to [ffff00]keep these transmitters powered at the same time[-]. It would probably take around [ffff00]a day[-] of [ffff00]simultaneous operation[-] to allow a complete upload to all the filters and regulators.
 
-Oh god... I thought I heard something. I hope none of them are waiting outside. I need to collect supplies if I'm going to do this. I'll need to head back up to the lab.
+Oh God... I thought I heard something. I hope none of them are waiting outside. I need to collect supplies if I'm going to do this. I'll need to head back up to the lab.
 
 [ffffc0]April 18th:[-]
-I couldn't make it out past the lab area. I'm sure they're all over the mansion by now. The most I could do was lock the doors. I'm also out of decontamination pills, and there's no way I can make it down the hall without getting torn into. I can't become one of them. I keep praying that a rescue will show up, and I know throwing that switch would make rescue even more unlikely. I don't know what to do.
+I couldn't make it out past the lab area. I'm sure they're all over the mansion by now. The most I could do was lock the doors. I'm also out of decontamination pills, and there's no way I can make it down the hall without getting torn into pieces. I can't become one of them. I keep praying that a rescue will show up, and I know throwing that switch would make rescue even more unlikely. I don't know what to do.
 
 The reactor is still losing power, but I noticed something even more strange: [ffff00]central control is still uncontaminated[-], at least according to the software update I asked Dr. Kan to install. It's probably an error, but if it were truly uncontaminated, that means it [ffff00]wouldn't need[-] a set of prototypes. You can't purify what isn't there. I'm not sure why I'm thinking about this. I'm not going to live long to figure it out.
 

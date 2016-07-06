@@ -38,7 +38,7 @@
 
 <20> Customize and upgrade ranged weapons by assembling them with different barrel and heatsink parts. Each core part of the ranged weapon has limited pin link capacity and durability. All three parts are upgradable through research. Some parts have special attributes, like laser sights or silencers. Weapons can be repaired by placing them in the Nano Reconstruction Bay.
 
-<21> Interact with a tram door to travel to other locations. The location West is traveling to must be powered by first using the power control console in Central Control. Riding the tram will take in-game time, but West will recover a little fatigue during this. When aboard, West will not consume oxygen and thermal energy from his cansiters.
+<21> Interact with a tram door to travel to other locations. The location West is traveling to must be powered by first using the power control console in Central Control. Riding the tram will take in-game time, but West will recover a little fatigue during this. When aboard, West will not consume oxygen and thermal energy from his canisters.
 
 <22> The power control console can be used to connect and disconnect the power from Central Control to the other locations on Mars. The generator has limited output capacity that can be expanded with upgrades. The generator will overheat if West uses more power than it can produce. When it begins to overheat a countdown will appear. Once the countdown finishes, the generator will shut down, causing a colony-wide blackout. Trams won't run without power, so don't get stuck!
 

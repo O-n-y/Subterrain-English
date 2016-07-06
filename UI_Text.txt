@@ -15,6 +15,11 @@ mainmenu_exit_instruction = Exit the game
 releasenote_title = Release notes:
 releasenote_closeinstruction = Press any key/button to close
 
+console_start_controller = Press to start
+console_start_keyboard = [ff0000]Press[-] ANYKEY
+console_change_profile = Change profile
+console_controller_disconnect = Controller has been disconnected.\n\n Please reconnect a controller to continue.
+
 demo_speech_unable = I can't use the tram!\nI need to buy the game!
 demo_notice_title = Demo Notice
 demo_notice_content = Thank you for playing the Subterrain demo.\n\nPlease support us by purchasing the full game on Steam !\n\nThank you very much!
@@ -45,6 +50,7 @@ setting_light = Light Quality
 setting_input_play = Input & Play
 setting_use_controller = Enable Controller
 setting_autotarget = Aim Assist Angle
+setting_uiScale = UI Scale
 setting_user_guide = Tutorial
 setting_auto_save = Autosave
 setting_language = Language
@@ -181,7 +187,7 @@ userguide_key_farm = ( E )
 userguide_key_repair = ( E )
 userguide_key_upgrade = ( E )
 
-beacon_title = BEACON NOTE EDITOR
+beacon_title = BEACON
 beacon_colorselection = COLOR SELECTION
 beacon_white = WHITE
 beacon_red = RED
@@ -778,7 +784,7 @@ speech_shuttle_no_fuel_no_nav = There is no working navigation module installed.
 speech_shuttle_no_nav = A working navigation module is not installed.
 
 speech_purification_notready = Hmm, it's not activating.\n...What am I missing?
-speech_purification_alreadyactivated = It's already activated.\nMPO is purified!
+speech_purification_alreadyactivated = It's already activated.
 speech_purification_basementswitch_notready = Huh... this switch won't work.
 speech_purification_basementswitch_alreadyopened = It's already open.\nIt's time to head in.
 
@@ -852,7 +858,7 @@ speech_tube2 = Looks like I lucked out.
 speech_tube3 = I need to get the hell out of here.
 speech_tube4 = I'm not sure where I should go, though...
 speech_hallway_toxicated_radiation = Woah! Are those waste barrels?!\nI should stay away from those!
-speech_check_oxygen_supply = I equip oxygen and thermal canisters, and make\nsure they are charged before heading down. 
+speech_check_oxygen_supply = I should equip oxygen and thermal canisters, and make\nsure they are charged before heading down. 
 speech_there_is_no_one_here = ...Not a soul around.
 speech_power_control_console = This looks like the power control console.
 speech_foundlog = There's a device on the ground.\nI should check it out.

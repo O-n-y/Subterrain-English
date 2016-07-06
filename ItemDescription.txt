@@ -1,4 +1,4 @@
-0;Empty Item;Empty item
+﻿0;Empty Item;Empty item
 1;Backpack M;A medium Mars Security backpack worn by guards.Not too big, not too small!\n\n[ffff00]Max Slots:[-] [ffffff]56[-]\n[ffff00]Max Weight:[-] [ffffff]27[-] kg
 2;Backpack L;A large Mars Security backpack worn by guards. There's a ton of room in it!\n\n[ffff00]Max Slots:[-] [ffffff]68[-]\n[ffff00]Max Weight:[-] [ffffff]35[-] kg
 3;Apolonite Ore;One of the rarest materials on Mars. Apolonite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Casandrium[-] when refined.
@@ -40,7 +40,7 @@
 39;Rotten Food Scrap;Rotten, highly [ff0000]contaminated[-] leftover food scraps. I shouldn't eat this!
 40;Salmon;King Bloscar's finest from Earth! It's still [ffff00]sealed[-], and is very filling!\n\n[a3ff00]- [ffffff]60%[-] HUNGER[-]
 41;Snack;A sealed bag of chips, but it could be [ff0000]contaminated[-].\n\n[a3ff00]- [ffffff]30%[-] HUNGER[-]
-42;Spaghetti;A can of "Pastafarian" brand spaghetti. There is some sort of crazy pasta monster on the front of the can! It's [ffff00]seal[-] is still intact, so it's safe from contamination.\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
+42;Spaghetti;A can of "Pastafarian" brand spaghetti. There is some sort of crazy pasta monster on the front of the can! Its [ffff00]seal[-] is still intact, so it's safe from contamination.\n\n[a3ff00]- [ffffff]50%[-] HUNGER[-]
 43;Tomato;A tomato grown on Mars. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Lycopene[-] when processed.\n\n[a3ff00]- [ffffff]5%[-] HUNGER[-]\n[a3ff00]- [ffffff]5%[-] THIRST[-]
 44;Onion;An onion that was grown in the biosphere. It's probably [ff0000]contaminated[-].\n\nYields [ccccff]Quercetin[-] when processed\n\n[a3ff00]- [ffffff]2%[-] HUNGER[-]\n[a3ff00]- [ffffff]2%[-] THIRST[-]
 45;Keycard - Generator Room;Keycard for Central Control's generator room.
@@ -67,7 +67,7 @@
 66;Touch Tablet;Digital tablet that can be used with a stylus or finger. There's nothing of interest on it.
 67;Watch;A classic looking watch. Nothing fancy, though.
 68;PreMartianAttack_Repel;(System weapon for PreMartian)
-69;IFM-9 Plasma Launcher;This is an early prototype of a hybrid plasma weapon that was secretly being developed by Jonathan and Merrick for a client named "Sheridan". This weapon fires a ball of superheated plasma that encases a microscopic antimatter bolt. When the a bolt hits a target, it explodes, throwing the plasma is thrown around in all directions. It's extremely effective against biological matter.\n\nThis weapon is [ff0000]dangerous[-] in close-quarters combat!
+69;IFM-9 Plasma Launcher;This is an early prototype of a hybrid plasma weapon that was secretly being developed by Jonathan and Merrick for a client named "Sheridan". This weapon fires a ball of superheated plasma that encases a microscopic antimatter bolt. When the a bolt hits a target, it explodes, throwing the plasma around in all directions. It's extremely effective against biological matter.\n\nThis weapon is [ff0000]dangerous[-] in close-quarters combat!
 70;IFM-10B Plasma Launcher;This improved version boasts a larger area of effect, power and a longer effective range. It's a marvel of modern weapon technology, but there are a few things that could still be improved.\n\nThis weapon is [ff0000]dangerous[-] in close-quarters combat!
 71;RVGR-XU Plasma Launcher;This is the final version of the weapon "Sheridan" asked Jonathan and Merrick to design. It's extremely advanced and extremely destructive! A fitting weapon for Mars in a situation like this. Thankfully I don't have any demons to fight.\n\nThis weapon is [ff0000]dangerous[-] in close-quarters combat!
 72;Hacked Keycard - Class A;Single use keycard for hacking class A locks.
@@ -118,7 +118,7 @@
 117;Cue Chalk;A square of chalk for dusting cues with.
 118;Cleansing Cream;Cosmetics. My wife used to use this brand...
 119;Clinical Thermometer;Open wide!\n\nGuess again!
-120;Coil;It's a small coil with a manufacturer's mark: "Reynolds Industries"
+120;Coil;It's a small coil with a manufacturer's mark: "Reynolds Industries".
 121;Cue;A cue for billiards. It's a great weapon against humans, but not against mutants!
 122;Curling Iron;A small electronic iron for styling hair. I already got style, though!
 123;Cutting Board;If I knew how to cook, or had time to, I'd probably be all over this.
@@ -181,8 +181,8 @@
 180;VR Headset;A high tech VR headset. Ironically, this one has a zombie game installed on it.
 181;Thermos;A container for keeping liquids hot or cold, but I'll drink anything at any temperature.
 182;Tie;I'd wear this, but it would just be a choking hazard.
-183;Foundation;A cosmetic paste for evening skin tone. I look so pretty!
-184;Toothpaste;It doesn't taste very good. There's a huge warning on the back of the tube: "DO NOT INGEST"
+183;Foundation;A cosmetic paste to even out the skin tone. I look so pretty!
+184;Toothpaste;It doesn't taste very good. There's a huge warning on the back of the tube: "DO NOT INGEST".
 185;Electronic Toothbrush;This thing's pretty noisy! I'd probably attract mutants if I used it!
 186;Torn Doll;This thing is super creepy!
 187;Torn Pillow;Feathers are spilling out of it.
@@ -210,8 +210,8 @@
 209;Heatsink 'Loki' 80T;Heatsink for ranged weapon.
 210;Thermal Canister M;An improved, medium-sized thermal canister. It's lighter and has an increased capacity.\n\n[ffff00]Capacity:[-] [ffffff]60[-] units
 211;Heatsink 'Loki' 90F;Heatsink for ranged weapon.
-212;Heatsink 'Naglfar' M100;Heatsink  for ranged weapon.
-213;Heatsink 'Naglfar' G120;Heatsink  for ranged weapon.
+212;Heatsink 'Naglfar' M100;Heatsink for ranged weapon.
+213;Heatsink 'Naglfar' G120;Heatsink for ranged weapon.
 214;Power Pack L;Large portable energy pack. This thing holds a ton of power!\n\n[ffff00]Capacity:[-] [ffffff]1750[-]\n[ffff00]Shield Power:[-] [ffffff]70%[-]
 215;Power Pack M;A medium portable energy pack. It holds more energy and generates a better shield than a small power pack, but there's room for improvement.\n\n[ffff00]Capacity:[-] [ffffff]1250[-]\n[ffff00]Shield Power:[-] [ffffff]65%[-]
 216;Power Pack S;A small portable energy pack. It doesn't hold much, but you can't use ranged weapons or a shield without it!\n\n[ffff00]Capacity:[-] [ffffff]750[-]\n[ffff00]Shield Power:[-] [ffffff]60%[-]
@@ -233,7 +233,7 @@
 232;Shotgun Flux GT;Core part for a shotgun.
 233;Fist;Puny human fist.
 234;Hammer;An unused hammer. It's a decent weapon in a pinch.
-235;Crowbar;An iconic melee weapon for a free man. 
+235;Crowbar;An iconic melee weapon for a free man.
 236;Knife;A standard issue knife for MPO security.
 237;K 815;Randomly pre-combined ranged weapon.
 238;Wrench;A big monkey wrench for fixing plumbing problems. And mutants.
@@ -307,20 +307,20 @@
 306;Gadolinite Ore;A fairly rare ore. It's very valuable for making advanced equipment.\n\nYields [ccccff]Scandium[-] when refined.
 307;Xenotime Ore;A fairly rare ore. It's very valuable for making advanced equipment.\n\nYields [ccccff]Yttrium[-] when refined.
 308;Petalite Ore;One of the rarest materials on Mars. Petalite ore is refined for use in the most advanced armor and weaponry.\n\nYields [ccccff]Lithium[-] when refined.
-309;Cerium;A somewhat uncommon alloy processed from [ccccff]Monazite Ore[-]. It's fairly durable.
-310;Neodymium;A somewhat uncommon alloy processed from [ccccff]Bastnaesite Ore[-]. It's fairly durable.
-311;Scandium;An advanced alloy processed from [ccccff]Gadolinite Ore[-]. It's sought after even on Mars.
-312;Yttrium;An advanced alloy processed from [ccccff]Xenotime Ore[-]. It's sought after even on Mars.
+309;Cerium;A somewhat uncommon material processed from [ccccff]Monazite Ore[-]. It's fairly durable.
+310;Neodymium;A somewhat uncommon material processed from [ccccff]Bastnaesite Ore[-]. It's fairly durable.
+311;Scandium;An advanced material processed from [ccccff]Gadolinite Ore[-]. It's sought after even on Mars.
+312;Yttrium;An advanced material processed from [ccccff]Xenotime Ore[-]. It's sought after even on Mars.
 313;Lithium;An exotic and expensive material processed from [ccccff]Petalite Ore[-]. It's extremely durable and and light.
 314;Shotgun Flux GX2;Core part for a shotgun.
-315;Heatsink 'Naglfar' F350;Heatsink  for ranged weapon.
+315;Heatsink 'Naglfar' F350;Heatsink for ranged weapon.
 316;Heavy Baton;An improved security baton with a cudgel end. It's time to get medieval!
-317;Weighted Heavy Baton;A really bulky baton with a weighted head. 
+317;Weighted Heavy Baton;A really bulky baton with a weighted head.
 318;Electric Baton;This baton has a tazer head for dealing with unruly people. Hopefully it's just as effective on mutants!
 319;Heavy Electric Baton;An improved electric baton with a bigger tazer head.
 320;Laser Baton;A glowing baton that burns any flesh it comes in contact with. It does considerably more damage than most batons.
 321;Heavy Laser Baton;An improved laser baton that is brightly glowing orange. It sends enemies flying in addition to doing more damage.
-322;Double-Edged Knife;An improved knife with a double-edged blade. It's pretty sharp! 
+322;Double-Edged Knife;An improved knife with a double-edged blade. It's pretty sharp!
 323;Electric Knife;An electrified knife with a stunning effect.
 324;Laser Sword;Advanced prototype melee weapon that costs over two mill in parts alone!
 325;Electric Sword;An improved electric knife with extra reach.
@@ -370,8 +370,8 @@
 369;Level 2 Research Data Chip;A level [ffffff]2[-] data chip for research and repair facilities.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
 370;Level 3 Research Data Chip;A level [ffffff]3[-] data chip for research and repair facilities.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
 371;Level 4 Research Data Chip;A level [ffffff]4[-] data chip for research and repair facilities.\n\n[cc831c]Research[-] this data to gain the blueprint for a possible software upgrade.
-372;Emergency Medical Kit;A yellow medical kit with a lot of supplies for serious injuries.\n\n[a3ff00]+ [ffffff]60%[-] HEALTH[-]
-373;Complete Medical Kit;This green medical kit is like having a portable emergency room. It can treat the most grievous wounds.\n\n[a3ff00]+ [ffffff]80%[-] HEALTH[-]
+372;Emergency Medical Kit;A yellow medical kit with a lot of supplies for serious injuries.\n\n[a3ff00]+ [ffffff]50%[-] HEALTH[-]
+373;Complete Medical Kit;This green medical kit is like having a portable emergency room. It can treat the most grievous wounds.\n\n[a3ff00]+ [ffffff]60%[-] HEALTH[-]
 374;Improved Nanocasting Kit;A blue nanocasting kit that's more effective than a standard kit. It heals fractures faster than a standard nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Slow[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 375;Advanced Nanocasting Kit;An advanced nanocasting kit with a yellow color. It heals fractures much more quickly than a standard nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Moderate[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
 376;Ultra Nanocasting Kit;A very advanced green colored cast. It heals fractures much more quickly than any other nanocasting kit.\n\n[ffff00]Speed:[-] [ffffff]Fast[-]\n\n[ffff00]Effects:[-]\n[a3ff00]Heals Fractures[-]
@@ -489,7 +489,7 @@
 488;Confession Part 4;Log - Confession Part 4
 489;Purification;Log - Purification
 490;Keypass - Mansion Security Door;A keycard for the lab security doors in Murray's mansion.
-491;Keypass - Mansion Gate;A hefty keycard for the gate to Murray's mansion. 
+491;Keypass - Mansion Gate;A hefty keycard for the gate to Murray's mansion.
 492;Purification Filter;It's an experimental "purification" oxygen filter.\n\n[ffff00]Effects:[-]\n[a3ff00]Purification[-]
 493;Purification Regulator;It's an experimental "purification" temperature regulator.\n\n[ffff00]Effects:[-]\n[a3ff00]Purification[-]
 494;Purification Data;A blueprint containing data for manufacturing "purification" oxygen filters and temperature regulators.
