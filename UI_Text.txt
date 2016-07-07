@@ -90,6 +90,7 @@ setting_keyboard_getitem = GET ALL ITEMS
 setting_keyboard_dodge = DODGE
 setting_keyboard_zoom = ZOOM
 setting_keyboard_sprint = SPRINT
+setting_keyboard_sprint_toggle = SPRINT TOGGLE
 setting_keyboard_slot1 = SLOT 1
 setting_keyboard_slot2 = SLOT 2
 setting_keyboard_slot3 = SLOT 3
